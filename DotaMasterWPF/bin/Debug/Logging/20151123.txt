@@ -1,0 +1,129 @@
+﻿22:54:34.3664484 DbAbilities.GetAbilityInfo passed unhandled type: abBreak_Tether
+22:54:34.3824149 DbAbilities.GetAbilityInfo passed unhandled type: abChakram
+22:54:34.5500160 DbAbilities.GetAbilityInfo passed unhandled type: abWhirling_Axes__Ranged
+22:54:34.5510163 DbAbilities.GetAbilityInfo passed unhandled type: abActivate_Fire_Remnant
+22:54:34.5690738 DbAbilities.GetAbilityInfo passed unhandled type: abEthereal_Jaunt
+22:54:34.6636623 DbAbilities.GetAbilityInfo passed unhandled type: abUnrefined_Fireblast
+22:54:34.6786627 DbAbilities.GetAbilityInfo passed unhandled type: abBlinding_Light
+22:54:34.6846483 DbAbilities.GetAbilityInfo passed unhandled type: abRecall
+22:54:34.7442195 DbAbilities.GetAbilityInfo passed unhandled type: abConsume
+22:54:34.9945363 DbAbilities.GetAbilityInfo passed unhandled type: abReality
+22:54:35.1681851 DbAbilities.GetAbilityInfo passed unhandled type: abRelease
+22:54:35.2141721 DbAbilities.GetAbilityInfo passed unhandled type: abShadow_Poison_Release
+22:54:35.2351938 DbAbilities.GetAbilityInfo passed unhandled type: abUndying_Zombie_Deathlust
+22:54:35.2351938 DbAbilities.GetAbilityInfo passed unhandled type: abUndying_Zombie_Spell_Immunity
+22:54:35.2442800 DbAbilities.GetAbilityInfo passed unhandled type: abForged_Spirit_Melting_Strike
+22:54:35.3152748 DbAbilities.GetAbilityInfo passed unhandled type: abTornado_Tempest
+22:54:35.3162845 DbAbilities.GetAbilityInfo passed unhandled type: abPsionic_Trap_Trap
+22:54:35.3212554 DbAbilities.GetAbilityInfo passed unhandled type: abKobold_Foreman_Speed_Aura
+22:54:35.3223031 DbAbilities.GetAbilityInfo passed unhandled type: abHill_Troll_Priest_Heal
+22:54:35.3232561 DbAbilities.GetAbilityInfo passed unhandled type: abHill_Troll_Priest_Mana_Aura
+22:54:35.3242576 DbAbilities.GetAbilityInfo passed unhandled type: abVhoul_Assassin_Envenomed_Weapon
+22:54:35.3242576 DbAbilities.GetAbilityInfo passed unhandled type: abGhost_Frost_Attack
+22:54:35.3252557 DbAbilities.GetAbilityInfo passed unhandled type: abHarpy_Stormcrafter_Chain_Lightning
+22:54:35.3262533 DbAbilities.GetAbilityInfo passed unhandled type: abCentaur_Congeror_War_Stomp
+22:54:35.3262533 DbAbilities.GetAbilityInfo passed unhandled type: abGiant_Wolf_Critical_Strike
+22:54:35.3272565 DbAbilities.GetAbilityInfo passed unhandled type: abAlpha_Wolf_Critical_Strike
+22:54:35.3282563 DbAbilities.GetAbilityInfo passed unhandled type: abAlpha_Wolf_Packleaders_Aura
+22:54:35.3293039 DbAbilities.GetAbilityInfo passed unhandled type: abSatyr_Banisher_Purge
+22:54:35.3302553 DbAbilities.GetAbilityInfo passed unhandled type: abSatyr_Mindstealer_Mana_Burn
+22:54:35.3302553 DbAbilities.GetAbilityInfo passed unhandled type: abOgre_Frostmage_Ice_Armor
+22:54:35.3312562 DbAbilities.GetAbilityInfo passed unhandled type: abMud_Golem_Spell_Immunity
+22:54:35.3322599 DbAbilities.GetAbilityInfo passed unhandled type: abSatyr_Tormentor_Shockwave
+22:54:35.3332569 DbAbilities.GetAbilityInfo passed unhandled type: abHellbear_Smasher_Thunder_Clap
+22:54:35.3332569 DbAbilities.GetAbilityInfo passed unhandled type: abHellbear_Smasher_Swiftness_Aura
+22:54:35.3342930 DbAbilities.GetAbilityInfo passed unhandled type: abWildwing_Ripper_Tornado
+22:54:35.3352571 DbAbilities.GetAbilityInfo passed unhandled type: abWildwing_Ripper_Toughness_Aua
+22:54:35.3362783 DbAbilities.GetAbilityInfo passed unhandled type: abDark_Troll_Summoner_Ensnare
+22:54:35.3372990 DbAbilities.GetAbilityInfo passed unhandled type: abDark_Troll_Summoner_Raise_Dead
+22:54:35.3382581 DbAbilities.GetAbilityInfo passed unhandled type: abAncient_Black_Dragon_Splash_Attack
+22:54:35.3382581 DbAbilities.GetAbilityInfo passed unhandled type: abAncient_Black_Dragon_Spell_Immunity
+22:54:35.3392568 DbAbilities.GetAbilityInfo passed unhandled type: abAncient_Granite_Golem_Granite_Aura
+22:54:35.3403067 DbAbilities.GetAbilityInfo passed unhandled type: abAncient_Granite_Golem_Spell_Immunity
+22:54:35.3412916 DbAbilities.GetAbilityInfo passed unhandled type: abAncient_Rock_Golem_Spell_Immunity
+22:54:35.3412916 DbAbilities.GetAbilityInfo passed unhandled type: abAncient_Thunderhide_Slam
+22:54:35.3428040 DbAbilities.GetAbilityInfo passed unhandled type: abAncient_Thunderhide_Frenzy
+22:54:35.3437983 DbAbilities.GetAbilityInfo passed unhandled type: abAncient_Thunderhide_Spell_Immunity
+22:54:35.3443108 DbAbilities.GetAbilityInfo passed unhandled type: abAncient_Rumblehide_Spell_Immunity
+22:54:35.3452842 DbAbilities.GetAbilityInfo passed unhandled type: abRoshan_Spell_Block
+22:54:35.3462791 DbAbilities.GetAbilityInfo passed unhandled type: abRoshan_Bash
+22:54:35.3467669 DbAbilities.GetAbilityInfo passed unhandled type: abRoshan_Slam
+22:54:35.3477980 DbAbilities.GetAbilityInfo passed unhandled type: abRoshan_Strength_Of_The_Immortal
+22:54:35.3487868 DbAbilities.GetAbilityInfo passed unhandled type: abBuilding_Backdoor_Protection
+22:54:35.3497668 DbAbilities.GetAbilityInfo passed unhandled type: abBuilding_Glyph_of_Fortification
+22:54:36.2780253 Agility
+22:54:36.2920264 Agility
+22:54:36.3360286 Intelligence
+22:54:36.3535318 Intelligence
+22:54:36.3750440 Agility
+22:54:36.4090461 Strength
+22:54:36.4350475 Strength
+22:54:36.4620631 Agility
+22:54:36.4920643 Intelligence
+22:54:36.5300661 Strength
+22:54:36.5350646 GetFriendlyUnitName.untRandomUnit not implemented in helpers.getfriendlyunitname
+22:54:36.5350646 GetFriendlyUnitName.untRandomEnemyUnit not implemented in helpers.getfriendlyunitname
+22:54:36.5370675 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:54:57.6287204 BaseMovementSpeed not implemented in helpers.getgriendlymodifiername
+22:54:57.6302740 dTeam.GetDDObjectForID missing DDObject for ID: f0e4 f0e4: Ability_Info Instance: abIce_Vortex 
+22:54:57.6317517 dTeam.GetDDObjectForID missing DDObject for ID: 6800 6800: HeroInstance.NewuntAncient_Apparition dGame/AddHeroInstance 
+22:54:57.6332217 dTeam.GetDDObjectForID missing DDObject for ID: 9b54 9b54: Ability_Info Instance: abStone_Gaze 
+22:54:57.6347220 dTeam.GetDDObjectForID missing DDObject for ID: 15fb 15fb: HeroInstance.NewuntMedusa dGame/AddHeroInstance 
+22:54:57.6357559 dTeam.GetDDObjectForID missing DDObject for ID: 395c 395c: Ability_Info Instance: abSticky_Napalm 
+22:54:57.6372204 dTeam.GetDDObjectForID missing DDObject for ID: cedf cedf: HeroInstance.NewuntBatrider dGame/AddHeroInstance 
+22:54:57.6517340 BaseArmor not implemented in helpers.getgriendlymodifiername
+22:54:59.2115362 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:54:59.2125349 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:54:59.2135826 dTeam.GetDDObjectForID missing DDObject for ID: 15fb 15fb: HeroInstance.NewuntMedusa dGame/AddHeroInstance 
+22:54:59.2155448 dTeam.GetDDObjectForID missing DDObject for ID: 15fb 15fb: HeroInstance.NewuntMedusa dGame/AddHeroInstance 
+22:54:59.2166029 dTeam.GetDDObjectForID missing DDObject for ID: cedf cedf: HeroInstance.NewuntBatrider dGame/AddHeroInstance 
+22:54:59.2175477 dTeam.GetDDObjectForID missing DDObject for ID: cedf cedf: HeroInstance.NewuntBatrider dGame/AddHeroInstance 
+22:54:59.2185371 dTeam.GetDDObjectForID missing DDObject for ID: 6800 6800: HeroInstance.NewuntAncient_Apparition dGame/AddHeroInstance 
+22:54:59.2205356 dTeam.GetDDObjectForID missing DDObject for ID: 6800 6800: HeroInstance.NewuntAncient_Apparition dGame/AddHeroInstance 
+22:54:59.2215403 dTeam.GetDDObjectForID missing DDObject for ID: ef74 ef74: HeroInstance.NewuntVengeful_Spirit dGame/AddHeroInstance 
+22:54:59.2225357 dTeam.GetDDObjectForID missing DDObject for ID: ef74 ef74: HeroInstance.NewuntVengeful_Spirit dGame/AddHeroInstance 
+22:54:59.8326498 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:54:59.8336490 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:54:59.8346488 dTeam.GetDDObjectForID missing DDObject for ID: 15fb 15fb: HeroInstance.NewuntMedusa dGame/AddHeroInstance 
+22:54:59.8356492 dTeam.GetDDObjectForID missing DDObject for ID: 15fb 15fb: HeroInstance.NewuntMedusa dGame/AddHeroInstance 
+22:54:59.8361491 dTeam.GetDDObjectForID missing DDObject for ID: cedf cedf: HeroInstance.NewuntBatrider dGame/AddHeroInstance 
+22:54:59.8371676 dTeam.GetDDObjectForID missing DDObject for ID: cedf cedf: HeroInstance.NewuntBatrider dGame/AddHeroInstance 
+22:54:59.8381498 dTeam.GetDDObjectForID missing DDObject for ID: 6800 6800: HeroInstance.NewuntAncient_Apparition dGame/AddHeroInstance 
+22:54:59.8386519 dTeam.GetDDObjectForID missing DDObject for ID: 6800 6800: HeroInstance.NewuntAncient_Apparition dGame/AddHeroInstance 
+22:54:59.8396643 dTeam.GetDDObjectForID missing DDObject for ID: ef74 ef74: HeroInstance.NewuntVengeful_Spirit dGame/AddHeroInstance 
+22:54:59.8406504 dTeam.GetDDObjectForID missing DDObject for ID: ef74 ef74: HeroInstance.NewuntVengeful_Spirit dGame/AddHeroInstance 
+22:55:08.4633753 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:55:08.4649564 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:55:08.4659408 dTeam.GetDDObjectForID missing DDObject for ID: 15fb 15fb: HeroInstance.NewuntMedusa dGame/AddHeroInstance 
+22:55:08.4669483 dTeam.GetDDObjectForID missing DDObject for ID: 15fb 15fb: HeroInstance.NewuntMedusa dGame/AddHeroInstance 
+22:55:08.4679596 dTeam.GetDDObjectForID missing DDObject for ID: cedf cedf: HeroInstance.NewuntBatrider dGame/AddHeroInstance 
+22:55:08.4700076 dTeam.GetDDObjectForID missing DDObject for ID: cedf cedf: HeroInstance.NewuntBatrider dGame/AddHeroInstance 
+22:55:08.4709568 dTeam.GetDDObjectForID missing DDObject for ID: 6800 6800: HeroInstance.NewuntAncient_Apparition dGame/AddHeroInstance 
+22:55:08.4719379 dTeam.GetDDObjectForID missing DDObject for ID: 6800 6800: HeroInstance.NewuntAncient_Apparition dGame/AddHeroInstance 
+22:55:08.4729498 dTeam.GetDDObjectForID missing DDObject for ID: ef74 ef74: HeroInstance.NewuntVengeful_Spirit dGame/AddHeroInstance 
+22:55:08.4739562 dTeam.GetDDObjectForID missing DDObject for ID: ef74 ef74: HeroInstance.NewuntVengeful_Spirit dGame/AddHeroInstance 
+22:55:08.9908863 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:55:08.9919252 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:55:08.9939242 dTeam.GetDDObjectForID missing DDObject for ID: 15fb 15fb: HeroInstance.NewuntMedusa dGame/AddHeroInstance 
+22:55:08.9948861 dTeam.GetDDObjectForID missing DDObject for ID: 15fb 15fb: HeroInstance.NewuntMedusa dGame/AddHeroInstance 
+22:55:08.9969467 dTeam.GetDDObjectForID missing DDObject for ID: cedf cedf: HeroInstance.NewuntBatrider dGame/AddHeroInstance 
+22:55:08.9979377 dTeam.GetDDObjectForID missing DDObject for ID: cedf cedf: HeroInstance.NewuntBatrider dGame/AddHeroInstance 
+22:55:08.9988946 dTeam.GetDDObjectForID missing DDObject for ID: 6800 6800: HeroInstance.NewuntAncient_Apparition dGame/AddHeroInstance 
+22:55:09.0008865 dTeam.GetDDObjectForID missing DDObject for ID: 6800 6800: HeroInstance.NewuntAncient_Apparition dGame/AddHeroInstance 
+22:55:09.0018880 dTeam.GetDDObjectForID missing DDObject for ID: ef74 ef74: HeroInstance.NewuntVengeful_Spirit dGame/AddHeroInstance 
+22:55:09.0029411 dTeam.GetDDObjectForID missing DDObject for ID: ef74 ef74: HeroInstance.NewuntVengeful_Spirit dGame/AddHeroInstance 
+22:55:12.1566692 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:55:12.1581695 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:55:12.1596697 dTeam.GetDDObjectForID missing DDObject for ID: 15fb 15fb: HeroInstance.NewuntMedusa dGame/AddHeroInstance 
+22:55:12.1606695 dTeam.GetDDObjectForID missing DDObject for ID: 15fb 15fb: HeroInstance.NewuntMedusa dGame/AddHeroInstance 
+22:55:12.1616814 dTeam.GetDDObjectForID missing DDObject for ID: cedf cedf: HeroInstance.NewuntBatrider dGame/AddHeroInstance 
+22:55:12.1631701 dTeam.GetDDObjectForID missing DDObject for ID: cedf cedf: HeroInstance.NewuntBatrider dGame/AddHeroInstance 
+22:55:12.1641848 dTeam.GetDDObjectForID missing DDObject for ID: 6800 6800: HeroInstance.NewuntAncient_Apparition dGame/AddHeroInstance 
+22:55:12.1652181 dTeam.GetDDObjectForID missing DDObject for ID: 6800 6800: HeroInstance.NewuntAncient_Apparition dGame/AddHeroInstance 
+22:55:12.1667657 dTeam.GetDDObjectForID missing DDObject for ID: ef74 ef74: HeroInstance.NewuntVengeful_Spirit dGame/AddHeroInstance 
+22:55:12.1677094 dTeam.GetDDObjectForID missing DDObject for ID: ef74 ef74: HeroInstance.NewuntVengeful_Spirit dGame/AddHeroInstance 
+22:55:55.8824963 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:55:55.8839966 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:55:55.8859962 KillsPerGoldIncrement not implemented in helpers.getgriendlymodifiername
+22:55:55.8954982 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 
+22:55:55.8959970 dTeam.GetDDObjectForID missing DDObject for ID: 2290 2290: HeroInstance.NewuntViper dGame/AddHeroInstance 

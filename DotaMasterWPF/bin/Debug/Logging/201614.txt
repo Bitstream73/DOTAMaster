@@ -1,0 +1,18 @@
+﻿18:32:01.5292940 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+18:32:38.4375267 Value missing for: System.Guid.fc4388d4-0239-44ca-8e07-843f763aa48b
+18:33:27.5268616 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+18:33:44.6979296 Value missing for: System.Guid.d4487328-d0a4-453b-b875-14518edc13ed
+18:36:08.3247393 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+18:37:28.4483194 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+18:38:39.7871584 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+18:39:09.4349749 Value missing for: System.Guid.a2624595-97c2-4712-8b19-38d4da19783d
+18:39:14.6153282 Value missing for: System.Guid.27ea59f1-86c0-4027-97a4-fd404573142e
+18:39:14.6183182 Value missing for: System.Guid.351144ee-9f3b-48a1-871d-39bc263c0cc0
+19:30:41.8065583 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:31:00.5540757 Value missing for: System.Guid.8c711585-8608-4efe-ba7d-9d798f1f38f3
+19:34:58.6326356 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:35:14.0339886 Value missing for: System.Guid.b9e24646-b525-4729-b4e0-8dd4d3b52444
+19:43:09.7635475 Value missing for: System.Guid.f8602e32-801d-4b49-82da-f2783b97b36b
+19:43:22.8263910 Value missing for: System.Guid.9f789777-a4cb-4763-b11d-178722a1070f
+19:43:45.1955860 Value missing for: DotaMasterWPF.eModifierType.MissileSpeed
+19:47:19.5895148 Value missing for: System.Guid.36aefd92-23d0-4417-b869-b10bbff42117

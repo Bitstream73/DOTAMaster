@@ -1,0 +1,17 @@
+﻿<UserControl xmlns:DotaMasterWPF="clr-namespace:DotaMasterWPF"  x:Class="ctrlSummaryDual"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+  <Grid VerticalAlignment="Center">
+    <StackPanel>
+      <StackPanel x:Name="spnlSummaryAttribute" HorizontalAlignment="Center" Margin="0,0,0,25" />
+
+<DotaMasterWPF:ctrlSummary_Graph_Dual x:Name="grphSummary" />
+      <StackPanel x:Name="spnlSelectedAttribute" HorizontalAlignment="Center" Height="18" Margin="0,25,0,0"/>
+
+    </StackPanel>
+  </Grid>
+</UserControl>

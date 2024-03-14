@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="ctrlHScaleLabel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+            >
+  <Grid x:Name="LayoutRoot" Width="40" Height="16" VerticalAlignment="Bottom" >
+    <Grid.RowDefinitions  >
+      <RowDefinition/>
+
+    </Grid.RowDefinitions>
+
+
+    <Rectangle x:Name="rectBackground" Grid.Row="1" Stroke="white" StrokeThickness="1"/>
+    <Label x:Name="lblTime" Grid.Row="1" Height="16" VerticalAlignment="Center" Foreground="white" Content="00:00" Margin="0,0,0,2" Padding="0" HorizontalAlignment="Center"/>
+  </Grid>
+</UserControl>

@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="ctrlModDetails"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+           >
+  <Grid DockPanel.Dock="Left" Margin="0,0,0,5"  >
+    <!--MaxWidth="320">-->
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition x:Name="colOwner" Width="auto"  MinWidth="35"/>
+      <ColumnDefinition MinWidth="100"   />
+      <ColumnDefinition x:Name="colTarget" Width="auto" />
+    </Grid.ColumnDefinitions>
+    <Rectangle x:Name="rectNeutralColor" Fill="white" Grid.Column="1" Grid.ColumnSpan="1"/>
+    <Rectangle x:Name="rectBackground" Fill="Aqua" Grid.Column="1" Grid.ColumnSpan="1"/>
+
+    <!--Stripe Owner Layer-->
+    <Grid Grid.Column="0" HorizontalAlignment="Right">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition />
+        <ColumnDefinition Width="12"/>
+      </Grid.ColumnDefinitions>
+      <Rectangle x:Name="rectOwnerSwatch" Grid.Column="1" Fill="AliceBlue" />
+
+    </Grid>
+    <StackPanel  x:Name="spnlOwnerPortrait" Grid.Column="0"  HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+    <!--<Rectangle Fill="Yellow" Grid.Column="1" Width="100"/>-->
+    <DockPanel x:Name="spnlSourceNText" Grid.Column="1" Margin="10,0,10,0" VerticalAlignment="Center">
+      <!--Orientation="Horizontal">-->
+      <StackPanel x:Name="spnlSourcePortrait" VerticalAlignment="Center" HorizontalAlignment="Center" DockPanel.Dock="Left"></StackPanel>
+      <WrapPanel  Margin="10,0,0,0" VerticalAlignment="Center" x:Name="spnlModTexts" DockPanel.Dock="Left"></WrapPanel>
+    </DockPanel>
+
+    <Rectangle x:Name="rectTargetSwatch" Grid.Column="2" Fill="Crimson"/>
+
+    <DockPanel Grid.Column="2" Grid.ColumnSpan="1" VerticalAlignment="Center" LastChildFill="True" >
+      <Rectangle Fill="pink"/>
+      <StackPanel Margin="0" x:Name="spnlTargetPortrait"   VerticalAlignment="center" DockPanel.Dock="Left">
+        <!--<Rectangle Fill="AliceBlue"/>-->
+      </StackPanel>
+    </DockPanel>
+
+  </Grid>
+</UserControl>

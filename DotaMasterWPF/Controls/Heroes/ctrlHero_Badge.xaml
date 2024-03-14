@@ -1,0 +1,90 @@
+﻿<UserControl x:Class="ctrlHero_Badge"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+            >
+  <Grid x:Name="LayoutRoot" Width="330"  Margin="2">
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition x:Name="colRadSwatch" Width="16"/>
+      <ColumnDefinition x:Name="colGuts"/>
+      <ColumnDefinition x:Name="colDireSwatch" Width="16"/>
+    </Grid.ColumnDefinitions>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <!--0 Stash Row-->
+      <RowDefinition Height="Auto"/>
+      <!--1 Buff/Debuff Row-->
+      <RowDefinition Height="Auto" />
+      <!-- 2 Portrait Row-->
+      <RowDefinition Height="Auto"/>
+      <!--3 ability row-->
+      <RowDefinition Height="Auto"/>
+      <!-- 4 Dev Plusmiuns-->
+      <RowDefinition Height="Auto"/>
+      <!-- 5 DevDetails-->
+      <RowDefinition Height="Auto"/>
+      <!--6 plusminus row-->
+      <RowDefinition Height="Auto"/>
+      <!--7 Pet Heading-->
+      <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+   
+    <Rectangle x:Name="rectDireOwnerSwatch" Fill="red" Grid.Column="2" Grid.RowSpan="100"/>
+    <Rectangle x:Name="rectRadOwnerSwatch" Fill="Green" Grid.Column="0" Grid.RowSpan="100"/>
+    <StackPanel x:Name="spnlStashContainer" Orientation="Horizontal" Visibility="Collapsed" Grid.Row="0"  Grid.Column="1">
+      <Label x:Name="lblStash"  Content="Stash: "  HorizontalAlignment="left" VerticalAlignment="Center" Foreground="#FFD9D9D9" Padding="0" Margin="5,0,0,0" />
+      <StackPanel x:Name="spnlStash"   Orientation="Horizontal" Margin="5"></StackPanel>
+    </StackPanel>
+    <StackPanel x:Name="spnlBuffContainer" Orientation="Horizontal" Visibility="Collapsed" Grid.Row="1"  Grid.Column="1">
+
+
+      <Label  x:Name="lblBuffs" Content="Buffs/Debuffs: "  HorizontalAlignment="left" VerticalAlignment="Center" Foreground="#FFD9D9D9" Padding="0" Margin="5,0,0,0" />
+      <StackPanel x:Name="spnlBuffs" Orientation="Horizontal" Margin="5"></StackPanel>
+    </StackPanel>
+    <Grid Grid.Row="2" x:Name="grdPortraitStats" Grid.Column="1">
+      <StackPanel x:Name="spnlHeading" Margin="0,5,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal"></StackPanel>
+    </Grid>
+
+    <StackPanel x:Name="spnlItemsAbilities" Grid.Row="3"  Grid.Column="1" Orientation="vertical">
+      <WrapPanel x:Name="wpnlAbilities" Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center">
+      </WrapPanel>
+      <WrapPanel x:Name="wpnlItems" VerticalAlignment="Center" Grid.Row="1" HorizontalAlignment="Center" Orientation="Horizontal" >
+        <StackPanel x:Name="spnlCurrItemsRow1"  HorizontalAlignment="Center"  VerticalAlignment="Top" Orientation="Horizontal">
+          <Rectangle Fill="Purple"/>
+        </StackPanel>
+        <StackPanel x:Name="spnlCurrItemsRow2" HorizontalAlignment="Center" VerticalAlignment="Top" Orientation="Horizontal">
+          <Rectangle Fill="Orange"/>
+        </StackPanel>
+
+      </WrapPanel>
+  </StackPanel>
+
+    <DockPanel x:Name="dpnlDevPlusMinus" Grid.Row="4"  Grid.Column="1">
+
+      <Label x:Name="lblDevPlusMinus" Content="+" Padding="0" Margin="2" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FFD9D9D9" FontWeight="Bold" FontSize="14"/>
+      <Label  Content="devdetails" Padding="0" Margin="2" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FFD9D9D9"  FontSize="9"/>
+      <Rectangle x:Name="rectDevDividerMid" Height="1" Margin="5,0,10,0" Fill="#FF6E6E6E" HorizontalAlignment="Stretch" VerticalAlignment="Center"/>
+
+    </DockPanel>
+    <StackPanel x:Name="spnlDevDetails" Orientation="Vertical" Grid.Row="5"  Grid.Column="1">
+      <!--<sdk:Label Content="hello" Foreground="White" />-->
+    </StackPanel>
+    <DockPanel Grid.Row="6" x:Name="dpnlPlusMinus" Grid.Column="1">
+      <Label x:Name="lblPlusMinus" Content="+" Padding="0" Margin="2" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FFD9D9D9" FontWeight="Bold" FontSize="14"/>
+      <Label x:Name="lblDetails" Content="details" Padding="0" Margin="2" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FFD9D9D9"  FontSize="9"/>
+      <Rectangle x:Name="rectDividerMid" Height="1" Margin="5,0,10,0" Fill="#FF6E6E6E" HorizontalAlignment="Stretch" VerticalAlignment="Center"/>
+    </DockPanel>
+    <StackPanel x:Name="spnlPetHeading" Grid.Row="7"  Background="#3FFFFFFF" Margin="0,20,0,5" Grid.Column="1" >
+      <Label x:Name="lbletHeading"  Content="Pets/Summons/Illusions/Wards" Padding="0" Margin="2" VerticalAlignment="Center" HorizontalAlignment="Center"  Foreground="#FFD9D9D9"/>
+    </StackPanel>
+    <StackPanel x:Name="spnlPets" Grid.Row="8" Width="230" Height="auto" HorizontalAlignment="Center"  Grid.Column="1" >
+      <!--Background="AliceBlue">-->
+
+    </StackPanel>
+
+    <Rectangle x:Name="rectSelected" Stroke="Yellow" Grid.Row="0" Grid.Column="0" Grid.RowSpan="16" Grid.ColumnSpan="3" />
+
+  </Grid>
+</UserControl>

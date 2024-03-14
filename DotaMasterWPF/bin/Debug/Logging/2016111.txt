@@ -1,0 +1,139 @@
+﻿17:48:35.1233190 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+18:03:44.3900598 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+18:03:59.6297894 Value missing for: System.Guid.ef0001ca-850f-4694-99e5-d1fed50d32bc
+18:42:45.1865248 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+18:43:00.6067671 Value missing for: System.Guid.20a67616-2162-483c-84c2-e135bf8f2ba6
+18:43:04.8030972 Value missing for: System.Guid.c3ebcf13-ea2f-4650-a3e2-ab3a9857f747
+18:43:38.0503187 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+18:43:52.3040165 Value missing for: System.Guid.2e86b316-0ba6-4ec4-9137-07e6475f8003
+18:43:56.4702608 Value missing for: System.Guid.207c3cfa-ec30-4ca0-ab14-6370358543e1
+18:58:55.0437431 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+18:59:11.7190395 Value missing for: System.Guid.16f76fae-56f3-4c4f-8a32-0c17b7c3e4e3
+18:59:16.8515941 Value missing for: System.Guid.09e2c4a4-11b0-42ec-ab83-2e6832be9a21
+19:01:41.1139399 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:01:56.8621047 Value missing for: System.Guid.e6e15e09-a8ad-4f72-ad7c-0a757e2ecc4c
+19:02:00.6141560 Value missing for: System.Guid.eda6d360-6835-4075-b78b-ea51e1214a4e
+19:03:45.5322800 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:04:00.1999240 Value missing for: System.Guid.553ef801-19cb-406e-8876-13ac95244719
+19:04:04.4643567 Value missing for: System.Guid.27b9d405-c567-4f39-8f77-4b1fbe78c9b5
+19:06:33.2424458 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:06:51.9261421 Value missing for: System.Guid.ce91de25-fac8-4d4b-aff8-9b6c282f3d38
+19:06:55.8443536 Value missing for: System.Guid.cc01949b-138d-4a3f-a17f-b756f462e098
+19:10:07.1823902 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:10:23.0883338 Value missing for: System.Guid.1318e365-3ad8-45bf-a249-f6800e1158b2
+19:10:27.3681133 Value missing for: System.Guid.6cbac4ed-1ff6-4e92-a591-05a531dffe2c
+19:11:33.5622233 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:11:48.4317312 Value missing for: System.Guid.eead2187-9491-4e5f-8656-2e215ac2d94c
+19:11:52.0431923 Value missing for: System.Guid.c5f6857a-4886-4198-98e7-e0bd9a51ef71
+19:12:29.0849796 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:12:43.3901852 Value missing for: System.Guid.a7784374-b114-4a24-928b-1751e2dc2e4c
+19:12:47.7577637 Value missing for: System.Guid.a6fc53fa-6dad-4b79-9348-69f2b8aaa1b4
+19:13:59.4968381 Value missing for: System.Guid.4ef20b35-fff8-4f57-b894-81c9498fb890
+19:35:54.6242744 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:36:09.5319510 Value missing for: System.Guid.54e13993-5aa9-45c2-a2e4-02847127d3d8
+19:36:13.4111667 Value missing for: System.Guid.dcc5c970-df4e-4443-82ae-d12d5bd7b7dc
+19:37:25.1442816 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:37:41.3422981 Value missing for: System.Guid.54065ff8-b406-41cd-a0ef-3d1c3769a315
+19:37:45.3279175 Value missing for: System.Guid.fdfa6ea1-5701-45ec-817c-e0dddd7970c1
+19:38:55.0788067 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:39:10.6079057 Value missing for: System.Guid.38c4c341-b36e-4e6f-b1dc-ae658fbc2aee
+19:39:15.2837769 Value missing for: System.Guid.26407d33-7c5a-459e-a7c2-b78d2d890230
+20:02:41.8808425 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:02:55.9700152 Value missing for: System.Guid.7ef1b756-ee5c-420d-9f3f-2d46310ad7a8
+20:02:59.3691253 Value missing for: System.Guid.df0d2a9b-8f82-4bca-a704-fc06bd00b021
+20:03:40.1297464 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:03:59.6162889 Value missing for: System.Guid.c3abdbd0-21cc-4d05-971a-e6ed6ea92b72
+20:04:03.1381196 Value missing for: System.Guid.21b21daf-986b-4ad9-8b67-ad3ea4f757e4
+20:04:33.3267715 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:04:47.3332856 Value missing for: System.Guid.50cb4152-4be9-44c5-8268-3d00c54b19a0
+20:04:51.0894642 Value missing for: System.Guid.887e23e1-ed2b-4e62-a70b-3fa5ea282e12
+20:06:13.2175962 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:06:28.7164611 Value missing for: System.Guid.04e88ff3-8c65-4ea9-a71e-e46b5260667d
+20:06:33.1023995 Value missing for: System.Guid.55e6f9cb-c63f-4d78-95de-fe55d9de7515
+20:08:54.1228960 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:09:09.8963842 Value missing for: System.Guid.97b1dd50-c439-4f23-818c-54a798692e6d
+20:09:13.8345131 Value missing for: System.Guid.24ae45e9-fb55-4c79-9f86-b5603ab3e8d5
+20:11:23.0995579 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:11:39.9521504 Value missing for: System.Guid.2e5ef120-fb41-4e69-b664-636df0b9e5ac
+20:11:44.5657340 Value missing for: System.Guid.2fa759b2-f331-42b2-9cb0-0f73cfef832e
+20:15:07.4929085 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:15:24.4037694 Value missing for: System.Guid.2adcb734-236d-4eb8-92d0-b94e30a7180c
+20:15:29.1322803 Value missing for: System.Guid.809765c2-298e-400d-8a42-e08d468df57c
+20:17:20.7819426 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:17:36.8592909 Value missing for: System.Guid.e0aa3c5f-9433-46f0-907f-19140d324679
+20:17:40.9233530 Value missing for: System.Guid.2028b7ec-dec7-4d73-9f1b-727932831af6
+20:22:31.2758025 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:22:47.9787535 Value missing for: System.Guid.d90165cc-a1bb-4d81-8f8b-9e47779eecaa
+20:22:52.1210828 Value missing for: System.Guid.6c3c2456-1c30-4689-9812-6b982fe978d1
+20:26:12.5780363 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:26:29.7491691 Value missing for: System.Guid.6190de5b-7a10-4959-8ad4-8b253579fe2d
+20:26:33.5518039 Value missing for: System.Guid.8de27c78-9e52-4879-884e-5ef86186f5ad
+20:36:06.6986846 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:36:22.5925912 Value missing for: System.Guid.635dbce0-b55c-4d6e-aafd-3711e98d74e3
+20:36:31.7908193 Value missing for: System.Guid.9bef0a03-3984-471b-ae78-522c62e33c8d
+20:40:59.7192322 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:41:14.6390265 Value missing for: System.Guid.cd5b6cb0-ce3a-4c87-a1a8-37e0f79924c0
+20:41:18.6561864 Value missing for: System.Guid.91eafb1d-814a-4a0f-94af-25da6190e6ef
+20:52:56.4693499 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:53:12.2207094 Value missing for: System.Guid.fd5d9ffa-dd71-4c2c-ac2a-d70977bf7ced
+20:55:23.4771515 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:55:38.7196596 Value missing for: System.Guid.809f1664-0861-4a91-96d3-f91ecd61501e
+20:57:01.5271828 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+20:57:16.9797813 Value missing for: System.Guid.e1efb488-daf4-4aa3-95e6-df7d3e761f5f
+21:00:29.4345153 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+21:00:44.3379002 Value missing for: System.Guid.02fb9363-f307-4db4-afab-9ef6056136ad
+21:05:00.8241510 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+21:05:16.2867728 Value missing for: System.Guid.d5876765-f823-41e4-bd55-8e78e7a80c02
+21:07:18.2065067 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+21:07:35.5429267 Value missing for: System.Guid.5e5dfbf2-f9f4-48e3-bfca-4eaa9ea3ca69
+21:10:27.1063048 Value missing for: System.Guid.240e1ff4-6d38-4a16-a0c6-9ad30aa8d0b3
+21:56:31.2906329 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+21:56:47.0482942 Value missing for: System.Guid.e18abfea-ae86-4906-8b99-a2bd68641fe9
+21:56:52.2961857 Value missing for: System.Guid.df9ae0bb-76fc-4a89-81f6-aa05655bd659
+21:57:26.9228520 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+21:57:42.6475325 Value missing for: System.Guid.c9b5a3be-33d3-4b8a-822d-64a012aaadd0
+21:57:46.8928447 Value missing for: System.Guid.87a7f9e9-8d0b-4795-9491-01c2757b9c61
+21:58:45.3501095 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+21:59:00.7364082 Value missing for: System.Guid.cf6426f8-e6c7-4628-a2bf-83222f94a255
+21:59:04.6478696 Value missing for: System.Guid.567dd42b-f622-44f0-9b90-5788056d2570
+22:00:22.0076394 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:00:37.2395506 Value missing for: System.Guid.c77d801d-8bb2-4db5-a3aa-3f58ca1c33cd
+22:00:40.9577494 Value missing for: System.Guid.f235c95d-9dcb-4604-bc90-436b65257077
+22:02:10.2605090 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:02:55.9962027 Value missing for: System.Guid.9fb025d4-d1c5-4096-8eec-41411d4f003f
+22:03:04.3657758 Value missing for: System.Guid.2e3c016f-25d6-4121-a66d-a8a70b5572ba
+22:05:07.4119801 Value missing for: System.Guid.a9840364-d78b-4954-b7b2-8de4de90ffcc
+22:08:41.8235306 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:08:56.1790059 Value missing for: System.Guid.1ccfd381-2bfc-4b32-a882-13348ee3acda
+22:09:03.4794134 Value missing for: System.Guid.6cc9e090-36f1-456f-8942-c5354f171ab5
+22:12:24.5145599 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:12:44.7249770 Value missing for: System.Guid.5d17fd8f-6782-4f59-836b-5d32e0bf76af
+22:12:49.8311947 Value missing for: System.Guid.6a391beb-320c-4ab8-be5f-c2fef12274b7
+22:40:25.5746362 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:40:47.1890695 Value missing for: System.Guid.7b47e161-e082-4665-96bc-15821d546ab7
+22:40:58.5541028 Value missing for: System.Guid.7cf24d5a-fefd-4f7d-be05-b975a6767a61
+22:41:28.0122690 Value missing for: System.Guid.a22cccd7-1f11-4362-9263-6032490138a3
+22:41:28.0173345 Value missing for: System.Guid.ef989f8f-1a9b-49f0-9c60-6b6bbbce7d36
+22:44:04.4181303 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:44:22.4836338 Value missing for: System.Guid.bb7b25a7-7fcc-438c-8316-91892cda8aed
+22:44:29.2722934 Value missing for: System.Guid.b55ada26-b29c-49a3-a701-364c597e4b90
+22:45:13.3925347 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:45:45.7617619 Value missing for: System.Guid.3c19808d-a68c-4c61-accd-50bd1b0c49d1
+22:45:50.7604663 Value missing for: System.Guid.6feca34d-bbd3-4aca-a994-64347d4dbc47
+22:47:28.7540308 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:47:48.0447274 Value missing for: System.Guid.77de2c92-c116-44a6-9259-5991b318acde
+22:48:30.2454318 Value missing for: System.Guid.aad505f1-3384-43f7-aaec-87934e3e3157
+22:48:30.2489438 Value missing for: System.Guid.ef8b707a-e3ae-416a-b112-fa13fb5a76cc
+22:48:37.3605224 Value missing for: System.Guid.c009fbbc-dd92-4e0d-a806-7d0b1d351b07
+22:52:23.8297818 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:52:39.8759659 Value missing for: System.Guid.3dd56bb9-2d42-4a7f-a9a4-9f35bc83cbfe
+22:52:44.2569382 Value missing for: System.Guid.7e6b22da-dd67-4638-92bc-6820926c669e
+22:54:57.9700200 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:55:20.9835560 Value missing for: System.Guid.65949adf-d3d2-4234-aad9-54bc2ef52b23
+22:55:57.6182358 Value missing for: System.Guid.502c81b0-2e61-4ffc-a241-99a981ff88df
+22:57:16.9352880 Value missing for: System.Guid.f7cc688a-e68a-4ad9-b487-f3a7066ab2ac
+22:58:44.5126622 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:59:01.5534850 Value missing for: System.Guid.e268139b-4e80-4ada-9e50-da63f373535a
+23:00:50.8620391 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+23:03:16.5330185 Value missing for: System.Guid.8d4dea11-5f0a-4fd9-b3df-5ed2bae7610e
+23:03:20.7516460 Value missing for: System.Guid.4248432f-fcb8-4fa7-9060-37cbce5878ac

@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="ctrlIconStatLabel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+            >
+  <Grid x:Name="LayoutRoot"   >
+    <!--<Rectangle Fill="Blue"/>-->
+    <StackPanel Orientation="Horizontal">
+      <Grid>
+
+        <Image x:Name="ThumbImage" Source="/Assets/primaryoverviewicon_agi.png" Grid.Column="1" Width="18" Height="18"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="2" />
+      </Grid>
+
+      <Label x:Name="lblStatName" Content="TheName" Padding="0" Margin="5,2,0,2" Height="18" VerticalContentAlignment="Center"/>
+      <Label Name="lblStatValue"  Content="TheValue" Padding="0" Margin="2" Height="18" VerticalContentAlignment="Center" />
+
+    </StackPanel>
+
+  </Grid>
+</UserControl>

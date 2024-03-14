@@ -1,0 +1,1632 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E52B9067-12B8-4FAD-B1E7-0947E17D8854}</ProjectGuid>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DotaMasterWPF</RootNamespace>
+    <AssemblyName>DotaMasterWPF</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <IncrementalBuild>true</IncrementalBuild>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DotaMasterWPF.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42314</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <IncrementalBuild>false</IncrementalBuild>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DotaMasterWPF.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42314</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>95C9F154FA391748C846DFBF623F956889B95E95</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>DotaMasterWPF_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationFramework.Aero2" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="Application.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Abilities_Architecture\Creep_Ability_Inventory.vb" />
+    <Compile Include="Abilities_Architecture\Hero_Ability_Inventory.vb" />
+    <Compile Include="Bundles\PetBundle.vb" />
+    <Compile Include="Bundles\PetBundles.vb" />
+    <Compile Include="Constants.vb" />
+    <Compile Include="Controls Architecture\Controls_Database.vb" />
+    <Compile Include="Controls\Abilities\ctrlAbilityThumbSimple2.xaml.vb">
+      <DependentUpon>ctrlAbilityThumbSimple2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Abilities\ctrlAbility_List_Item.xaml.vb">
+      <DependentUpon>ctrlAbility_List_Item.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Abilities\ctrlAbility_Thumb_Picker.xaml.vb">
+      <DependentUpon>ctrlAbility_Thumb_Picker.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Abilities\ctrlAbility_Tooltip.xaml.vb">
+      <DependentUpon>ctrlAbility_Tooltip.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Abilities\ctrlAbilityThumb.xaml.vb">
+      <DependentUpon>ctrlAbilityThumb.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Appearance\ctrlBadgeAppearance.xaml.vb">
+      <DependentUpon>ctrlBadgeAppearance.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Bar Graph\ctrlBar.xaml.vb">
+      <DependentUpon>ctrlBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Bar Graph\ctrlBargraph_Panes_Fixedwidth.xaml.vb">
+      <DependentUpon>ctrlBargraph_Panes_Fixedwidth.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Bar Graph\ctrlBar_Type.xaml.vb">
+      <DependentUpon>ctrlBar_Type.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Bar Graph\ctrlChart_Type.xaml.vb">
+      <DependentUpon>ctrlChart_Type.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Bar Graph\ctrlGraphPane.xaml.vb">
+      <DependentUpon>ctrlGraphPane.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Bar Graph\ctrlHScale.xaml.vb">
+      <DependentUpon>ctrlHScale.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Bar Graph\ctrlHScaleLabel.xaml.vb">
+      <DependentUpon>ctrlHScaleLabel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Bar Graph\ctrlVScale.xaml.vb">
+      <DependentUpon>ctrlVScale.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Bar Graph\ctrlVScaleLabel.xaml.vb">
+      <DependentUpon>ctrlVScaleLabel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Labels\ctrlSwatchDataItemLabel.xaml.vb">
+      <DependentUpon>ctrlSwatchDataItemLabel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Summary Panel\ctrlSelectedDataitemDualViewer.xaml.vb">
+      <DependentUpon>ctrlSelectedDataitemDualViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Summary Panel\ctrlSelectedDataitemViewer.xaml.vb">
+      <DependentUpon>ctrlSelectedDataitemViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Summary Panel\ctrlSummaryBarDual.xaml.vb">
+      <DependentUpon>ctrlSummaryBarDual.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Summary Panel\ctrlSummary.xaml.vb">
+      <DependentUpon>ctrlSummary.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Summary Panel\ctrlSummaryBar.xaml.vb">
+      <DependentUpon>ctrlSummaryBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Summary Panel\ctrlSummaryDual.xaml.vb">
+      <DependentUpon>ctrlSummaryDual.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Summary Panel\ctrlSummary_Graph.xaml.vb">
+      <DependentUpon>ctrlSummary_Graph.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Summary Panel\ctrlSummary_Graph_Dual.xaml.vb">
+      <DependentUpon>ctrlSummary_Graph_Dual.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Buttons\btnMinimalClick.xaml.vb">
+      <DependentUpon>btnMinimalClick.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Buttons\btnMinimalState.xaml.vb">
+      <DependentUpon>btnMinimalState.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Creeps\ctrlPetStack.xaml.vb">
+      <DependentUpon>ctrlPetStack.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Creeps\ctrlPetSummary.xaml.vb">
+      <DependentUpon>ctrlPetSummary.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Creeps\ctrlPet_Badge.xaml.vb">
+      <DependentUpon>ctrlPet_Badge.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctrlBody_Paragraph.xaml.vb">
+      <DependentUpon>ctrlBody_Paragraph.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctrlSubHeading.xaml.vb">
+      <DependentUpon>ctrlSubHeading.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctrlImageThumb.xaml.vb">
+      <DependentUpon>ctrlImageThumb.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctrlTooltip.xaml.vb">
+      <DependentUpon>ctrlTooltip.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctrlVerticalSpacer.xaml.vb">
+      <DependentUpon>ctrlVerticalSpacer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DataItem Views\ctrlDataItemViewHorizontal.xaml.vb">
+      <DependentUpon>ctrlDataItemViewHorizontal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Details\ctrlAbility_Details.xaml.vb">
+      <DependentUpon>ctrlAbility_Details.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Details\ctrlDetailsHandler.xaml.vb">
+      <DependentUpon>ctrlDetailsHandler.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Details\ctrlHerovHeroDetails.xaml.vb">
+      <DependentUpon>ctrlHerovHeroDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Details\ctrlHero_Details.xaml.vb">
+      <DependentUpon>ctrlHero_Details.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Details\ctrlItem_Details.xaml.vb">
+      <DependentUpon>ctrlItem_Details.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Details\ctrlModifierDetails.xaml.vb">
+      <DependentUpon>ctrlModifierDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Details\ctrlStat_Details.xaml.vb">
+      <DependentUpon>ctrlStat_Details.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Details\ctrlTeamvTeamDetails.xaml.vb">
+      <DependentUpon>ctrlTeamvTeamDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Details\ctrlTeam_Details.xaml.vb">
+      <DependentUpon>ctrlTeam_Details.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Heroes\ctrlBuild_List_Item.xaml.vb">
+      <DependentUpon>ctrlBuild_List_Item.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Heroes\ctrlHero_Badge.xaml.vb">
+      <DependentUpon>ctrlHero_Badge.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Heroes\ctrlHero_List_Item.xaml.vb">
+      <DependentUpon>ctrlHero_List_Item.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Heroes\ctrlHero_Menu.xaml.vb">
+      <DependentUpon>ctrlHero_Menu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Heroes\ctrlHero_Menu_Item.xaml.vb">
+      <DependentUpon>ctrlHero_Menu_Item.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Heroes\ctrlHero_Thumb.xaml.vb">
+      <DependentUpon>ctrlHero_Thumb.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Heroes\ctrlHero_Tooltip.xaml.vb">
+      <DependentUpon>ctrlHero_Tooltip.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Heroes\ctrlStatBadge.xaml.vb">
+      <DependentUpon>ctrlStatBadge.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Heroes\ctrlUnit_Menu_Item_Name.xaml.vb">
+      <DependentUpon>ctrlUnit_Menu_Item_Name.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Items\ctrlItemThumbPicker_Tootip.xaml.vb">
+      <DependentUpon>ctrlItemThumbPicker_Tootip.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Items\ctrlitem_List_Item.xaml.vb">
+      <DependentUpon>ctrlitem_List_Item.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Items\ctrlItem_Menu.xaml.vb">
+      <DependentUpon>ctrlItem_Menu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Items\ctrlItem_MenuItem.xaml.vb">
+      <DependentUpon>ctrlItem_MenuItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Items\ctrlItem_MenuPage.xaml.vb">
+      <DependentUpon>ctrlItem_MenuPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Items\ctrlItem_Thumb.xaml.vb">
+      <DependentUpon>ctrlItem_Thumb.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Items\ctrlItem_Thumb_Picker_3.xaml.vb">
+      <DependentUpon>ctrlItem_Thumb_Picker_3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Items\ctrlItem_Thumb_Stash.xaml.vb">
+      <DependentUpon>ctrlItem_Thumb_Stash.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Items\ctrlItem_Tooltip.xaml.vb">
+      <DependentUpon>ctrlItem_Tooltip.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Items\ctrlItem_Tooltip_Icon.xaml.vb">
+      <DependentUpon>ctrlItem_Tooltip_Icon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Labels\ctrlHeadingLabel.xaml.vb">
+      <DependentUpon>ctrlHeadingLabel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Labels\ctrlIconStatLabel.xaml.vb">
+      <DependentUpon>ctrlIconStatLabel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Labels\ctrlSwacthDataitemLabelDual.xaml.vb">
+      <DependentUpon>ctrlSwacthDataitemLabelDual.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Labels\ctrlModTinyDetailsLabel.xaml.vb">
+      <DependentUpon>ctrlModTinyDetailsLabel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Labels\ctrlStatLabel.xaml.vb">
+      <DependentUpon>ctrlStatLabel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Labels\ctrlSwatchMinimalLarge.xaml.vb">
+      <DependentUpon>ctrlSwatchMinimalLarge.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Labels\ctrlSwatchMinimalSmall.xaml.vb">
+      <DependentUpon>ctrlSwatchMinimalSmall.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Labels\ctrlSwatchRoundMinimalLarge.xaml.vb">
+      <DependentUpon>ctrlSwatchRoundMinimalLarge.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Labels\ctrlSwatchRoundMinimalSmall.xaml.vb">
+      <DependentUpon>ctrlSwatchRoundMinimalSmall.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LayoutElements\ctrlHorizontalLine.xaml.vb">
+      <DependentUpon>ctrlHorizontalLine.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LoadingScreen.xaml.vb">
+      <DependentUpon>LoadingScreen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Modifiers\ctrlModText.xaml.vb">
+      <DependentUpon>ctrlModText.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Navigation\ctrlNavigationBar.xaml.vb">
+      <DependentUpon>ctrlNavigationBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Navigation\ctrlNavigation_Menu_Item.xaml.vb">
+      <DependentUpon>ctrlNavigation_Menu_Item.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Targetting\ctrlTargetBadge.xaml.vb">
+      <DependentUpon>ctrlTargetBadge.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Targetting\ctrlTarget_Menu_Item.xaml.vb">
+      <DependentUpon>ctrlTarget_Menu_Item.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TeamvsTeam.xaml.vb">
+      <DependentUpon>TeamvsTeam.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Time\ctrlTime_Display_Horizontal.xaml.vb">
+      <DependentUpon>ctrlTime_Display_Horizontal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Tooltips\ctrlText_Tooltip.xaml.vb">
+      <DependentUpon>ctrlText_Tooltip.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Creep Architecture\Creep_Instance.vb" />
+    <Compile Include="Creep Architecture\Pet.vb" />
+    <Compile Include="Creep Architecture\PetStack.vb" />
+    <Compile Include="Creep Architecture\Pet_Info.vb" />
+    <Compile Include="Creep Architecture\Pet_Instance.vb" />
+    <Compile Include="DataTypes\EmptyTarget.vb" />
+    <Compile Include="DataTypes\GameEntity_Tuple.vb" />
+    <Compile Include="DataTypes\Graph_Preferences.vb" />
+    <Compile Include="DataTypes\ManyToManyDoubleDictionary.vb" />
+    <Compile Include="DataTypes\OneToOneDoubleDictionary.vb" />
+    <Compile Include="DataTypes\TargetsInfo.vb" />
+    <Compile Include="dvID.vb" />
+    <Compile Include="Enums.vb" />
+    <Compile Include="FriendlyName_Architecture\FriendlyName_Database.vb" />
+    <Compile Include="Game_Architecture\GameEntityFactory.vb" />
+    <Compile Include="Graph_Architecture\BarData.vb" />
+    <Compile Include="Graph_Architecture\BarDataList.vb" />
+    <Compile Include="Graph_Architecture\GraphDataFactory.vb" />
+    <Compile Include="Helpers.vb" />
+    <Compile Include="Heroes_Architecture\HeroInstance.vb" />
+    <Compile Include="Heroes_Architecture\HeroInstanceFactory.vb" />
+    <Compile Include="Heroes_Architecture\HeroStatPackage.vb" />
+    <Compile Include="iControlIO.vb" />
+    <Compile Include="Image_Architecture\Image_Database.vb" />
+    <Compile Include="Interfaces\iAbility.vb" />
+    <Compile Include="Interfaces\iAbility_Info.vb" />
+    <Compile Include="Interfaces\iAbility_Inventory.vb" />
+    <Compile Include="Interfaces\iCreepUnit.vb" />
+    <Compile Include="Interfaces\iCreepUnit_Stack.vb" />
+    <Compile Include="Interfaces\iCreep_Ability_Inventory.vb" />
+    <Compile Include="Interfaces\iDataItem.vb" />
+    <Compile Include="Interfaces\iDetails.vb" />
+    <Compile Include="Interfaces\iDisplayUnit.vb" />
+    <Compile Include="Interfaces\iDoubleDictionary.vb" />
+    <Compile Include="Interfaces\iformula.vb" />
+    <Compile Include="Interfaces\iGameEntity.vb" />
+    <Compile Include="Interfaces\iGraphable.vb" />
+    <Compile Include="Interfaces\iHeroUnit.vb" />
+    <Compile Include="Interfaces\iItem.vb" />
+    <Compile Include="Interfaces\iItem_Inventory.vb" />
+    <Compile Include="Interfaces\iLogging.vb" />
+    <Compile Include="Interfaces\iManyToManyStore.vb" />
+    <Compile Include="Interfaces\iOneToOneStore.vb" />
+    <Compile Include="Interfaces\iPetUnit.vb" />
+    <Compile Include="Interfaces\iPetUnit_Stack.vb" />
+    <Compile Include="Interfaces\iPlayerUnit.vb" />
+    <Compile Include="Interfaces\iHero_Ability_Inventory.vb" />
+    <Compile Include="Interfaces\iUnit_Stack.vb" />
+    <Compile Include="Interfaces\iUnit.vb" />
+    <Compile Include="Interfaces\IUnitUpgrade.vb" />
+    <Compile Include="Items\itmRecipe_Linkens_Sphere.vb" />
+    <Compile Include="Items_Architecture\Pet_Item_Inventory.vb" />
+    <Compile Include="Logging.vb" />
+    <Compile Include="ModFilters.vb" />
+    <Compile Include="Notes.vb" />
+    <Compile Include="Pets\Meepo_Clone.vb" />
+    <Compile Include="Settings.vb" />
+    <Compile Include="Stat Architecture\Formula.vb" />
+    <Compile Include="Stat Architecture\FormulaElement.vb" />
+    <Compile Include="Stat Architecture\Formula_Database.vb" />
+    <Compile Include="Stat Architecture\Stat.vb" />
+    <Compile Include="Stat Architecture\StatCalc.vb" />
+    <Compile Include="Stat Architecture\Stat_Package_Factory.vb" />
+    <Compile Include="Teams Architecture\dTeam.vb" />
+    <Compile Include="Teams Architecture\TeamStatPackage.vb" />
+    <Compile Include="Time Architecture\Lifetime.vb" />
+    <Compile Include="Time Architecture\TimeKeeper.vb" />
+    <Page Include="Controls\Abilities\ctrlAbilityThumbSimple2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Abilities\ctrlAbility_List_Item.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Abilities\ctrlAbility_Thumb_Picker.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Abilities\ctrlAbility_Tooltip.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Abilities\ctrlAbilityThumb.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Appearance\ctrlBadgeAppearance.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Bar Graph\ctrlBar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Bar Graph\ctrlBargraph_Panes_Fixedwidth.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Bar Graph\ctrlBar_Type.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Bar Graph\ctrlChart_Type.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Bar Graph\ctrlGraphPane.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Bar Graph\ctrlHScale.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Bar Graph\ctrlHScaleLabel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Bar Graph\ctrlVScale.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Bar Graph\ctrlVScaleLabel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Labels\ctrlSwatchDataItemLabel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Summary Panel\ctrlSelectedDataitemDualViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Summary Panel\ctrlSelectedDataitemViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Summary Panel\ctrlSummaryBarDual.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Summary Panel\ctrlSummary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Summary Panel\ctrlSummaryBar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Summary Panel\ctrlSummaryDual.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Summary Panel\ctrlSummary_Graph.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Summary Panel\ctrlSummary_Graph_Dual.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Buttons\btnMinimalClick.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Buttons\btnMinimalState.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Creeps\ctrlPetStack.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Creeps\ctrlPetSummary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Creeps\ctrlPet_Badge.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\ctrlBody_Paragraph.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\ctrlSubHeading.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\ctrlImageThumb.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\ctrlTooltip.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\ctrlVerticalSpacer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\DataItem Views\ctrlDataItemViewHorizontal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Details\ctrlAbility_Details.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Details\ctrlDetailsHandler.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Details\ctrlHerovHeroDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Details\ctrlHero_Details.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Details\ctrlItem_Details.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Details\ctrlModifierDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Details\ctrlStat_Details.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Details\ctrlTeamvTeamDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Details\ctrlTeam_Details.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Heroes\ctrlBuild_List_Item.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Heroes\ctrlHero_Badge.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Heroes\ctrlHero_List_Item.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Heroes\ctrlHero_Menu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Heroes\ctrlHero_Menu_Item.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Heroes\ctrlHero_Thumb.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Heroes\ctrlHero_Tooltip.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Heroes\ctrlStatBadge.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Heroes\ctrlUnit_Menu_Item_Name.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Items\ctrlItemThumbPicker_Tootip.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Items\ctrlitem_List_Item.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Items\ctrlItem_Menu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Items\ctrlItem_MenuItem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Items\ctrlItem_MenuPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Items\ctrlItem_Thumb.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Items\ctrlItem_Thumb_Picker_3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Items\ctrlItem_Thumb_Stash.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Items\ctrlItem_Tooltip.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Items\ctrlItem_Tooltip_Icon.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Labels\ctrlHeadingLabel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Labels\ctrlIconStatLabel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Labels\ctrlSwacthDataitemLabelDual.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Labels\ctrlModTinyDetailsLabel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Labels\ctrlStatLabel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Labels\ctrlSwatchMinimalLarge.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Labels\ctrlSwatchMinimalSmall.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Labels\ctrlSwatchRoundMinimalLarge.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Labels\ctrlSwatchRoundMinimalSmall.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\LayoutElements\ctrlHorizontalLine.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\LoadingScreen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Modifiers\ctrlModText.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Navigation\ctrlNavigationBar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Navigation\ctrlNavigation_Menu_Item.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Targetting\ctrlTargetBadge.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Targetting\ctrlTarget_Menu_Item.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\TeamvsTeam.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Time\ctrlTime_Display_Horizontal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Tooltips\ctrlText_Tooltip.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageHandler.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="Abilities\abAbaddon_Aphotic_Shield.vb" />
+    <Compile Include="Abilities\abAbaddon_Borrowed_Time.vb" />
+    <Compile Include="Abilities\abAbaddon_Curse_Of_Avernus.vb" />
+    <Compile Include="Abilities\abAbaddon_Mist_Coil.vb" />
+    <Compile Include="Abilities\abAlchemist_Acid_Spray.vb" />
+    <Compile Include="Abilities\abAlchemist_Chemical_Rage.vb" />
+    <Compile Include="Abilities\abAlchemist_Greevils_Greed.vb" />
+    <Compile Include="Abilities\abAlchemist_Unstable_Concoction.vb" />
+    <Compile Include="Abilities\abAlpha_Wolf_Critical_Strike.vb" />
+    <Compile Include="Abilities\abAlpha_Wolf_Packleaders_Aura.vb" />
+    <Compile Include="Abilities\abAncient_Apparition_Chilling_Touch.vb" />
+    <Compile Include="Abilities\abAncient_Apparition_Cold_Feet.vb" />
+    <Compile Include="Abilities\abAncient_Apparition_Ice_Blast.vb" />
+    <Compile Include="Abilities\abAncient_Apparition_Ice_Vortex.vb" />
+    <Compile Include="Abilities\abAncient_Black_Dragon_Spell_Immunity.vb" />
+    <Compile Include="Abilities\abAncient_Black_Dragon_Splash_Attack.vb" />
+    <Compile Include="Abilities\abAncient_Granite_Golem_Granite_Aura.vb" />
+    <Compile Include="Abilities\abAncient_Granite_Golem_Spell_Immunity.vb" />
+    <Compile Include="Abilities\abAncient_Rock_Golem_Spell_Immunity.vb" />
+    <Compile Include="Abilities\abAncient_Rumblehide_Spell_Immunity.vb" />
+    <Compile Include="Abilities\abAncient_Thunderhide_Frenzy.vb" />
+    <Compile Include="Abilities\abAncient_Thunderhide_Slam.vb" />
+    <Compile Include="Abilities\abAncient_Thunderhide_Spell_Immunity.vb" />
+    <Compile Include="Abilities\abAntiMage_Blink.vb" />
+    <Compile Include="Abilities\abAntiMage_Mana_Break.vb" />
+    <Compile Include="Abilities\abAntiMage_Mana_Void.vb" />
+    <Compile Include="Abilities\abAntiMage_Spell_Shield.vb" />
+    <Compile Include="Abilities\abAxe_Battle_Hunger.vb" />
+    <Compile Include="Abilities\abAxe_Berserkers_Call.vb" />
+    <Compile Include="Abilities\abAxe_Counter_Helix.vb" />
+    <Compile Include="Abilities\abAxe_Culling_Blade.vb" />
+    <Compile Include="Abilities\abBane_Brain_Sap.vb" />
+    <Compile Include="Abilities\abBane_Enfeeble.vb" />
+    <Compile Include="Abilities\abBane_Fiends_Grip.vb" />
+    <Compile Include="Abilities\abBane_Nightmare.vb" />
+    <Compile Include="Abilities\abBatrider_Firefly.vb" />
+    <Compile Include="Abilities\abBatrider_Flamebreak.vb" />
+    <Compile Include="Abilities\abBatrider_Flaming_Lasso.vb" />
+    <Compile Include="Abilities\abBatrider_Sticky_Napalm.vb" />
+    <Compile Include="Abilities\abBeastmaster_Call_Of_The_Wild.vb" />
+    <Compile Include="Abilities\abBeastmaster_Inner_Beast.vb" />
+    <Compile Include="Abilities\abBeastmaster_Primal_Roar.vb" />
+    <Compile Include="Abilities\abBeastmaster_Wild_Axes.vb" />
+    <Compile Include="Abilities\abBloodseeker_Bloodrage.vb" />
+    <Compile Include="Abilities\abBloodseeker_Blood_Rite.vb" />
+    <Compile Include="Abilities\abBloodseeker_Rupture.vb" />
+    <Compile Include="Abilities\abBloodseeker_Thirst.vb" />
+    <Compile Include="Abilities\abBoar_Poison.vb" />
+    <Compile Include="Abilities\abBounty_Hunter_Jinada.vb" />
+    <Compile Include="Abilities\abBounty_Hunter_Shadow_Walk.vb" />
+    <Compile Include="Abilities\abBounty_Hunter_Shuriken_Toss.vb" />
+    <Compile Include="Abilities\abBounty_Hunter_Track.vb" />
+    <Compile Include="Abilities\abBrewmaster_Drunken_Brawler.vb" />
+    <Compile Include="Abilities\abBrewmaster_Drunken_Haze.vb" />
+    <Compile Include="Abilities\abBrewmaster_Primal_Split.vb" />
+    <Compile Include="Abilities\abBrewmaster_Thunder_Clap.vb" />
+    <Compile Include="Abilities\abBristleback_Bristleback.vb" />
+    <Compile Include="Abilities\abBristleback_Quill_Spray.vb" />
+    <Compile Include="Abilities\abBristleback_Viscous_Nasal_Goo.vb" />
+    <Compile Include="Abilities\abBristleback_Warpath.vb" />
+    <Compile Include="Abilities\abBroodmother_Incapacitating_Bite.vb" />
+    <Compile Include="Abilities\abBroodmother_Insatiable_Hunger.vb" />
+    <Compile Include="Abilities\abBroodmother_Spawn_Spiderlings.vb" />
+    <Compile Include="Abilities\abBroodmother_Spin_Web.vb" />
+    <Compile Include="Abilities\abBuilding_Backdoor_Protection.vb" />
+    <Compile Include="Abilities\abBuilding_Glyph_of_Fortification.vb" />
+    <Compile Include="Abilities\abCentaur_Congeror_War_Stomp.vb" />
+    <Compile Include="Abilities\abCentaur_Warrunner_Double_Edge.vb" />
+    <Compile Include="Abilities\abCentaur_Warrunner_Hoof_Stomp.vb" />
+    <Compile Include="Abilities\abCentaur_Warrunner_Return.vb" />
+    <Compile Include="Abilities\abCentaur_Warrunner_Stampede.vb" />
+    <Compile Include="Abilities\abChaos_Knight_Chaos_Bolt.vb" />
+    <Compile Include="Abilities\abChaos_Knight_Chaos_Strike.vb" />
+    <Compile Include="Abilities\abChaos_Knight_Phantasm.vb" />
+    <Compile Include="Abilities\abChaos_Knight_Reality_Rift.vb" />
+    <Compile Include="Abilities\abChen_Hand_Of_God.vb" />
+    <Compile Include="Abilities\abChen_Holy_Persuasion.vb" />
+    <Compile Include="Abilities\abChen_Penitence.vb" />
+    <Compile Include="Abilities\abChen_Test_Of_Faith.vb" />
+    <Compile Include="Abilities\abClinkz_Death_Pact.vb" />
+    <Compile Include="Abilities\abClinkz_Searing_Arrows.vb" />
+    <Compile Include="Abilities\abClinkz_Skeleton_Walk.vb" />
+    <Compile Include="Abilities\abClinkz_Strafe.vb" />
+    <Compile Include="Abilities\abClockwerk_Battery_Assault.vb" />
+    <Compile Include="Abilities\abClockwerk_Hookshot.vb" />
+    <Compile Include="Abilities\abClockwerk_Power_Cogs.vb" />
+    <Compile Include="Abilities\abClockwerk_Rocket_Flare.vb" />
+    <Compile Include="Abilities\abCrystal_Maiden_Arcane_Aura.vb" />
+    <Compile Include="Abilities\abCrystal_Maiden_Crystal_Nova.vb" />
+    <Compile Include="Abilities\abCrystal_Maiden_Freezing_Field.vb" />
+    <Compile Include="Abilities\abCrystal_Maiden_Frostbite.vb" />
+    <Compile Include="Abilities\abDark_Seer_Ion_Shell.vb" />
+    <Compile Include="Abilities\abDark_Seer_Surge.vb" />
+    <Compile Include="Abilities\abDark_Seer_Vacuum.vb" />
+    <Compile Include="Abilities\abDark_Seer_Wall_Of_Replica.vb" />
+    <Compile Include="Abilities\abDark_Troll_Summoner_Ensnare.vb" />
+    <Compile Include="Abilities\abDark_Troll_Summoner_Raise_Dead.vb" />
+    <Compile Include="Abilities\abDazzle_Poison_Touch.vb" />
+    <Compile Include="Abilities\abDazzle_Shadow_Wave.vb" />
+    <Compile Include="Abilities\abDazzle_Shallow_Grave.vb" />
+    <Compile Include="Abilities\abDazzle_Weave.vb" />
+    <Compile Include="Abilities\abDeath_Prophet_Crypt_Swarm.vb" />
+    <Compile Include="Abilities\abDeath_Prophet_Exorcism.vb" />
+    <Compile Include="Abilities\abDeath_Prophet_Silence.vb" />
+    <Compile Include="Abilities\abDeath_Prophet_Witchcraft.vb" />
+    <Compile Include="Abilities\abDisruptor_Glimpse.vb" />
+    <Compile Include="Abilities\abDisruptor_Kinetic_Field.vb" />
+    <Compile Include="Abilities\abDisruptor_Static_Storm.vb" />
+    <Compile Include="Abilities\abDisruptor_Thunder_Strike.vb" />
+    <Compile Include="Abilities\abDoom_Devour.vb" />
+    <Compile Include="Abilities\abDoom_Doom.vb" />
+    <Compile Include="Abilities\abDoom_Lvl_Death.vb" />
+    <Compile Include="Abilities\abDoom_Scorched_Earth.vb" />
+    <Compile Include="Abilities\abDragon_Knight_Breathe_Fire.vb" />
+    <Compile Include="Abilities\abDragon_Knight_Dragon_Blood.vb" />
+    <Compile Include="Abilities\abDragon_Knight_Dragon_Tail.vb" />
+    <Compile Include="Abilities\abDragon_Knight_Elder_Dragon_Form.vb" />
+    <Compile Include="Abilities\abDrow_Ranger_Frost_Arrows.vb" />
+    <Compile Include="Abilities\abDrow_Ranger_Gust.vb" />
+    <Compile Include="Abilities\abDrow_Ranger_Marksmanship.vb" />
+    <Compile Include="Abilities\abDrow_Ranger_Precision_Aura.vb" />
+    <Compile Include="Abilities\abEarthshaker_Aftershock.vb" />
+    <Compile Include="Abilities\abEarthshaker_Echo_Slam.vb" />
+    <Compile Include="Abilities\abEarthshaker_Enchant_Totem.vb" />
+    <Compile Include="Abilities\abEarthshaker_Fissure.vb" />
+    <Compile Include="Abilities\abEarth_Brewmaster_Hurl_Boulder.vb" />
+    <Compile Include="Abilities\abEarth_Brewmaster_Pulverize.vb" />
+    <Compile Include="Abilities\abEarth_Brewmaster_Spell_Immunity.vb" />
+    <Compile Include="Abilities\abEarth_Brewmaster_Thunder_Clap.vb" />
+    <Compile Include="Abilities\abEarth_Spirit_Boulder_Smash.vb" />
+    <Compile Include="Abilities\abEarth_Spirit_Geomagnetic_Grip.vb" />
+    <Compile Include="Abilities\abEarth_Spirit_Magnetize.vb" />
+    <Compile Include="Abilities\abEarth_Spirit_Rolling_Boulder.vb" />
+    <Compile Include="Abilities\abElder_Titan_Astral_Spirit.vb" />
+    <Compile Include="Abilities\abElder_Titan_Earth_Splitter.vb" />
+    <Compile Include="Abilities\abElder_Titan_Echo_Stomp.vb" />
+    <Compile Include="Abilities\abElder_Titan_Natural_Order.vb" />
+    <Compile Include="Abilities\abEmber_Spirit_Fire_Remnant.vb" />
+    <Compile Include="Abilities\abEmber_Spirit_Flame_Guard.vb" />
+    <Compile Include="Abilities\abEmber_Spirit_Searing_Chains.vb" />
+    <Compile Include="Abilities\abEmber_Spirit_Sleight_Of_Fist.vb" />
+    <Compile Include="Abilities\abEnchantress_Enchant.vb" />
+    <Compile Include="Abilities\abEnchantress_Impetus.vb" />
+    <Compile Include="Abilities\abEnchantress_Natures_Attendants.vb" />
+    <Compile Include="Abilities\abEnchantress_Untouchable.vb" />
+    <Compile Include="Abilities\abEnigma_Black_Hole.vb" />
+    <Compile Include="Abilities\abEnigma_Demonic_Conversion.vb" />
+    <Compile Include="Abilities\abEnigma_Malefice.vb" />
+    <Compile Include="Abilities\abEnigma_Midnight_Pulse.vb" />
+    <Compile Include="Abilities\abFaceless_Void_Backtrack.vb" />
+    <Compile Include="Abilities\abFaceless_Void_Chronosphere.vb" />
+    <Compile Include="Abilities\abFaceless_Void_Time_Lock.vb" />
+    <Compile Include="Abilities\abFaceless_Void_Time_Walk.vb" />
+    <Compile Include="Abilities\abFamiliar_Spell_Immunity.vb" />
+    <Compile Include="Abilities\abFamiliar_Stone_Form.vb" />
+    <Compile Include="Abilities\abFire_Brewmaster_Drunken_Brawler.vb" />
+    <Compile Include="Abilities\abFire_Brewmaster_Permanent_Immolation.vb" />
+    <Compile Include="Abilities\abForged_Spirit_Melting_Strike.vb" />
+    <Compile Include="Abilities\abGhost_Frost_Attack.vb" />
+    <Compile Include="Abilities\abGiant_Wolf_Critical_Strike.vb" />
+    <Compile Include="Abilities\abGolem_Warlock_Flaming_Fists.vb" />
+    <Compile Include="Abilities\abGolem_Warlock_Permanent_immolation.vb" />
+    <Compile Include="Abilities\abGyrocopter_Call_Down.vb" />
+    <Compile Include="Abilities\abGyrocopter_Flak_Cannon.vb" />
+    <Compile Include="Abilities\abGyrocopter_Homing_Missile.vb" />
+    <Compile Include="Abilities\abGyrocopter_Rocket_Barrage.vb" />
+    <Compile Include="Abilities\abHarpy_Stormcrafter_Chain_Lightning.vb" />
+    <Compile Include="Abilities\abHawk_Invisibility.vb" />
+    <Compile Include="Abilities\abHellbear_Smasher_Swiftness_Aura.vb" />
+    <Compile Include="Abilities\abHellbear_Smasher_Thunder_Clap.vb" />
+    <Compile Include="Abilities\abHill_Troll_Priest_Heal.vb" />
+    <Compile Include="Abilities\abHill_Troll_Priest_Mana_Aura.vb" />
+    <Compile Include="Abilities\abHuskar_Berserkers_Blood.vb" />
+    <Compile Include="Abilities\abHuskar_Burning_Spear.vb" />
+    <Compile Include="Abilities\abHuskar_Inner_Vitality.vb" />
+    <Compile Include="Abilities\abHuskar_Life_Break.vb" />
+    <Compile Include="Abilities\abInvoker_Alacrity.vb" />
+    <Compile Include="Abilities\abInvoker_Chaos_Meteor.vb" />
+    <Compile Include="Abilities\abInvoker_Cold_Snap.vb" />
+    <Compile Include="Abilities\abInvoker_Deafening_Blast.vb" />
+    <Compile Include="Abilities\abInvoker_Emp.vb" />
+    <Compile Include="Abilities\abInvoker_Exort.vb" />
+    <Compile Include="Abilities\abInvoker_Forge_Spirit.vb" />
+    <Compile Include="Abilities\abInvoker_Ghost_Walk.vb" />
+    <Compile Include="Abilities\abInvoker_Ice_Wall.vb" />
+    <Compile Include="Abilities\abInvoker_Invoke.vb" />
+    <Compile Include="Abilities\abInvoker_Quas.vb" />
+    <Compile Include="Abilities\abInvoker_Sun_Strike.vb" />
+    <Compile Include="Abilities\abInvoker_Tornado.vb" />
+    <Compile Include="Abilities\abInvoker_Wex.vb" />
+    <Compile Include="Abilities\abIo_Overcharge.vb" />
+    <Compile Include="Abilities\abIo_Relocate.vb" />
+    <Compile Include="Abilities\abIo_Spirits.vb" />
+    <Compile Include="Abilities\abIo_Tether.vb" />
+    <Compile Include="Abilities\abJakiro_Dual_Breath.vb" />
+    <Compile Include="Abilities\abJakiro_Ice_Path.vb" />
+    <Compile Include="Abilities\abJakiro_Liquid_Fire.vb" />
+    <Compile Include="Abilities\abJakiro_Macropyre.vb" />
+    <Compile Include="Abilities\abJuggernaut_Blade_Dance.vb" />
+    <Compile Include="Abilities\abJuggernaut_Blade_Fury.vb" />
+    <Compile Include="Abilities\abJuggernaut_Healing_Ward.vb" />
+    <Compile Include="Abilities\abJuggernaut_Omnislash.vb" />
+    <Compile Include="Abilities\abKeeper_Of_The_Light_Chakra_Magic.vb" />
+    <Compile Include="Abilities\abKeeper_Of_The_Light_Illuminate.vb" />
+    <Compile Include="Abilities\abKeeper_Of_The_Light_Mana_Leak.vb" />
+    <Compile Include="Abilities\abKeeper_Of_The_Light_Spirit_Form.vb" />
+    <Compile Include="Abilities\abKobold_Foreman_Speed_Aura.vb" />
+    <Compile Include="Abilities\abKunkka_Ghostship.vb" />
+    <Compile Include="Abilities\abKunkka_Tidebringer.vb" />
+    <Compile Include="Abilities\abKunkka_Torrent.vb" />
+    <Compile Include="Abilities\abKunkka_X_Marks_The_Spot.vb" />
+    <Compile Include="Abilities\abLegion_Commander_Duel.vb" />
+    <Compile Include="Abilities\abLegion_Commander_Moment_Of_Courage.vb" />
+    <Compile Include="Abilities\abLegion_Commander_Overwhelming_Odds.vb" />
+    <Compile Include="Abilities\abLegion_Commander_Press_The_Attack.vb" />
+    <Compile Include="Abilities\abLeshrac_Diabolic_Edict.vb" />
+    <Compile Include="Abilities\abLeshrac_Lightning_Storm.vb" />
+    <Compile Include="Abilities\abLeshrac_Pulse_Nova.vb" />
+    <Compile Include="Abilities\abLeshrac_Split_Earth.vb" />
+    <Compile Include="Abilities\abLich_Chain_Frost.vb" />
+    <Compile Include="Abilities\abLich_Frost_Blast.vb" />
+    <Compile Include="Abilities\abLich_Ice_Armor.vb" />
+    <Compile Include="Abilities\abLich_Sacrifice.vb" />
+    <Compile Include="Abilities\abLifestealer_Feast.vb" />
+    <Compile Include="Abilities\abLifestealer_Infest.vb" />
+    <Compile Include="Abilities\abLifestealer_Open_Wounds.vb" />
+    <Compile Include="Abilities\abLifestealer_Rage.vb" />
+    <Compile Include="Abilities\abLina_Dragon_Slave.vb" />
+    <Compile Include="Abilities\abLina_Fiery_Soul.vb" />
+    <Compile Include="Abilities\abLina_Laguna_Blade.vb" />
+    <Compile Include="Abilities\abLina_Light_Strike_Array.vb" />
+    <Compile Include="Abilities\abLion_Earth_Spike.vb" />
+    <Compile Include="Abilities\abLion_Finger_Of_Death.vb" />
+    <Compile Include="Abilities\abLion_Hex.vb" />
+    <Compile Include="Abilities\abLion_Mana_Drain.vb" />
+    <Compile Include="Abilities\abLone_Druid_Battle_Cry.vb" />
+    <Compile Include="Abilities\abLone_Druid_Rabid.vb" />
+    <Compile Include="Abilities\abLone_Druid_Summon_Spirit_Bear.vb" />
+    <Compile Include="Abilities\abLone_Druid_Synergy.vb" />
+    <Compile Include="Abilities\abLone_Druid_True_Form.vb" />
+    <Compile Include="Abilities\abLuna_Eclipse.vb" />
+    <Compile Include="Abilities\abLuna_Lucent_Beam.vb" />
+    <Compile Include="Abilities\abLuna_Lunar_Blessing.vb" />
+    <Compile Include="Abilities\abLuna_Moon_Glaive.vb" />
+    <Compile Include="Abilities\abLycan_Feral_Impulse.vb" />
+    <Compile Include="Abilities\abLycan_Howl.vb" />
+    <Compile Include="Abilities\abLycan_Shapeshift.vb" />
+    <Compile Include="Abilities\abLycan_Summon_Wolves.vb" />
+    <Compile Include="Abilities\abLycan_Wolf_Critical_Strike.vb" />
+    <Compile Include="Abilities\abLycan_Wolf_Invisibility.vb" />
+    <Compile Include="Abilities\abMagnus_Empower.vb" />
+    <Compile Include="Abilities\abMagnus_Reverse_Polarity.vb" />
+    <Compile Include="Abilities\abMagnus_Shockwave.vb" />
+    <Compile Include="Abilities\abMagnus_Skewer.vb" />
+    <Compile Include="Abilities\abMedusa_Mana_Shield.vb" />
+    <Compile Include="Abilities\abMedusa_Mystic_Snake.vb" />
+    <Compile Include="Abilities\abMedusa_Split_Shot.vb" />
+    <Compile Include="Abilities\abMedusa_Stone_Gaze.vb" />
+    <Compile Include="Abilities\abMeepo_Divided_We_Stand.vb" />
+    <Compile Include="Abilities\abMeepo_Earthbind.vb" />
+    <Compile Include="Abilities\abMeepo_Geostrike.vb" />
+    <Compile Include="Abilities\abMeepo_Poof.vb" />
+    <Compile Include="Abilities\abMirana_Leap.vb" />
+    <Compile Include="Abilities\abMirana_Moonlight_Shadow.vb" />
+    <Compile Include="Abilities\abMirana_Sacred_Arrow.vb" />
+    <Compile Include="Abilities\abMirana_Starstorm.vb" />
+    <Compile Include="Abilities\abMorphling_Adaptive_Strike.vb" />
+    <Compile Include="Abilities\abMorphling_Morph_Replicate.vb" />
+    <Compile Include="Abilities\abMorphling_Morph__Agility_Gain_.vb" />
+    <Compile Include="Abilities\abMorphling_Waveform.vb" />
+    <Compile Include="Abilities\abMud_Golem_Spell_Immunity.vb" />
+    <Compile Include="Abilities\abNaga_Siren_Ensnare.vb" />
+    <Compile Include="Abilities\abNaga_Siren_Mirror_Image.vb" />
+    <Compile Include="Abilities\abNaga_Siren_Rip_Tide.vb" />
+    <Compile Include="Abilities\abNaga_Siren_Song_Of_The_Siren.vb" />
+    <Compile Include="Abilities\abNatures_Prophet_Natures_Call.vb" />
+    <Compile Include="Abilities\abNatures_Prophet_Sprout.vb" />
+    <Compile Include="Abilities\abNatures_Prophet_Teleportation.vb" />
+    <Compile Include="Abilities\abNatures_Prophet_Wrath_Of_Nature.vb" />
+    <Compile Include="Abilities\abNecrophos_Death_Pulse.vb" />
+    <Compile Include="Abilities\abNecrophos_Heartstopper_Aura.vb" />
+    <Compile Include="Abilities\abNecrophos_Reapers_Scythe.vb" />
+    <Compile Include="Abilities\abNecrophos_Sadist.vb" />
+    <Compile Include="Abilities\abNecro_Archer_Archer_Aura.vb" />
+    <Compile Include="Abilities\abNecro_Archer_Mana_Burn.vb" />
+    <Compile Include="Abilities\abNecro_Warrior_Last_Will.vb" />
+    <Compile Include="Abilities\abNecro_Warrior_Mana_Break.vb" />
+    <Compile Include="Abilities\abNecro_Warrior_True_Sight.vb" />
+    <Compile Include="Abilities\abNight_Stalker_Crippling_Fear.vb" />
+    <Compile Include="Abilities\abNight_Stalker_Darkness.vb" />
+    <Compile Include="Abilities\abNight_Stalker_Hunter_In_The_Night.vb" />
+    <Compile Include="Abilities\abNight_Stalker_Void.vb" />
+    <Compile Include="Abilities\abNyx_Assassin_Impale.vb" />
+    <Compile Include="Abilities\abNyx_Assassin_Mana_Burn.vb" />
+    <Compile Include="Abilities\abNyx_Assassin_Spiked_Carapace.vb" />
+    <Compile Include="Abilities\abNyx_Assassin_Vendetta.vb" />
+    <Compile Include="Abilities\abOgre_Frostmage_Ice_Armor.vb" />
+    <Compile Include="Abilities\abOgre_Magi_Bloodlust.vb" />
+    <Compile Include="Abilities\abOgre_Magi_Fireblast.vb" />
+    <Compile Include="Abilities\abOgre_Magi_Ignite.vb" />
+    <Compile Include="Abilities\abOgre_Magi_Multicast.vb" />
+    <Compile Include="Abilities\abOmniknight_Degen_Aura.vb" />
+    <Compile Include="Abilities\abOmniknight_Guardian_Angel.vb" />
+    <Compile Include="Abilities\abOmniknight_Purification.vb" />
+    <Compile Include="Abilities\abOmniknight_Repel.vb" />
+    <Compile Include="Abilities\abOutworld_Devourer_Arcane_Orb.vb" />
+    <Compile Include="Abilities\abOutworld_Devourer_Astral_Imprisonment.vb" />
+    <Compile Include="Abilities\abOutworld_Devourer_Essence_Aura.vb" />
+    <Compile Include="Abilities\abOutworld_Devourer_Sanitys_Eclipse.vb" />
+    <Compile Include="Abilities\abPhantom_Assassin_Blur.vb" />
+    <Compile Include="Abilities\abPhantom_Assassin_Coup_De_Grace.vb" />
+    <Compile Include="Abilities\abPhantom_Assassin_Phantom_Strike.vb" />
+    <Compile Include="Abilities\abPhantom_Assassin_Stifling_Dagger.vb" />
+    <Compile Include="Abilities\abPhantom_Lancer_Doppelganger.vb" />
+    <Compile Include="Abilities\abPhantom_Lancer_Juxtapose.vb" />
+    <Compile Include="Abilities\abPhantom_Lancer_Phantom_Rush.vb" />
+    <Compile Include="Abilities\abPhantom_Lancer_Spirit_Lance.vb" />
+    <Compile Include="Abilities\abPhoenix_Fire_Spirits.vb" />
+    <Compile Include="Abilities\abPhoenix_Icarus_Dive.vb" />
+    <Compile Include="Abilities\abPhoenix_Sun_Ray.vb" />
+    <Compile Include="Abilities\abPhoenix_Supernova.vb" />
+    <Compile Include="Abilities\abPlague_Ward_Poison_Sting.vb" />
+    <Compile Include="Abilities\abPsionic_Trap_Self_Trap.vb" />
+    <Compile Include="Abilities\abPuck_Dream_Coil.vb" />
+    <Compile Include="Abilities\abPuck_Illusory_Orb.vb" />
+    <Compile Include="Abilities\abPuck_Phase_Shift.vb" />
+    <Compile Include="Abilities\abPuck_Waning_Rift.vb" />
+    <Compile Include="Abilities\abPudge_Dismember.vb" />
+    <Compile Include="Abilities\abPudge_Flesh_Heap.vb" />
+    <Compile Include="Abilities\abPudge_Meat_Hook.vb" />
+    <Compile Include="Abilities\abPudge_Rot.vb" />
+    <Compile Include="Abilities\abPugna_Decrepify.vb" />
+    <Compile Include="Abilities\abPugna_Life_Drain.vb" />
+    <Compile Include="Abilities\abPugna_Nether_Blast.vb" />
+    <Compile Include="Abilities\abPugna_Nether_Ward.vb" />
+    <Compile Include="Abilities\abQueen_Of_Pain_Blink.vb" />
+    <Compile Include="Abilities\abQueen_Of_Pain_Scream_Of_Pain.vb" />
+    <Compile Include="Abilities\abQueen_Of_Pain_Shadow_Strike.vb" />
+    <Compile Include="Abilities\abQueen_Of_Pain_Sonic_Wave.vb" />
+    <Compile Include="Abilities\abRazor_Eye_Of_The_Storm.vb" />
+    <Compile Include="Abilities\abRazor_Plasma_Field.vb" />
+    <Compile Include="Abilities\abRazor_Static_Link.vb" />
+    <Compile Include="Abilities\abRazor_Unstable_Current.vb" />
+    <Compile Include="Abilities\abRemote_Mines_Pinpoint_Detonate.vb" />
+    <Compile Include="Abilities\abRiki_Backstab.vb" />
+    <Compile Include="Abilities\abRiki_Blink_Strike.vb" />
+    <Compile Include="Abilities\abRiki_Permanent_Invisibility.vb" />
+    <Compile Include="Abilities\abRiki_Smoke_Screen.vb" />
+    <Compile Include="Abilities\abRoshan_Bash.vb" />
+    <Compile Include="Abilities\abRoshan_Slam.vb" />
+    <Compile Include="Abilities\abRoshan_Spell_Block.vb" />
+    <Compile Include="Abilities\abRoshan_Strength_Of_The_Immortal.vb" />
+    <Compile Include="Abilities\abRubick_Fade_Bolt.vb" />
+    <Compile Include="Abilities\abRubick_Null_Field.vb" />
+    <Compile Include="Abilities\abRubick_Spell_Steal.vb" />
+    <Compile Include="Abilities\abRubick_Telekinesis.vb" />
+    <Compile Include="Abilities\abSand_King_Burrowstrike.vb" />
+    <Compile Include="Abilities\abSand_King_Caustic_Finale.vb" />
+    <Compile Include="Abilities\abSand_King_Epicenter.vb" />
+    <Compile Include="Abilities\abSand_King_Sand_Storm.vb" />
+    <Compile Include="Abilities\abSatyr_Banisher_Purge.vb" />
+    <Compile Include="Abilities\abSatyr_Mindstealer_Mana_Burn.vb" />
+    <Compile Include="Abilities\abSatyr_Tormentor_Shockwave.vb" />
+    <Compile Include="Abilities\abShadow_Demon_Demonic_Purge.vb" />
+    <Compile Include="Abilities\abShadow_Demon_Disruption.vb" />
+    <Compile Include="Abilities\abShadow_Demon_Shadow_Poison.vb" />
+    <Compile Include="Abilities\abShadow_Demon_Soul_Catcher.vb" />
+    <Compile Include="Abilities\abShadow_Fiend_Necromastery.vb" />
+    <Compile Include="Abilities\abShadow_Fiend_Presence_Of_The_Dark_Lord.vb" />
+    <Compile Include="Abilities\abShadow_Fiend_Requiem_Of_Souls.vb" />
+    <Compile Include="Abilities\abShadow_Fiend_Shadowraze.vb" />
+    <Compile Include="Abilities\abShadow_Shaman_Ether_Shock.vb" />
+    <Compile Include="Abilities\abShadow_Shaman_Hex.vb" />
+    <Compile Include="Abilities\abShadow_Shaman_Mass_Serpent_Ward.vb" />
+    <Compile Include="Abilities\abShadow_Shaman_Shackles.vb" />
+    <Compile Include="Abilities\abSilencer_Curse_Of_The_Silent.vb" />
+    <Compile Include="Abilities\abSilencer_Glaives_Of_Wisdom.vb" />
+    <Compile Include="Abilities\abSilencer_Global_Silence.vb" />
+    <Compile Include="Abilities\abSilencer_Last_Word.vb" />
+    <Compile Include="Abilities\abSkywrath_Mage_Ancient_Seal.vb" />
+    <Compile Include="Abilities\abSkywrath_Mage_Arcane_Bolt.vb" />
+    <Compile Include="Abilities\abSkywrath_Mage_Concussive_Shot.vb" />
+    <Compile Include="Abilities\abSkywrath_Mage_Mystic_Flare.vb" />
+    <Compile Include="Abilities\abSlardar_Amplify_Damage.vb" />
+    <Compile Include="Abilities\abSlardar_Bash.vb" />
+    <Compile Include="Abilities\abSlardar_Slithereen_Crush.vb" />
+    <Compile Include="Abilities\abSlardar_Sprint.vb" />
+    <Compile Include="Abilities\abSlark_Dark_Pact.vb" />
+    <Compile Include="Abilities\abSlark_Essence_Shift.vb" />
+    <Compile Include="Abilities\abSlark_Pounce.vb" />
+    <Compile Include="Abilities\abSlark_Shadow_Dance.vb" />
+    <Compile Include="Abilities\abSniper_Assassinate.vb" />
+    <Compile Include="Abilities\abSniper_Headshot.vb" />
+    <Compile Include="Abilities\abSniper_Shrapnel.vb" />
+    <Compile Include="Abilities\abSniper_Take_Aim.vb" />
+    <Compile Include="Abilities\abSpectre_Desolate.vb" />
+    <Compile Include="Abilities\abSpectre_Dispersion.vb" />
+    <Compile Include="Abilities\abSpectre_Haunt.vb" />
+    <Compile Include="Abilities\abSpectre_Spectral_Dagger.vb" />
+    <Compile Include="Abilities\abSpiderling_Poison_Sting.vb" />
+    <Compile Include="Abilities\abSpiderling_Spawn_Spiderite.vb" />
+    <Compile Include="Abilities\abSpirit_Bear_Demolish.vb" />
+    <Compile Include="Abilities\abSpirit_Bear_Entangling_Claws.vb" />
+    <Compile Include="Abilities\abSpirit_Bear_Return.vb" />
+    <Compile Include="Abilities\abSpirit_Breaker_Charge_Of_Darkness.vb" />
+    <Compile Include="Abilities\abSpirit_Breaker_Empowering_Haste.vb" />
+    <Compile Include="Abilities\abSpirit_Breaker_Greater_Bash.vb" />
+    <Compile Include="Abilities\abSpirit_Breaker_Nether_Strike.vb" />
+    <Compile Include="Abilities\abStat_Gain.vb" />
+    <Compile Include="Abilities\abStorm_Brewmaster_Cyclone.vb" />
+    <Compile Include="Abilities\abStorm_Brewmaster_Dispel_Magic.vb" />
+    <Compile Include="Abilities\abStorm_Brewmaster_Drunken_Haze.vb" />
+    <Compile Include="Abilities\abStorm_Brewmaster_Wind_Walk.vb" />
+    <Compile Include="Abilities\abStorm_Spirit_Ball_Lightning.vb" />
+    <Compile Include="Abilities\abStorm_Spirit_Electric_Vortex.vb" />
+    <Compile Include="Abilities\abStorm_Spirit_Overload.vb" />
+    <Compile Include="Abilities\abStorm_Spirit_Static_Remnant.vb" />
+    <Compile Include="Abilities\abSven_Gods_Strength.vb" />
+    <Compile Include="Abilities\abSven_Great_Cleave.vb" />
+    <Compile Include="Abilities\abSven_Storm_Hammer.vb" />
+    <Compile Include="Abilities\abSven_Warcry.vb" />
+    <Compile Include="Abilities\abTechies_Land_Mines.vb" />
+    <Compile Include="Abilities\abTechies_Remote_Mines.vb" />
+    <Compile Include="Abilities\abTechies_Stasis_Trap.vb" />
+    <Compile Include="Abilities\abTechies_Suicide_Squad,_Attack.vb" />
+    <Compile Include="Abilities\abTemplar_Assassin_Meld.vb" />
+    <Compile Include="Abilities\abTemplar_Assassin_Psionic_Trap.vb" />
+    <Compile Include="Abilities\abTemplar_Assassin_Psi_Blades.vb" />
+    <Compile Include="Abilities\abTemplar_Assassin_Refraction.vb" />
+    <Compile Include="Abilities\abTerrorblade_Conjure_Image.vb" />
+    <Compile Include="Abilities\abTerrorblade_Metamorphosis.vb" />
+    <Compile Include="Abilities\abTerrorblade_Reflection.vb" />
+    <Compile Include="Abilities\abTerrorblade_Sunder.vb" />
+    <Compile Include="Abilities\abTidehunter_Anchor_Smash.vb" />
+    <Compile Include="Abilities\abTidehunter_Gush.vb" />
+    <Compile Include="Abilities\abTidehunter_Kraken_Shell.vb" />
+    <Compile Include="Abilities\abTidehunter_Ravage.vb" />
+    <Compile Include="Abilities\abTimbersaw_Chakram.vb" />
+    <Compile Include="Abilities\abTimbersaw_Reactive_Armor.vb" />
+    <Compile Include="Abilities\abTimbersaw_Timber_Chain.vb" />
+    <Compile Include="Abilities\abTimbersaw_Whirling_Death.vb" />
+    <Compile Include="Abilities\abTinker_HeatSeeking_Missile.vb" />
+    <Compile Include="Abilities\abTinker_Laser.vb" />
+    <Compile Include="Abilities\abTinker_March_Of_The_Machines.vb" />
+    <Compile Include="Abilities\abTinker_Rearm.vb" />
+    <Compile Include="Abilities\abTiny_Avalanche.vb" />
+    <Compile Include="Abilities\abTiny_Craggy_Exterior.vb" />
+    <Compile Include="Abilities\abTiny_Grow.vb" />
+    <Compile Include="Abilities\abTiny_Toss.vb" />
+    <Compile Include="Abilities\abTornado_Tempest.vb" />
+    <Compile Include="Abilities\abTreant_Protector_Eyes_In_The_Forest.vb" />
+    <Compile Include="Abilities\abTreant_Protector_Leech_Seed.vb" />
+    <Compile Include="Abilities\abTreant_Protector_Living_Armor.vb" />
+    <Compile Include="Abilities\abTreant_Protector_Natures_Guise.vb" />
+    <Compile Include="Abilities\abTreant_Protector_Overgrowth.vb" />
+    <Compile Include="Abilities\abTroll_Warlord_Battle_Trance.vb" />
+    <Compile Include="Abilities\abTroll_Warlord_Berserkers_Rage.vb" />
+    <Compile Include="Abilities\abTroll_Warlord_Fervor.vb" />
+    <Compile Include="Abilities\abTroll_Warlord_Whirling_Axes__Melee_.vb" />
+    <Compile Include="Abilities\abTusk_Frozen_Sigil.vb" />
+    <Compile Include="Abilities\abTusk_Ice_Shards.vb" />
+    <Compile Include="Abilities\abTusk_Snowball.vb" />
+    <Compile Include="Abilities\abTusk_Walrus_Punch!.vb" />
+    <Compile Include="Abilities\abUndying_Decay.vb" />
+    <Compile Include="Abilities\abUndying_Flesh_Golem.vb" />
+    <Compile Include="Abilities\abUndying_Soul_Rip.vb" />
+    <Compile Include="Abilities\abUndying_Tombstone.vb" />
+    <Compile Include="Abilities\abUndying_Zombie_Deathlust.vb" />
+    <Compile Include="Abilities\abUndying_Zombie_Spell_Immunity.vb" />
+    <Compile Include="Abilities\abUrsa_Earthshock.vb" />
+    <Compile Include="Abilities\abUrsa_Enrage.vb" />
+    <Compile Include="Abilities\abUrsa_Fury_Swipes.vb" />
+    <Compile Include="Abilities\abUrsa_Overpower.vb" />
+    <Compile Include="Abilities\abVengeful_Spirit_Magic_Missile.vb" />
+    <Compile Include="Abilities\abVengeful_Spirit_Nether_Swap.vb" />
+    <Compile Include="Abilities\abVengeful_Spirit_Vengeance_Aura.vb" />
+    <Compile Include="Abilities\abVengeful_Spirit_Wave_Of_Terror.vb" />
+    <Compile Include="Abilities\abVenomancer_Plague_Ward.vb" />
+    <Compile Include="Abilities\abVenomancer_Poison_Nova.vb" />
+    <Compile Include="Abilities\abVenomancer_Poison_Sting.vb" />
+    <Compile Include="Abilities\abVenomancer_Venomous_Gale.vb" />
+    <Compile Include="Abilities\abVhoul_Assassin_Envenomed_Weapon.vb" />
+    <Compile Include="Abilities\abViper_Corrosive_Skin.vb" />
+    <Compile Include="Abilities\abViper_Nethertoxin.vb" />
+    <Compile Include="Abilities\abViper_Poison_Attack.vb" />
+    <Compile Include="Abilities\abViper_Viper_Strike.vb" />
+    <Compile Include="Abilities\abVisage_Gravekeepers_Cloak.vb" />
+    <Compile Include="Abilities\abVisage_Grave_Chill.vb" />
+    <Compile Include="Abilities\abVisage_Soul_Assumption.vb" />
+    <Compile Include="Abilities\abVisage_Summon_Familiars.vb" />
+    <Compile Include="Abilities\abWarlock_Chaotic_Offering.vb" />
+    <Compile Include="Abilities\abWarlock_Fatal_Bonds.vb" />
+    <Compile Include="Abilities\abWarlock_Shadow_Word.vb" />
+    <Compile Include="Abilities\abWarlock_Upheaval.vb" />
+    <Compile Include="Abilities\abWeaver_Geminate_Attack.vb" />
+    <Compile Include="Abilities\abWeaver_Shukuchi.vb" />
+    <Compile Include="Abilities\abWeaver_The_Swarm.vb" />
+    <Compile Include="Abilities\abWeaver_Time_Lapse.vb" />
+    <Compile Include="Abilities\abWildwing_Ripper_Tornado.vb" />
+    <Compile Include="Abilities\abWildwing_Ripper_Toughness_Aua.vb" />
+    <Compile Include="Abilities\abWindranger_Focus_Fire.vb" />
+    <Compile Include="Abilities\abWindranger_Powershot.vb" />
+    <Compile Include="Abilities\abWindranger_Shackleshot.vb" />
+    <Compile Include="Abilities\abWindranger_Windrun.vb" />
+    <Compile Include="Abilities\abWitch_Doctor_Death_Ward.vb" />
+    <Compile Include="Abilities\abWitch_Doctor_Maledict.vb" />
+    <Compile Include="Abilities\abWitch_Doctor_Paralyzing_Cask.vb" />
+    <Compile Include="Abilities\abWitch_Doctor_Voodoo_Restoration.vb" />
+    <Compile Include="Abilities\abWraith_King_Mortal_Strike.vb" />
+    <Compile Include="Abilities\abWraith_King_Reincarnation.vb" />
+    <Compile Include="Abilities\abWraith_King_Vampiric_Aura.vb" />
+    <Compile Include="Abilities\abWraith_King_Wraithfire_Blast.vb" />
+    <Compile Include="Abilities\abZeus_Arc_Lightning.vb" />
+    <Compile Include="Abilities\abZeus_Lightning_Bolt.vb" />
+    <Compile Include="Abilities\abZeus_Static_Field.vb" />
+    <Compile Include="Abilities\abZeus_Thundergods_Wrath.vb" />
+    <Compile Include="Abilities_Architecture\AbilityBase.vb" />
+    <Compile Include="Abilities_Architecture\ability_Database.vb" />
+    <Compile Include="Abilities_Architecture\Ability_Info.vb" />
+    <Compile Include="Abilities_Architecture\Ability_Info_List.vb" />
+    <Compile Include="Application.xaml.vb">
+      <DependentUpon>Application.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Bundles\CreepBundle.vb" />
+    <Compile Include="Bundles\CreepBundles.vb" />
+    <Compile Include="Bundles\HeroBundle.vb" />
+    <Compile Include="Bundles\HeroBundles.vb" />
+    <Compile Include="Colors_Architecture\Colors_Database.vb" />
+    <Compile Include="Colors_Architecture\iColor.vb" />
+    <Compile Include="Colors_Architecture\objHSB.vb" />
+    <Compile Include="Creep Architecture\Creep.vb" />
+    <Compile Include="Creep Architecture\CreepStack.vb" />
+    <Compile Include="Creep Architecture\Creeps_and_Pets_Database.vb" />
+    <Compile Include="Creep Architecture\Creep_Info.vb" />
+    <Compile Include="DataBit_Architecture\DataBar.vb" />
+    <Compile Include="DataBit_Architecture\DataBit.vb" />
+    <Compile Include="DataTypes\AbilityValueList.vb" />
+    <Compile Include="DataTypes\ddFrame.vb" />
+    <Compile Include="DataTypes\DDFrame_List.vb" />
+    <Compile Include="DataTypes\RowAndRect.vb" />
+    <Compile Include="DataTypes\StartupItems.vb" />
+    <Compile Include="DataTypes\TypesAndTargets.vb" />
+    <Compile Include="DataTypes\ValueList.vb" />
+    <Compile Include="DataTypes\ValueWrapper.vb" />
+    <Compile Include="Economy_Architecture\EconomyCurve.vb" />
+    <Compile Include="Economy_Architecture\EconomyCurves.vb" />
+    <Compile Include="Economy_Architecture\EconomyManager.vb" />
+    <Compile Include="Game_Architecture\dGame.vb" />
+    <Compile Include="Heroes_Architecture\Build.vb" />
+    <Compile Include="Heroes_Architecture\Build_List.vb" />
+    <Compile Include="Heroes_Architecture\Hero.vb" />
+    <Compile Include="Heroes_Architecture\HeroBuild.vb" />
+    <Compile Include="Heroes_Architecture\HeroBuild_Database.vb" />
+    <Compile Include="Heroes_Architecture\HeroBuild_List.vb" />
+    <Compile Include="Heroes_Architecture\NPCBase.vb" />
+    <Compile Include="Heroes_Architecture\UnitBase.vb" />
+    <Compile Include="Items\Empty_Item.vb" />
+    <Compile Include="Items\itmAbyssal_Blade_1.vb" />
+    <Compile Include="Items\itmAegis_Of_The_Immortal.vb" />
+    <Compile Include="Items\itmAghanims_Scepter.vb" />
+    <Compile Include="Items\itmAnimalCourier.vb" />
+    <Compile Include="Items\itmArcane_Boots.vb" />
+    <Compile Include="Items\itmArmlet_of_Mordiggian.vb" />
+    <Compile Include="Items\itmAssault_Curass.vb" />
+    <Compile Include="Items\itmBand_of_Elvenskin.vb" />
+    <Compile Include="Items\itmBattle_Fury.vb" />
+    <Compile Include="Items\itmBelt_of_Strength.vb" />
+    <Compile Include="Items\itmBlack_King_Bar.vb" />
+    <Compile Include="Items\itmBlades_of_Attack.vb" />
+    <Compile Include="Items\itmBlade_Mail.vb" />
+    <Compile Include="Items\itmBlade_of_Alacrity.vb" />
+    <Compile Include="Items\itmBlinkDagger.vb" />
+    <Compile Include="Items\itmBloodstone.vb" />
+    <Compile Include="Items\itmBoots_of_Speed.vb" />
+    <Compile Include="Items\itmBoots_of_Travel.vb" />
+    <Compile Include="Items\itmBottle.vb" />
+    <Compile Include="Items\itmBracers.vb" />
+    <Compile Include="Items\itmBroadsword.vb" />
+    <Compile Include="Items\itmBuckler.vb" />
+    <Compile Include="Items\itmButterfly.vb" />
+    <Compile Include="Items\itmChainmail.vb" />
+    <Compile Include="Items\itmCheese.vb" />
+    <Compile Include="Items\itmCirclet.vb" />
+    <Compile Include="Items\itmClarity.vb" />
+    <Compile Include="Items\itmClaymore.vb" />
+    <Compile Include="Items\itmCloak.vb" />
+    <Compile Include="Items\itmCrystalys.vb" />
+    <Compile Include="Items\itmDaedalus.vb" />
+    <Compile Include="Items\itmDagon_1.vb" />
+    <Compile Include="Items\itmDagon_2.vb" />
+    <Compile Include="Items\itmDagon_3.vb" />
+    <Compile Include="Items\itmDagon_4.vb" />
+    <Compile Include="Items\itmDagon_5.vb" />
+    <Compile Include="Items\itmDemon_Edge.vb" />
+    <Compile Include="Items\itmDesolator.vb" />
+    <Compile Include="Items\itmDiffusal_Blade.vb" />
+    <Compile Include="Items\itmDiffusal_Blade_2.vb" />
+    <Compile Include="Items\itmDivine_Rapier.vb" />
+    <Compile Include="Items\itmDrum_of_Endurance.vb" />
+    <Compile Include="Items\itmDust_Of_Appearance.vb" />
+    <Compile Include="Items\itmEaglesong.vb" />
+    <Compile Include="Items\itmEnergy_Booster.vb" />
+    <Compile Include="Items\itmEthereal_Blade.vb" />
+    <Compile Include="Items\itmEuls_Scepter_of_Divinity.vb" />
+    <Compile Include="Items\itmEye_of_Skadi.vb" />
+    <Compile Include="Items\itmFlyingCourier.vb" />
+    <Compile Include="Items\itmForce_Staff.vb" />
+    <Compile Include="Items\itmGauntlets_of_Strength.vb" />
+    <Compile Include="Items\itmGem_of_Truesight.vb" />
+    <Compile Include="Items\itmGhostScepter.vb" />
+    <Compile Include="Items\itmGloves_of_Haste.vb" />
+    <Compile Include="Items\itmHand_of_Midas.vb" />
+    <Compile Include="Items\itmHeaddress.vb" />
+    <Compile Include="Items\itmHeart_of_Tarrasque.vb" />
+    <Compile Include="Items\itmHeavens_Halberd.vb" />
+    <Compile Include="Items\itmHelm_of_Iron_Will.vb" />
+    <Compile Include="Items\itmHelm_of_the_Dominator.vb" />
+    <Compile Include="Items\itmHood_of_Defiance.vb" />
+    <Compile Include="Items\itmHyperstone.vb" />
+    <Compile Include="Items\itmIron_Branch.vb" />
+    <Compile Include="Items\itmJavelin.vb" />
+    <Compile Include="Items\itmLinkins_Sphere.vb" />
+    <Compile Include="Items\itmMaelstrom.vb" />
+    <Compile Include="Items\itmMagic_Stick.vb" />
+    <Compile Include="Items\itmMagic_Wand.vb" />
+    <Compile Include="Items\itmManta_Style.vb" />
+    <Compile Include="Items\itmMantle_of_Intelligence.vb" />
+    <Compile Include="Items\itmMask_of_Madness.vb" />
+    <Compile Include="Items\itmMedallion_of_Courage.vb" />
+    <Compile Include="Items\itmMekansm.vb" />
+    <Compile Include="Items\itmMithril_Hammer.vb" />
+    <Compile Include="Items\itmMjolnir.vb" />
+    <Compile Include="Items\itmMonkey_King_Bar.vb" />
+    <Compile Include="Items\itmMorbid_Mask.vb" />
+    <Compile Include="Items\itmMystic_Staff.vb" />
+    <Compile Include="Items\itmNecronomicon_1.vb" />
+    <Compile Include="Items\itmNecronomicon_2.vb" />
+    <Compile Include="Items\itmNecronomicon_3.vb" />
+    <Compile Include="Items\itmNull_Talisman.vb" />
+    <Compile Include="Items\itmOblivion_Staff.vb" />
+    <Compile Include="Items\itmObserverWard.vb" />
+    <Compile Include="Items\itmOgre_Club.vb" />
+    <Compile Include="Items\itmOrb_of_Venom.vb" />
+    <Compile Include="Items\itmOrchid_of_Malevolence.vb" />
+    <Compile Include="Items\itmPerseverance.vb" />
+    <Compile Include="Items\itmPhase_Boots.vb" />
+    <Compile Include="Items\itmPipe_of_Insight.vb" />
+    <Compile Include="Items\itmPlatemail.vb" />
+    <Compile Include="Items\itmPoint_Booster.vb" />
+    <Compile Include="Items\itmPoor_Mans_Shield.vb" />
+    <Compile Include="Items\itmPower_Treads.vb" />
+    <Compile Include="Items\itmQuarterstaff.vb" />
+    <Compile Include="Items\itmQuelling_Blade.vb" />
+    <Compile Include="Items\itmRadiance.vb" />
+    <Compile Include="Items\itmReaver.vb" />
+    <Compile Include="Items\itmRecipe_Armlet_Of_Mordiggian.vb" />
+    <Compile Include="Items\itmRecipe_Assault_Cuirass.vb" />
+    <Compile Include="Items\itmRecipe_Black_King_Bar.vb" />
+    <Compile Include="Items\itmRecipe_Boots_Of_Travel.vb" />
+    <Compile Include="Items\itmRecipe_Bracer.vb" />
+    <Compile Include="Items\itmRecipe_Buckler.vb" />
+    <Compile Include="Items\itmRecipe_Crystalys.vb" />
+    <Compile Include="Items\itmRecipe_Daedalus.vb" />
+    <Compile Include="Items\itmRecipe_Dagon_1.vb" />
+    <Compile Include="Items\itmRecipe_Dagon_2.vb" />
+    <Compile Include="Items\itmRecipe_Dagon_3.vb" />
+    <Compile Include="Items\itmRecipe_Dagon_4.vb" />
+    <Compile Include="Items\itmRecipe_Dagon_5.vb" />
+    <Compile Include="Items\itmRecipe_Desolator.vb" />
+    <Compile Include="Items\itmRecipe_Diffusal_Blade_1.vb" />
+    <Compile Include="Items\itmRecipe_Diffusal_Blade_2.vb" />
+    <Compile Include="Items\itmRecipe_Drum_Of_Endurance.vb" />
+    <Compile Include="Items\itmRecipe_Euls_Scepter_Of_Divinity.vb" />
+    <Compile Include="Items\itmRecipe_Force_Staff.vb" />
+    <Compile Include="Items\itmRecipe_Hand_Of_Midas.vb" />
+    <Compile Include="Items\itmRecipe_Headdress.vb" />
+    <Compile Include="Items\itmRecipe_Heart_Of_Tarrasque.vb" />
+    <Compile Include="Items\itmRecipe_Maelstrom.vb" />
+    <Compile Include="Items\itmRecipe_Magic_Wand.vb" />
+    <Compile Include="Items\itmRecipe_Manta_Style.vb" />
+    <Compile Include="Items\itmRecipe_Mask_Of_Madness.vb" />
+    <Compile Include="Items\itmRecipe_Medallion_Of_Courage.vb" />
+    <Compile Include="Items\itmRecipe_Mekansm.vb" />
+    <Compile Include="Items\itmRecipe_Mjollnir.vb" />
+    <Compile Include="Items\itmRecipe_Necronomicon_1.vb" />
+    <Compile Include="Items\itmRecipe_Necronomicon_2.vb" />
+    <Compile Include="Items\itmRecipe_Necronomicon_3.vb" />
+    <Compile Include="Items\itmRecipe_Null_Talisman.vb" />
+    <Compile Include="Items\itmRecipe_Orchid_Of_Malevolence.vb" />
+    <Compile Include="Items\itmRecipe_Pipe_Of_Insight.vb" />
+    <Compile Include="Items\itmRecipe_Radiance.vb" />
+    <Compile Include="Items\itmRecipe_Refresher_Orb.vb" />
+    <Compile Include="Items\itmRecipe_Sange.vb" />
+    <Compile Include="Items\itmRecipe_Satanic.vb" />
+    <Compile Include="Items\itmRecipe_Shivas_Guard.vb" />
+    <Compile Include="Items\itmRecipe_Skull_Basher.vb" />
+    <Compile Include="Items\itmRecipe_Soul_Ring.vb" />
+    <Compile Include="Items\itmRecipe_Urn_Of_Shadows.vb" />
+    <Compile Include="Items\itmRecipe_Veil_Of_Discord.vb" />
+    <Compile Include="Items\itmRecipe_Vladmirs_Offering.vb" />
+    <Compile Include="Items\itmRecipe_Wraith_Band.vb" />
+    <Compile Include="Items\itmRecipe_Yasha.vb" />
+    <Compile Include="Items\itmRefresher_Orb.vb" />
+    <Compile Include="Items\itmRing_of_Aquila.vb" />
+    <Compile Include="Items\itmRing_of_Basilius.vb" />
+    <Compile Include="Items\itmRing_of_Health.vb" />
+    <Compile Include="Items\itmRing_of_Protection.vb" />
+    <Compile Include="Items\itmRing_of_Regen.vb" />
+    <Compile Include="Items\itmRobe_of_the_Magi.vb" />
+    <Compile Include="Items\itmRod_of_Atos.vb" />
+    <Compile Include="Items\itmSacred_Relic.vb" />
+    <Compile Include="Items\itmSages_Mask.vb" />
+    <Compile Include="Items\itmSalve.vb" />
+    <Compile Include="Items\itmSange.vb" />
+    <Compile Include="Items\itmSange_and_Yasha.vb" />
+    <Compile Include="Items\itmSatanic.vb" />
+    <Compile Include="Items\itmScythe_of_Vyse.vb" />
+    <Compile Include="Items\itmSentry_Ward.vb" />
+    <Compile Include="Items\itmShadow_Amulet.vb" />
+    <Compile Include="Items\itmShadow_Blade.vb" />
+    <Compile Include="Items\itmShivas_Guard.vb" />
+    <Compile Include="Items\itmSkull_Basher.vb" />
+    <Compile Include="Items\itmSlippers_of_Agility.vb" />
+    <Compile Include="Items\itmSmoke_of_Deceit.vb" />
+    <Compile Include="Items\itmSoul_Booster.vb" />
+    <Compile Include="Items\itmSoul_Ring.vb" />
+    <Compile Include="Items\itmStaff_of_Wizardry.vb" />
+    <Compile Include="Items\itmStout_Shield.vb" />
+    <Compile Include="Items\itmTalisman_of_Evasion.vb" />
+    <Compile Include="Items\itmTango.vb" />
+    <Compile Include="Items\itmTown_Portal_Scroll.vb" />
+    <Compile Include="Items\itmTranquil_Boots.vb" />
+    <Compile Include="Items\itmUltimate_Orb.vb" />
+    <Compile Include="Items\itmUrn_of_Shadows.vb" />
+    <Compile Include="Items\itmVanguard.vb" />
+    <Compile Include="Items\itmVeil_of_discord.vb" />
+    <Compile Include="Items\itmVitality_Booster.vb" />
+    <Compile Include="Items\itmVladmirs_Offering.vb" />
+    <Compile Include="Items\itmVoid_Stone.vb" />
+    <Compile Include="Items\itmWraith_Band.vb" />
+    <Compile Include="Items\itmYasha.vb" />
+    <Compile Include="Items_Architecture\ItemBase.vb" />
+    <Compile Include="Items_Architecture\Items.vb" />
+    <Compile Include="Items_Architecture\item_Database.vb" />
+    <Compile Include="Items_Architecture\Item_Info.vb" />
+    <Compile Include="Items_Architecture\Hero_Item_Inventory.vb" />
+    <Compile Include="Items_Architecture\Item_List.vb" />
+    <Compile Include="Items_Architecture\Item_Picker_List.vb" />
+    <Compile Include="List Item Lists\Ability_Listitem_List.vb" />
+    <Compile Include="List Item Lists\Build_Listitem_list.vb" />
+    <Compile Include="List Item Lists\Hero_Listitem_List.vb" />
+    <Compile Include="List Item Lists\Item_Listitem_List.vb" />
+    <Compile Include="PageHandler.xaml.vb">
+      <DependentUpon>PageHandler.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="System.Threading.Tasks" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows" />
+    <Import Include="System.Windows.Controls" />
+    <Import Include="System.Windows.Data" />
+    <Import Include="System.Windows.Documents" />
+    <Import Include="System.Windows.Input" />
+    <Import Include="System.Windows.Shapes" />
+    <Import Include="System.Windows.Media" />
+    <Import Include="System.Windows.Media.Imaging" />
+    <Import Include="System.Windows.Navigation" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Modifier Architecture\Modifier.vb" />
+    <Compile Include="Modifier Architecture\ModifierList.vb" />
+    <Compile Include="Modifier Architecture\Modifier_Database.vb" />
+    <Compile Include="Modifier Architecture\modInfo.vb" />
+    <Compile Include="Modifier Architecture\ModorStat.vb" />
+    <Compile Include="Modifier Architecture\modValue.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWpfExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.WPF.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+    </EmbeddedResource>
+    <None Include="DotaMasterWPF_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <AppDesigner Include="My Project\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\Loadback.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Content Include="Assets\missingimage.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Assets\DMIcon128.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\DMIcon16.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\DMIcon32.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\DMIcon48.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Content Include="Assets\DotaMasterGradient2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Assets\overviewicon_attack.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\overviewicon_defense.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\overviewicon_speed.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\primaryoverviewicon_agi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\primaryoverviewicon_int.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\primaryoverviewicon_str.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Workarea.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

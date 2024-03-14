@@ -1,0 +1,144 @@
+﻿<UserControl xmlns:DotaMasterWPF="clr-namespace:DotaMasterWPF"  x:Class="TeamvsTeam"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+              d:DesignWidth="1000">
+
+  <Grid >
+    <Grid>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="16"/>
+        <ColumnDefinition Width="1*"/>
+        <ColumnDefinition Width=" 16"/>
+                          
+      </Grid.ColumnDefinitions>
+
+      <Rectangle x:Name="rectRadSwatch" Fill="Green" Grid.Column="0"/>
+      <Rectangle x:Name="rectDireSwatch" Grid.Column="2" Fill="red"/>
+    </Grid>
+    <Grid x:Name="LayoutRoot"  Margin="5" >
+
+      <Grid.RowDefinitions>
+        <RowDefinition x:Name="rowHeader" Height="auto"/>
+        <RowDefinition x:Name="rowBody" Height="1*"/>
+        <RowDefinition x:Name="rowFooter" Height="auto"/>
+      </Grid.RowDefinitions>
+
+      <Grid Grid.Row="0" x:Name="grdHeader" VerticalAlignment="Bottom">
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition x:Name="colRadTeamStats" Width="1*"/>
+          <ColumnDefinition x:Name="colGameStats" Width="auto"/>
+          <ColumnDefinition x:Name="colDireTeamStats" Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel  Grid.Column="1" Orientation="Horizontal">
+          <DotaMasterWPF:ctrlNavigationBar x:Name="ctrlNavigationBar" Margin="0,0,15,0"/>
+          
+          <!--<DotaMasterWPF:ctrlTime_Display_Horizontal x:Name="ctrlTimeDisplay"/>-->
+          <!--<Label x:Name="lblCurrentTime" HorizontalAlignment="Center" Foreground="#FFFFDC00" Margin="20,0,20,0" FontWeight="Bold" FontSize="24" FontFamily="Helvetica"/>
+          <Label Foreground="#FF818181" Content="Current Time" Margin="0" HorizontalAlignment="Center" FontSize="9"/>-->
+        </StackPanel>
+
+      </Grid>
+
+
+      <Grid Grid.Row="1" >
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition x:Name="colRadBadges" Width="auto"/>
+          <ColumnDefinition x:Name="colDetails" Width="1*"/>
+          <ColumnDefinition x:Name="colDireBadges" Width="auto"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0">
+          <!--<Grid.RowDefinitions>-->
+          <!--<RowDefinition Height="auto" />
+          <RowDefinition />
+        </Grid.RowDefinitions>-->
+
+     
+
+
+
+          <ScrollViewer  Margin="3" BorderThickness="0" Grid.Row="1" Grid.Column="0"  VerticalScrollBarVisibility="Hidden"  HorizontalScrollBarVisibility="Disabled" >
+            <DockPanel  x:Name="dpnlRadiant" LastChildFill="true" />
+          </ScrollViewer>
+        </Grid>
+
+        <Grid Grid.Column="1" >
+          <Grid.RowDefinitions>
+            <RowDefinition x:Name="rodMiddleTop" Height="3*"></RowDefinition>
+            <RowDefinition x:Name="rowMiddleBody" Height="2*"></RowDefinition>
+          </Grid.RowDefinitions>
+
+         
+
+          <Grid x:Name="grdDetails" Grid.Row="0">
+            <Grid.ColumnDefinitions>
+              <ColumnDefinition/>
+
+            </Grid.ColumnDefinitions>
+
+            <ScrollViewer  Margin="3" BorderThickness="0" Grid.Row="1" Grid.Column="0"  VerticalScrollBarVisibility="Hidden"  HorizontalScrollBarVisibility="Disabled" >
+
+              <DockPanel  LastChildFill="True" x:Name="spnlDetails" Margin="10"></DockPanel>
+
+            </ScrollViewer>
+              
+
+          </Grid>
+
+          <Grid x:Name="grdGraph" Grid.Row="1" >
+
+            <Grid.RowDefinitions>
+              <RowDefinition Height="auto" x:Name="rowGraphTitle"/>
+              
+              <RowDefinition x:Name="rowGraph" />
+            </Grid.RowDefinitions>
+
+      
+            <!--<Label x:Name="lblCurrentTime" HorizontalAlignment="Center" Foreground="#FFFFDC00" Margin="20,0,20,0" FontWeight="Bold" FontSize="24" FontFamily="Helvetica"/>
+          <Label Foreground="#FF818181" Content="Current Time" Margin="0" HorizontalAlignment="Center" FontSize="9"/>-->
+            <DockPanel Grid.Row="1"  LastChildFill="True">
+
+              <DockPanel x:Name="ChartRoot" Grid.Row="1"  DockPanel.Dock="Left" Height="auto" Margin="5" LastChildFill="True"  >
+
+              </DockPanel>
+
+            </DockPanel>
+
+          </Grid>
+
+        </Grid>
+
+        <Grid Grid.Column="2" Grid.Row="1">
+          <!--<Grid.RowDefinitions>
+          <RowDefinition Height="auto"/>
+          <RowDefinition />
+        </Grid.RowDefinitions>-->
+    
+
+          <ScrollViewer BorderThickness="0" Margin="3" Grid.Row="1" Grid.Column="2" VerticalScrollBarVisibility="Hidden"  HorizontalScrollBarVisibility="Disabled" >
+            <DockPanel x:Name="dpnlDire" LastChildFill="true" />
+          </ScrollViewer>
+        </Grid>
+      </Grid>
+
+      <Grid Grid.Row="2" x:Name="grdFooter" VerticalAlignment="Center">
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition/>
+          <ColumnDefinition Width="auto"/>
+          <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel x:Name="spnlRadiantTarget" HorizontalAlignment="left" Margin="16,8,0,8"/>
+
+        <StackPanel Grid.Column="1" x:Name="spnlGameFooter" HorizontalAlignment="Center" Margin="8" Orientation="Horizontal"/>
+
+        <StackPanel Grid.Column="2" x:Name="spnlDireTarget" HorizontalAlignment="Right" Margin="0,8,16,8"/>
+      </Grid>
+
+    </Grid>
+  </Grid>
+
+</UserControl>

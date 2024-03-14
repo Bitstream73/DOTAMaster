@@ -1,0 +1,593 @@
+﻿11:50:29.1229709 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+11:50:29.1254699 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+11:50:30.2132803 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.2142141 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.2147140 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.2157386 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.2162148 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.2777763 0be6: Stattype.Agility Start val(0): 21 End val(3590): 73.5
+11:50:30.2842799 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.2852209 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.2862543 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.2867212 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.2877237 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.2982805 bb5d: Stattype.Agility Start val(0): 20 End val(3590): 72.5
+11:50:30.3132247 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.3142250 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.3147249 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.3157253 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.3162241 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.3362251 2c40: Stattype.Intelligence Start val(0): 24 End val(3590): 76.5
+11:50:30.3432281 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.4388109 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.4397364 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.4407412 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.4412411 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.4602428 b1e0: Stattype.Intelligence Start val(0): 25 End val(3590): 79.6
+11:50:30.4677419 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.4692427 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.4697442 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.4702507 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.4712434 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.4913054 219a: Stattype.Agility Start val(0): 27 End val(3590): 85.8
+11:50:30.5062507 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.5072830 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.5077554 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.5087524 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.6393063 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.6778267 49ca: Stattype.Strength Start val(0): 24 End val(3590): 96
+11:50:30.6862683 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.6872714 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.6877746 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.6887717 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.6892727 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.7352795 21bd: Stattype.Strength Start val(0): 23 End val(3590): 83.9
+11:50:30.7467415 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.7477407 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.7482434 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.7487411 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.7497409 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.7932476 fe03: Stattype.Agility Start val(0): 19 End val(3590): 65.2
+11:50:30.8472523 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.8482532 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.8492536 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.8497535 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.8502534 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.8987586 01a3: Stattype.Intelligence Start val(0): 27 End val(3590): 102.6
+11:50:30.9067598 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.9077931 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.9082611 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.9092609 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.9097575 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:30.9707685 728a: Stattype.Strength Start val(0): 17 End val(3590): 56.9
+11:50:30.9757692 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+11:50:30.9772694 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+11:50:31.0412792 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+11:50:33.4574656 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.4659974 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.4684700 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.4709673 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.4734685 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.4769683 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.4794689 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.4829682 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.4849684 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.4874695 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.9095232 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.9130253 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.9155248 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.9185247 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.9210259 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.9230239 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.9255256 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.9255256 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.9255256 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:33.9255256 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.2171657 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.2196696 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.2226684 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.2246686 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.2271686 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.2301697 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.2326697 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.2351698 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.2371699 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.2396705 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.5393371 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.5418383 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.5468373 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.5503388 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.5558393 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.5593392 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.5638399 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.5673409 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.5713412 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.5753415 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.9393875 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.9448880 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.9483879 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.9508880 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.9538885 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.9568895 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.9608904 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.9643908 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.9678895 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:34.9718898 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.3259345 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.3294365 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.3329370 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.3364379 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.3399378 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.3434382 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.3479389 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.3514382 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.3549397 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.3584401 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.7489891 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.7524895 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.7559905 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.7589860 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.7644899 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.7684902 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.7714918 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.7739924 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.7779927 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:35.7809926 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.1415960 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.1450964 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.1495977 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.1540979 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.1575988 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.1610987 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.1645996 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.1696003 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.1731013 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.1786018 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.5456483 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.5491481 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.5536489 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.5571493 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.5606497 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.5641501 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.5676478 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.5736488 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.5766498 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.5801502 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.9436980 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.9471962 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.9506993 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.9542003 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.9586999 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.9622003 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.9662012 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.9702015 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.9742018 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:36.9777028 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.3672602 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.3712610 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.3747609 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.3787617 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.3832614 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.3947641 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.3977651 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.4022642 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.4057652 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.4092639 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.4142657 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.4177666 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.4212637 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.4252635 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.4302675 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.5262754 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.5292803 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.5327768 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.5387773 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.5872880 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.5907884 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.5947887 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.5982891 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.6032898 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.6082904 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.6117908 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.6152912 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.6197920 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.6247932 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.6287935 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.6332937 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.6372935 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.6402945 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.7878131 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.7913085 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.7943140 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.7968113 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.8003144 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.8038148 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.8068154 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.8123165 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.8168123 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.8203171 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.8238175 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.8268180 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.8310685 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.8343159 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.8378191 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.9888386 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:45.9928384 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:50.0078447 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+11:50:51.6962449 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7012445 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7036939 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7062308 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7112430 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7182422 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7207312 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7246628 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7271601 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7322075 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7346586 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7371592 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7401597 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7426570 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7451598 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7481625 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7506945 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7551611 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7596701 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7621620 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7651652 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7676999 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.7701934 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9298778 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9323790 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9353789 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9378839 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9418820 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9444123 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9468805 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9498810 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9548817 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9578816 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9623824 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9649143 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9704286 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:51.9744146 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1309034 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1339066 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1364028 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1394363 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1424308 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1474056 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1499023 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1539065 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1569263 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1619671 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1644099 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1669083 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.1694084 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.7804850 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.7834823 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.7859917 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.7899870 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.7929864 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.7970318 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8019912 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8060168 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8084888 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8125144 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8149930 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8175178 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8204925 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8230080 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8254937 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8284942 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8312967 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8369947 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8395327 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8419959 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8454936 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:52.8480250 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0051654 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0081527 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0106748 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0141636 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0181716 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0237008 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0261799 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0286816 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0321556 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0346562 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0371618 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0427025 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0451905 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.0491765 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2056778 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2081801 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2107115 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2141817 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2186824 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2211825 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2236831 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2287118 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2327165 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2516836 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2546841 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2566842 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2591843 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:53.2621881 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1157799 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1187705 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1242072 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1267073 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1292079 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1337273 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1377051 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1402117 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1427431 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1447120 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1477422 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1582582 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1607115 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1632083 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1657122 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1682298 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1722191 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1747137 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1782141 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1812141 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.1837141 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3377853 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3402309 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3432369 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3492373 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3522346 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3552362 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3577472 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3602385 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3627391 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3657517 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3702398 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3727398 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3767401 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.3792402 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5387580 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5412570 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5447574 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5497580 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5522586 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5567599 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5612591 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5647600 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5687603 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5722613 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5752596 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5777591 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5802597 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5837601 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:56.5887607 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9116675 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9146680 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9171686 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9196681 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9222050 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9277149 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9331912 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9371987 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9396762 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9436985 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9466743 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9506927 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9536762 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9576732 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9601991 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9631754 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9752269 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9776753 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9803502 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9828486 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:57.9868462 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1314203 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1343856 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1374021 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1398680 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1443974 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1468815 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1509170 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1553683 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1578722 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1609145 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1653943 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1704054 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1738717 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.1764020 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3323898 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3353908 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3378887 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3403909 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3459206 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3489123 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3519299 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3544222 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3569234 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3598980 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3643977 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3693934 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3744177 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3783999 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:58.3809005 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.0537394 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.0567085 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.0597079 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.0616745 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.0727196 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.0782219 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.0831741 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.0866773 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.0891768 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.0926783 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.0957101 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.0981937 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.1011793 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.1037091 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.1061778 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.1086850 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.1111757 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.1172185 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.1196960 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.1221840 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.1257053 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.2867008 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.2902007 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.2932012 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.2957040 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.3001987 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.3037051 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.3072028 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.3097034 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.3122018 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.3147041 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.3182045 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.3227074 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.3257019 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.3302059 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.4872253 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.4897260 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.4927496 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.4972267 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.4997273 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.5032777 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.5057305 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.5087282 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.5107608 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.5132422 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.5162306 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.5187334 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.5217300 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.5237330 Value missing for: DotaMasterWPF.eAbilityName.None
+11:50:59.5267307 Value missing for: DotaMasterWPF.eAbilityName.None
+11:51:35.7176966 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:51.6270980 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+12:12:51.6270980 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+12:12:52.3668609 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.3668609 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.3668609 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.3668609 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.3668609 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.4137333 6a0f: Stattype.Agility Start val(0): 21 End val(3590): 73.5
+12:12:52.4137333 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.4137333 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.4137333 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.4294354 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.4294354 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.4294354 54e3: Stattype.Agility Start val(0): 20 End val(3590): 72.5
+12:12:52.4449857 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.4449857 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.4449857 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.4449857 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.4449857 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.4666205 c8bb: Stattype.Intelligence Start val(0): 24 End val(3590): 76.5
+12:12:52.4671573 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.5826717 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.5826717 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.5826717 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.5826717 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.6138806 9e73: Stattype.Intelligence Start val(0): 25 End val(3590): 79.6
+12:12:52.6138806 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.6138806 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.6138806 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.6138806 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.6138806 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.6295277 fd6a: Stattype.Agility Start val(0): 27 End val(3590): 85.8
+12:12:52.6451285 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.6451285 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.6451285 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.6451285 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.7980641 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.8448315 98ec: Stattype.Strength Start val(0): 24 End val(3590): 96
+12:12:52.8448315 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.8448315 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.8448315 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.8448315 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.8448315 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.8825973 decb: Stattype.Strength Start val(0): 23 End val(3590): 83.9
+12:12:52.8825973 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.8825973 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.8825973 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.8825973 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.8825973 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.9138431 85d6: Stattype.Agility Start val(0): 19 End val(3590): 65.2
+12:12:52.9985210 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.9985210 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:52.9985210 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:53.0141246 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:53.0141246 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:53.0588583 a633: Stattype.Intelligence Start val(0): 27 End val(3590): 102.6
+12:12:53.0653586 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:53.0658602 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:53.0668776 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:53.0668776 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:53.0680572 Value missing for: DotaMasterWPF.eAbilityName.None
+12:12:53.1090403 f12f: Stattype.Strength Start val(0): 17 End val(3590): 56.9
+12:12:53.1140415 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+12:12:53.1150429 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+12:12:53.2006013 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+12:12:55.2323299 Value missing for: DotaMasterWPF.eAbilityName.None
+12:14:15.5752865 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+12:14:15.5752865 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+12:16:39.8802007 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+12:16:39.8802007 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+12:16:40.7070585 3492: Stattype.Agility Start val(0): 25 End val(3590): 73.5
+12:16:40.7260602 f375: Stattype.Agility Start val(0): 24 End val(3590): 72.5
+12:16:40.7535636 ced0: Stattype.Intelligence Start val(0): 28 End val(3590): 76.5
+12:16:40.7800671 2bf8: Stattype.Intelligence Start val(0): 29 End val(3590): 79.6
+12:16:40.8120712 c1bd: Stattype.Agility Start val(0): 31 End val(3590): 85.8
+12:18:04.5971331 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+12:18:04.5971331 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+12:18:05.3828357 530a: Stattype.Agility Start val(0): 25 End val(3590): 73.5
+12:18:05.3984668 b879: Stattype.Agility Start val(0): 24 End val(3590): 72.5
+12:18:05.4206110 4704: Stattype.Intelligence Start val(0): 28 End val(3590): 76.5
+12:18:05.4518594 f80c: Stattype.Intelligence Start val(0): 29 End val(3590): 79.6
+12:18:05.4674850 413e: Stattype.Agility Start val(0): 31 End val(3590): 85.8
+12:18:05.5208754 80ba: Stattype.Strength Start val(0): 28 End val(3590): 96
+12:18:05.5833751 5694: Stattype.Strength Start val(0): 27 End val(3590): 83.9
+12:18:05.6367677 3890: Stattype.Agility Start val(0): 23 End val(3590): 65.2
+12:18:05.7074654 528b: Stattype.Intelligence Start val(0): 31 End val(3590): 102.6
+12:18:05.7919789 e8df: Stattype.Strength Start val(0): 21 End val(3590): 56.9
+12:18:05.7959798 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+12:18:05.7969790 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+12:18:05.7989781 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+12:19:54.9853685 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+12:19:54.9853685 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+12:19:55.7819754 7915: Stattype.Agility Start val(0): 25 End val(3590): 73.5
+12:19:55.7984820 f6ed: Stattype.Agility Start val(0): 24 End val(3590): 72.5
+12:19:55.8168585 3ebe: Stattype.Intelligence Start val(0): 28 End val(3590): 76.5
+12:19:55.8481306 894b: Stattype.Intelligence Start val(0): 29 End val(3590): 79.6
+12:19:55.8793378 025a: Stattype.Agility Start val(0): 31 End val(3590): 85.8
+12:19:55.9372757 a8f0: Stattype.Strength Start val(0): 28 End val(3590): 96
+12:19:55.9923033 3964: Stattype.Strength Start val(0): 27 End val(3590): 83.9
+12:19:56.0548365 87e6: Stattype.Agility Start val(0): 23 End val(3590): 65.2
+12:19:56.1269245 9309: Stattype.Intelligence Start val(0): 31 End val(3590): 102.6
+12:19:56.2124103 5186: Stattype.Strength Start val(0): 21 End val(3590): 56.9
+12:19:56.2124103 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+12:19:56.2124103 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+12:19:56.2124103 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+12:21:05.1299256 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+12:21:05.1299256 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+12:21:05.9119166 92bb: Stattype.Agility Start val(0): 25 End val(3590): 73.5
+12:21:05.9284419 5e5e: Stattype.Agility Start val(0): 24 End val(3590): 72.5
+12:21:05.9452763 fc6d: Stattype.Intelligence Start val(0): 28 End val(3590): 76.5
+12:21:05.9765275 eb53: Stattype.Intelligence Start val(0): 29 End val(3590): 79.6
+12:21:06.0077996 e8f4: Stattype.Agility Start val(0): 31 End val(3590): 85.8
+12:21:06.0654725 8803: Stattype.Strength Start val(0): 28 End val(3590): 96
+12:21:06.1200012 2c4f: Stattype.Strength Start val(0): 27 End val(3590): 83.9
+12:21:06.1800394 b5f5: Stattype.Agility Start val(0): 23 End val(3590): 65.2
+12:21:06.2587229 cd4b: Stattype.Intelligence Start val(0): 31 End val(3590): 102.6
+12:21:06.3364093 c998: Stattype.Strength Start val(0): 21 End val(3590): 56.9
+12:21:06.3364093 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+12:21:06.3364093 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+12:21:06.3364093 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+12:24:03.5996178 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+12:24:03.5996178 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+12:38:09.8847905 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+12:38:09.8847905 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+12:53:56.6539227 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+12:53:56.6695472 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike

@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="ctrlItem_Thumb"
+             xmlns:DotaMasterWPF="clr-namespace:DotaMasterWPF"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+          >
+  <Grid x:Name="LayoutRoot"  Width="44" Height="auto"  Margin="2" >
+    <Grid.RowDefinitions>
+      <RowDefinition Height="26" x:Name="rowItem"/>
+      <RowDefinition Height="auto"/>
+
+    </Grid.RowDefinitions>
+    <Grid Grid.Row="0">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition x:Name="colSwatch" Width="12"/>
+        <ColumnDefinition />
+      </Grid.ColumnDefinitions>
+      <Rectangle Grid.Column="0" Grid.ColumnSpan="2" Stroke="Gray" />
+      <Rectangle x:Name="swatch" Grid.Column="0"  Fill="Gray"/>
+
+      <Image Grid.Column="1" x:Name="thumbImage" />
+      <!--Source="http://cdn.dota2.com/apps/dota2/images/items/tango_lg.png" />-->
+    </Grid>
+
+    <!--<DotaMasterWPF:btnMinimalState x:Name="btnState" Grid.Row="1"/>-->
+
+    <Rectangle x:Name="rectSelected" Stroke="Yellow" />
+  </Grid>
+</UserControl>

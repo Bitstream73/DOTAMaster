@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="ctrlTime_Display_Horizontal"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             >
+    <Grid>
+    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+      <Label Foreground="#FF818181" Content="Current Time" Height="38" Margin="0" VerticalContentAlignment="Center" HorizontalAlignment="Center" FontSize="9"/>
+      <Label x:Name="lblCurrentTime" Content="00:00" HorizontalAlignment="Center" Foreground="#FFFFDC00" Margin="0,0,20,0" FontWeight="Bold" FontSize="24" FontFamily="Helvetica"/>
+      
+    </StackPanel>
+    
+  </Grid>
+</UserControl>

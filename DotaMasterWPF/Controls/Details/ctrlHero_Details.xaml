@@ -1,0 +1,73 @@
+﻿<UserControl xmlns:DotaMasterWPF="clr-namespace:DotaMasterWPF"  x:Class="ctrlHero_Details"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+    <StackPanel>
+      
+      <DotaMasterWPF:ctrlHeadingLabel x:Name="lblTitle" HorizontalAlignment="Center" FontSize="18" Foreground="#FFFBFBFB" />
+    <DotaMasterWPF:ctrlSummary x:Name="ctrlSummary" Margin="0,100"/>
+      <!--<Label x:Name="lblContentPath" Content="Game / RadiantvsDire / HerovsHero / Hero" HorizontalAlignment="Center" Foreground="#FFFBFBFB"/>-->
+      <Grid x:Name="grdStats">
+
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition x:Name="colStats"/>
+
+          <ColumnDefinition x:Name="colOffense"/>
+          <ColumnDefinition x:Name="colDefense"/>
+
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" HorizontalAlignment="Center">
+          <DotaMasterWPF:ctrlSubHeading x:Name="lblStats"   HorizontalAlignment="Center" />
+          
+          <StackPanel x:Name="spnlStats" />
+        </StackPanel>
+
+
+
+
+        <StackPanel Grid.Column="1" HorizontalAlignment="Center">
+
+          <DotaMasterWPF:ctrlSubHeading x:Name="lblDefense" HorizontalAlignment="Center"  />
+          <StackPanel x:Name="spnlDefense" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" HorizontalAlignment="Center">
+          <DotaMasterWPF:ctrlSubHeading x:Name="lblOffense"  HorizontalAlignment="Center" />
+          
+          <StackPanel x:Name="spnlOffense" />
+        </StackPanel>
+
+      </Grid>
+      <DotaMasterWPF:ctrlSubHeading x:Name="lblResources" HorizontalAlignment="Center"/>
+      <Grid x:Name="grdResources">
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition x:Name="colKills"/>
+          <ColumnDefinition x:Name="colGold"/>
+          <ColumnDefinition x:Name="colXP"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" HorizontalAlignment="Center">
+          <!--<Label Content="hello"/>-->
+          <StackPanel x:Name="spnlKills" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" HorizontalAlignment="Center">
+          <StackPanel x:Name="spnlGold" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" HorizontalAlignment="Center">
+          <StackPanel x:Name="spnlXP" />
+        </StackPanel>
+
+      </Grid>
+      
+      <DotaMasterWPF:ctrlSubHeading x:Name="lblComponents" HorizontalAlignment="Center" />
+      <DotaMasterWPF:ctrlDataItemViewHorizontal x:Name="dviewDataItems"/>
+    </StackPanel>
+  </Grid>
+</UserControl>

@@ -1,0 +1,1077 @@
+﻿12:28:36.7151643 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+12:28:36.7172002 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+12:28:37.4635771 b090: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+12:28:37.4766058 f7e0: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+12:28:37.5040971 927e: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+12:28:37.5261021 70a9: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+12:28:37.5531001 ca54: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+12:28:37.6061149 2a79: Stattype.Strength Start val(0): 24 End val(3590): 112
+12:28:37.6586100 70ee: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+12:28:37.7638472 22bf: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+12:28:37.8385943 103d: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+12:28:37.9218974 25c4: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+12:28:37.9263696 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+12:28:37.9273524 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+12:28:37.9293503 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+12:29:43.8801054 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+12:29:45.8349185 Value missing for: DotaMasterWPF.eModifierType.BaseMovementSpeed
+12:31:00.1926724 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+12:31:00.1946549 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+12:31:00.9182304 b553: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+12:31:00.9317794 ec06: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+12:31:00.9588401 16e9: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+12:31:00.9816761 279d: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+12:31:01.0092647 5ccc: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+12:31:01.0614579 6558: Stattype.Strength Start val(0): 24 End val(3590): 112
+12:31:01.1187167 9b14: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+12:31:01.1824208 37a1: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+12:31:01.2487460 cd83: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+12:31:01.3328537 35f3: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+12:31:01.3373457 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+12:31:01.3383466 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+12:31:01.3398496 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+12:36:59.3416803 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+12:36:59.4417073 Value missing for: DotaMasterWPF.eModifierType.BaseMovementSpeed
+12:38:25.4561110 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+12:38:25.4581117 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+12:38:26.3392232 1403: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+12:38:26.3537253 9826: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+12:38:26.3837265 8d5b: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+12:38:26.4082321 cb67: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+12:38:26.4382355 512d: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+12:38:26.5117452 4243: Stattype.Strength Start val(0): 24 End val(3590): 112
+12:38:26.5707528 3885: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+12:38:26.6362613 c044: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+12:38:26.7117706 99b9: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+12:38:26.8067827 8126: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+12:38:26.8112834 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+12:38:26.8122854 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+12:38:26.8143043 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+13:43:18.3541575 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+14:10:00.6190095 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:10:00.6210102 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:10:01.3933494 0dd4: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:10:01.4063535 59e4: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:10:01.4344519 1f08: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:10:01.4576871 7df5: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:10:01.4854754 c884: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:10:01.5396275 042d: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:10:01.5945231 d6c3: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:10:01.6532756 1059: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:10:01.7203289 e718: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:10:01.8067139 a1fb: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:10:01.8112147 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:10:01.8127155 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:10:01.8152425 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:11:14.9457475 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:11:14.9477290 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:11:15.7208491 d0b8: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:11:15.7368504 beb2: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:11:15.7713546 0fbe: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:11:15.7988629 f154: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:11:15.8368680 13f1: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:11:15.9003819 9a3b: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:11:15.9678823 7b12: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:11:16.0414090 d425: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:11:16.1086405 2514: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:11:16.1985238 3439: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:11:16.2045319 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:11:16.2055422 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:11:16.2075836 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:13:53.6546779 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:13:53.6566583 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:13:54.3698711 9afd: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:13:54.3838717 9f13: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:13:54.4124139 25df: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:13:54.4349441 390e: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:13:54.4624953 8857: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:13:54.5160524 526f: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:13:54.5691266 0604: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:13:54.6261918 c30b: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:13:54.6917575 eb47: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:13:54.7753813 1360: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:13:54.7798809 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:13:54.7808813 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:13:54.7828820 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:29:02.0496626 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:29:02.0511623 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:29:02.7711577 238c: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:29:02.7841557 3f2b: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:29:02.8127375 b9ed: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:29:02.8355801 539e: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:29:02.8698395 8ba0: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:29:02.9199248 64ee: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:29:02.9726327 f00b: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:29:03.0302424 0c18: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:29:03.0945471 ab56: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:29:03.1761179 6b6d: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:29:03.1806186 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:29:03.1816019 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:29:03.1831022 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:30:14.2139465 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:30:14.2154583 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:30:14.9218985 25ef: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:30:14.9348839 f5f5: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:30:14.9628838 e18e: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:30:14.9853910 e018: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:30:15.0123950 b79c: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:30:15.0854037 495d: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:30:15.1499124 560b: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:30:15.2194212 d60a: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:30:15.2994313 460d: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:30:15.3994440 1b13: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:30:15.4044452 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:30:15.4054455 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:30:15.4074457 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:32:44.3883576 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:32:44.3903456 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:32:45.1525076 913b: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:32:45.1655056 4425: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:32:45.1926520 3ec3: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:32:45.2152856 4e08: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:32:45.2424436 e511: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:32:45.2936491 43ce: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:32:45.3453776 e816: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:32:45.4010635 1bf9: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:32:45.4725978 6abb: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:32:45.5584417 d4bb: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:32:45.5629419 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:32:45.5639258 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:32:45.5654260 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:34:06.0133678 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:34:06.0148967 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:34:06.7316831 3fa2: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:34:06.7485257 ffa6: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:34:06.7776795 e374: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:34:06.8026993 cca0: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:34:06.8297627 0ae6: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:34:06.8818470 301b: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:34:06.9343818 3648: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:34:06.9924781 49c0: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:34:07.0605758 7857: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:34:07.1441852 faa9: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:34:07.1486871 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:34:07.1496968 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:34:07.1517431 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:35:53.0884416 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:35:53.0904423 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:35:53.8527703 813e: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:35:53.8657705 9653: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:35:53.8928476 5a52: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:35:53.9154119 9b0e: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:35:53.9423648 c93c: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:35:53.9945476 ab9a: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:35:54.0464191 0613: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:35:54.1041722 5612: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:35:54.1709071 8566: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:35:54.2542345 f36a: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:35:54.2592681 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:35:54.2602179 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:35:54.2617456 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:38:19.7323628 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:38:19.7343905 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:38:20.4767406 8384: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:38:20.4902418 2475: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:38:20.5202446 b3b9: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:38:20.5427451 28d2: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:38:20.5712516 4f6a: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:38:20.6272565 358d: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:38:20.6807613 5f41: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:38:20.7382725 3104: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:38:20.8057812 2ab3: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:38:20.8923785 3a58: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:38:20.8978945 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:38:20.8988816 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:38:20.9008796 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:38:43.8527884 Value missing for: DotaMasterWPF.eModifierType.BaseMovementSpeed
+14:41:32.8829684 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:41:32.8844758 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:41:33.5917239 4d9c: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:41:33.6058064 c025: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:41:33.6328242 6d16: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:41:33.6559027 56a7: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:41:33.6825019 bfe7: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:41:33.7346742 2d70: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:41:33.7864390 1c25: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:41:33.8436786 d3a9: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:41:33.9089424 0f83: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:41:34.0030552 319e: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:41:34.0075549 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:41:34.0090854 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:41:34.0105802 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:42:43.8542386 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:42:43.8562432 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:42:44.5862228 ee17: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:42:44.6007370 a89e: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:42:44.6297571 a6fd: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:42:44.6533212 76fd: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:42:44.6825476 c572: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:42:44.7337525 d9c7: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:42:44.7860304 dd93: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:42:44.8454587 fa3b: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:42:44.9191103 f7fc: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:42:45.0021533 ba36: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:42:45.0066618 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:42:45.0076610 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:42:45.0091635 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:47:39.9427503 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:47:39.9442456 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:47:40.6752333 b2a1: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:47:40.6877325 0326: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:47:40.7152732 8075: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:47:40.7378045 0849: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:47:40.7658512 704b: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:47:40.8184173 bc86: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:47:40.8714899 c630: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:47:40.9275663 5080: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:47:40.9951465 7b65: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:47:41.0792690 c8d1: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:47:41.0842713 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:47:41.0852722 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:47:41.0872658 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:48:44.2049285 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:48:44.2069726 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:48:44.9298238 f1a8: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:48:44.9423258 44e1: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:48:44.9694260 2ea5: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:48:44.9920283 3400: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:48:45.0191753 2975: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:48:45.0693293 f18b: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:48:45.1205771 7c65: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:48:45.1757269 e414: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:48:45.2415136 91a5: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:48:45.3234293 09ea: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:48:45.3279355 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:48:45.3289645 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:48:45.3309184 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:50:22.1487454 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:50:22.1507362 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:50:22.8721306 24be: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:50:22.8851770 5d38: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:50:22.9118092 52de: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:50:22.9338131 3a88: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:50:22.9616261 eef3: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:50:23.0128476 0e63: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:50:23.0662001 bf65: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:50:23.1224728 fd83: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:50:23.1872086 fcbf: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:50:23.2711789 7102: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:50:23.2755971 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:50:23.2765799 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:50:23.2785778 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:51:01.8720618 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:51:01.8740455 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:51:02.6286281 de76: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:51:02.6421254 baeb: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:51:02.6701699 cfcf: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:51:02.6922607 1b30: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:51:02.7199406 e017: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:51:02.7711654 124b: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:51:02.8233388 4aef: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:51:02.8862818 250c: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:51:02.9515764 e256: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:51:03.0344572 061f: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:51:03.0389453 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:51:03.0404461 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:51:03.0420008 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:52:25.8665965 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:52:25.8686593 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:52:26.6252025 6524: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:52:26.6387031 6d3c: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:52:26.6665249 2422: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:52:26.6890699 5de5: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:52:26.7166123 17fc: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:52:26.7686769 fae4: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:52:26.8212820 f89d: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:52:26.8778583 2ec9: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:52:26.9434306 4fae: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:52:27.0300472 1230: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:52:27.0345518 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:52:27.0355532 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:52:27.0370518 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+14:53:19.8712457 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+14:53:19.8732514 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+14:53:20.5973730 6411: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+14:53:20.6108494 afcc: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+14:53:20.6379420 e9d8: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+14:53:20.6600223 2ef8: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+14:53:20.6871380 aa9d: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+14:53:20.7382670 4642: Stattype.Strength Start val(0): 24 End val(3590): 112
+14:53:20.7899279 ca43: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+14:53:20.8466213 f25f: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+14:53:20.9171850 0f27: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+14:53:21.0020109 77c4: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+14:53:21.0065122 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+14:53:21.0075131 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+14:53:21.0090128 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:03:26.5086672 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:03:26.5107025 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:03:27.2828509 bb80: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:03:27.2968762 dc8e: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:03:27.3253260 d731: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:03:27.3479239 8f7e: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:03:27.3783431 3550: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:03:27.4352158 a6d5: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:03:27.4909176 e4d0: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:03:27.5524693 b078: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:03:27.6222476 cbea: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:03:27.7065637 0dde: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:03:27.7111305 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:03:27.7121187 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:03:27.7141194 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:05:04.2671274 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:05:04.2691441 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:05:05.0166290 247f: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:05:05.0301599 54a2: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:05:05.0577414 973b: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:05:05.0798030 0e24: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:05:05.1069280 d106: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:05:05.1645288 1335: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:05:05.2180496 a6b7: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:05:05.2742943 f56d: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:05:05.3400591 5c4c: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:05:05.4269039 47ee: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:05:05.4323879 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:05:05.4333844 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:05:05.4353984 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:06:26.7147981 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:06:26.7173812 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:06:27.5072148 ca05: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:06:27.5202336 17ee: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:06:27.5477645 3635: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:06:27.5703525 db8a: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:06:27.5973807 147a: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:06:27.6499418 0e24: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:06:27.7033872 de99: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:06:27.7614390 1343: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:06:27.8275365 67d1: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:06:27.9200513 4318: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:06:27.9245575 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:06:27.9260820 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:06:27.9275872 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:08:59.2432823 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:08:59.2452428 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:08:59.9745658 26d0: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:08:59.9875665 356f: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:09:00.0250437 9e49: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:09:00.0570809 bb70: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:09:00.0934961 a8f2: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:09:00.1649529 d49c: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:09:00.2332996 497b: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:09:00.2979827 d8b8: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:09:00.3658939 6ae8: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:09:00.4595817 0027: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:09:00.4646203 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:09:00.4660848 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:09:00.4675845 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:10:31.6608423 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:10:31.6623337 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:10:32.3864718 ff2d: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:10:32.3994737 78cc: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:10:32.4265657 4804: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:10:32.4486889 10b6: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:10:32.4757771 b8f0: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:10:32.5295855 3d65: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:10:32.5813244 1682: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:10:32.6394703 3781: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:10:32.7079479 950e: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:10:32.7929460 8fc4: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:10:32.7969463 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:10:32.7979274 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:10:32.7999248 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:11:56.4174080 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:11:56.4194070 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:11:57.1529816 ef32: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:11:57.1659884 5865: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:11:57.1929897 7c6c: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:11:57.2154885 1c8d: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:11:57.2429930 d5d7: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:11:57.2936326 bb9d: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:11:57.3456454 29d6: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:11:57.4026622 485d: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:11:57.4721612 b964: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:11:57.5636767 a40f: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:11:57.5681730 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:11:57.5696568 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:11:57.5712142 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:13:18.6736390 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:13:18.6756375 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:13:19.4232682 a54c: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:13:19.4357690 554d: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:13:19.4632988 0a30: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:13:19.4868585 546b: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:13:19.5235674 8cd7: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:13:19.5756985 f4d4: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:13:19.6298110 29b9: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:13:19.6878639 b08b: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:13:19.7549057 4d75: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:13:19.8380103 e770: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:13:19.8425121 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:13:19.8435130 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:13:19.8455137 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:14:23.2855638 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:14:23.2875706 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:14:24.0038378 d369: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:14:24.0168622 82f4: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:14:24.0439086 4c26: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:14:24.0660505 4d88: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:14:24.0964081 b052: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:14:24.1471005 07a0: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:14:24.1988334 d529: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:14:24.2630385 c184: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:14:24.3293065 ee22: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:14:24.4130683 9778: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:14:24.4175658 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:14:24.4180965 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:14:24.4200609 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:18:21.2661782 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:18:21.2681783 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:18:22.1461837 d5d6: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:18:22.1631424 3511: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:18:22.1982191 8358: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:18:22.2301501 8c3e: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:18:22.2651542 58fd: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:18:22.3271617 e800: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:18:22.3921704 4732: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:18:22.4611793 b37b: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:18:22.5443389 a049: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:18:22.6523528 e6e4: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:18:22.6568530 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:18:22.6578517 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:18:22.6598771 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:19:58.4805303 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:19:58.4826178 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:19:59.2428077 670f: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:19:59.2558084 3923: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:19:59.2821002 4476: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:19:59.3045293 511d: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:19:59.3329351 19e1: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:19:59.3845525 cdbf: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:19:59.4373045 98a8: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:19:59.4964694 f900: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:19:59.5627021 cd54: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:19:59.6460762 d347: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:19:59.6510758 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:19:59.6520959 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:19:59.6540592 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:21:00.8567656 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:21:00.8587438 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:21:01.5773791 aa04: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:21:01.5908847 e5d4: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:21:01.6260571 ed82: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:21:01.6537089 85cc: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:21:01.6809390 11f9: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:21:01.7321115 dbd5: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:21:01.7842904 2082: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:21:01.8472582 45ef: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:21:01.9125005 6fc5: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:21:01.9957767 923b: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:21:02.0002747 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:21:02.0007917 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:21:02.0017744 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:21:45.3416798 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+15:21:45.6296548 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+15:25:49.6570449 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:25:49.6595703 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:25:50.3631695 755e: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:25:50.3756879 137f: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:25:50.4030439 a391: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:25:50.4256187 58ee: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:25:50.4527800 58d3: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:25:50.5059290 70f8: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:25:50.5577790 0437: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:25:50.6250402 cd86: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:25:50.6908331 16da: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:25:50.7729747 89e5: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:25:50.7770014 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:25:50.7785061 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:25:50.7800322 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:33:32.5915732 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:33:32.5935558 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:33:33.3103048 11a5: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:33:33.3233281 c943: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:33:33.3503959 0eac: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:33:33.3725681 aeb6: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:33:33.3996656 c036: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:33:33.4508403 8ed5: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:33:33.5045206 4d98: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:33:33.5613174 3da4: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:33:33.6279879 62c3: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:33:33.7108049 3458: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:33:33.7158171 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:33:33.7167999 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:33:33.7188154 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:35:23.3485998 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:35:23.3506511 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:35:24.0771561 c0e3: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:35:24.0901711 fc31: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:35:24.1182536 4d81: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:35:24.1408515 a17a: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:35:24.1679809 f861: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:35:24.2191347 06ef: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:35:24.2723370 7c41: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:35:24.3295150 ada4: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:35:24.3952297 e15e: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:35:24.4850162 3c9a: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:35:24.4895153 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:35:24.4910001 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:35:24.4929997 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:37:05.7667768 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:37:05.7687605 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:37:06.4897331 eefc: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:37:06.5027580 8518: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:37:06.5309257 699f: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:37:06.5535417 f53e: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:37:06.5806997 26e9: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:37:06.6413868 0e37: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:37:06.6940552 ca81: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:37:06.7514987 74c7: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:37:06.8185576 e004: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:37:06.9145777 c425: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:37:06.9191076 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:37:06.9206205 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:37:06.9221196 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:38:03.5389632 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:38:03.5404728 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:38:04.2565068 7a1d: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:38:04.2695615 3c43: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:38:04.2966408 2b9c: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:38:04.3187415 9d1c: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:38:04.3463268 f6b5: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:38:04.3973030 e42b: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:38:04.4510966 3c02: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:38:04.5093309 c910: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:38:04.5760708 e27d: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:38:04.6588619 8c96: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:38:04.6633599 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:38:04.6643443 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:38:04.6658479 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:39:09.1993526 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:39:09.2008649 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:39:09.9652035 cc38: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:39:09.9786877 092e: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:39:10.0067008 bada: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:39:10.0287267 079e: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:39:10.0567526 aabf: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:39:10.1122779 f22c: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:39:10.1682014 4273: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:39:10.2252105 805b: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:39:10.2917815 3c77: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:39:10.3753437 8663: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:39:10.3798450 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:39:10.3808453 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:39:10.3823456 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:39:28.4727551 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+15:42:25.9310892 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:42:25.9326010 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:42:26.8811211 38d6: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:42:26.8946218 0f4e: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:42:26.9221532 c6eb: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:42:26.9446872 9b61: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:42:26.9727097 e429: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:42:27.0242425 14b0: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:42:27.0813363 1710: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:42:27.1401497 cb2c: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:42:27.2039160 9e2b: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:42:27.2871487 751a: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:42:27.2911502 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:42:27.2921527 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:42:27.2941694 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:46:36.8971982 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:46:36.8991726 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:46:37.6522950 3491: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:46:37.6652935 ead5: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:46:37.6928789 1bce: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:46:37.7149532 d1c8: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:46:37.7464645 0ce3: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:46:37.7983569 1aba: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:46:37.8500508 1432: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:46:37.9055354 abb6: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:46:37.9707767 9922: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:46:38.0569175 213b: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:46:38.0619468 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:46:38.0634014 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:46:38.0649341 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:48:18.6052641 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:48:18.6077747 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:48:43.1700041 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:48:43.1715093 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:50:21.1711172 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:50:21.1726488 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:50:21.9788411 c4ae: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:50:21.9933432 735a: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:50:22.0238471 5b76: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:50:22.0488504 59b5: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:50:22.0795319 b051: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:50:22.1395618 51fb: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:50:22.2015699 ea19: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:50:22.2683356 4d4b: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:50:22.3477726 9c2a: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:50:22.4515486 ce3c: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:50:22.4560444 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:50:22.4575469 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:50:22.4590449 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:57:10.7057355 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:57:10.7082488 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:58:37.2042036 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:58:37.2062076 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:58:37.9783841 cd06: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:58:37.9923852 178f: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:58:38.0213882 9daf: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:58:38.0443914 b317: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:58:38.0758956 080a: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:58:38.1289017 04f9: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:58:38.1839051 b5fd: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:58:38.2449167 4ce7: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:58:38.3159258 dc20: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:58:38.4074512 c2ff: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:58:38.4119343 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:58:38.4129352 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:58:38.4149354 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:58:50.8510726 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+15:59:28.9196432 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:59:28.9211435 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:00:17.5572720 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:00:17.5583185 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:01:29.0483235 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:01:29.0508241 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:02:11.6214172 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:02:11.6229741 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:04:24.0820589 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:04:24.0835586 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:04:24.8404256 1354: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:04:24.8564263 3ac4: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:04:24.8887241 b70c: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:04:24.9201910 9d13: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:04:24.9551285 ab8b: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:04:25.0172603 18bd: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:04:25.0811454 cc1a: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:04:25.1471423 7768: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:04:25.2327557 627b: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:04:25.3374595 3a49: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:04:25.3419740 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:04:25.3429738 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:04:25.3445104 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:05:27.0537025 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:05:27.0557143 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:05:27.8062179 a8cc: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:05:27.8217198 bbd8: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:05:27.8532256 5f3b: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:05:27.8817294 68c3: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:05:27.9147344 7412: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:05:27.9762360 c21b: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:05:28.0402448 2ea0: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:05:28.1072552 7289: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:05:28.1847647 0d37: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:05:28.2854604 bf22: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:05:28.2899562 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:05:28.2909417 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:05:28.2925025 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:13:49.1970989 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:13:49.1991315 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:13:49.9214949 5118: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:13:49.9374917 ecd4: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:13:49.9694959 a75a: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:13:49.9989999 2ab0: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:13:50.0330081 b83b: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:13:50.0990165 bab6: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:13:50.1660258 95d5: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:13:50.2342219 0009: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:13:50.3192128 2800: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:13:50.4236449 2ecf: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:13:50.4281649 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:13:50.4296459 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:13:50.4316461 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:15:06.0097349 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+16:15:07.0301769 Value missing for: DotaMasterWPF.eModifierType.BaseArmor
+16:17:21.7674928 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:17:21.7694974 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:17:22.4958617 1fed: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:17:22.5113833 703f: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:17:22.5430075 3889: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:17:22.5725561 5bd2: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:17:22.6075767 48e5: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:17:22.6781293 cbe1: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:17:22.7456781 a72b: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:17:22.8177013 c369: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:17:22.8996961 5bd9: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:17:23.0182426 7884: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:17:23.0227637 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:17:23.0237635 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:17:23.0257834 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:17:37.9399225 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+16:20:03.5332135 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:20:03.5352191 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:20:04.3089162 fc64: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:20:04.3284173 0681: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:20:04.3624216 db89: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:20:04.3945131 d3e4: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:20:04.4373232 ef90: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:20:04.5062424 0402: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:20:04.5799232 59fe: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:20:04.6515762 c8f2: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:20:04.7326955 ca29: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:20:04.8354211 f1fb: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:20:04.8399318 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:20:04.8409316 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:20:04.8429471 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:30:08.7592975 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:30:08.7612944 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:30:09.6415865 caeb: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:30:09.6600982 ed78: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:30:09.6935883 22fe: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:30:09.7215949 9405: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:30:09.7555991 a9bd: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:30:09.8176073 2084: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:30:09.8867036 b58b: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:30:09.9573943 24b3: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:30:10.0378883 1177: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:30:10.1395217 ff5d: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:30:10.1445113 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:30:10.1455112 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:30:10.1475388 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:36:38.2157899 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:36:38.2177994 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:36:38.9699380 349f: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:36:38.9859261 4818: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:36:39.0179296 ae18: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:36:39.0464334 974a: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:36:39.0809381 b58a: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:36:39.1419453 c7f8: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:36:39.2109542 a8c8: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:36:39.2784629 bc42: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:36:39.3579725 619b: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:36:39.4596686 2558: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:36:39.4646698 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:36:39.4656707 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:36:39.4671710 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:38:54.2971297 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:38:54.2996006 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:38:55.2000526 e170: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:38:55.2180133 4306: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:38:55.2615652 172d: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:38:55.2955915 aa48: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:38:55.3520430 db5a: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:38:55.4251078 70cf: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:38:55.5045486 3b59: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:38:55.5826003 c46d: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:38:55.6925725 62db: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:38:55.8215889 2c22: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:38:55.8260902 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:38:55.8275910 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:38:55.8290901 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:40:03.3352196 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:40:03.3367347 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:40:04.0625748 fa2c: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:40:04.0778540 d626: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:40:04.1094605 1254: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:40:04.1377866 3a7c: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:40:04.1709995 16ee: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:40:04.2318692 4009: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:40:04.2956927 11b9: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:40:04.3634731 5537: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:40:04.4405629 950b: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:40:04.5488963 1d78: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:40:04.5539151 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:40:04.5548984 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:40:04.5570250 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:40:22.3085285 Value missing for: DotaMasterWPF.eModifierType.BaseMovementSpeed
+16:42:01.3711102 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:42:01.3731186 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:42:02.1347163 d097: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:42:02.1502154 f32a: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:42:02.1816096 32f5: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:42:02.2097977 dddc: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:42:02.2431134 1870: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:42:02.3043802 aa41: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:42:02.3740309 38ca: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:42:02.4402626 3c6a: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:42:02.5202749 d937: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:42:02.6200687 7f8d: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:42:02.6248714 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:42:02.6258569 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:42:02.6273626 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:43:43.3580258 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:43:43.3600337 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:44:40.7856834 3f1c: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:45:06.4616577 d71c: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:45:06.4994088 9ca8: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:45:06.5286082 82e2: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:45:06.5622050 79b6: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:45:06.6310055 6d52: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:45:06.6987677 9df8: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:45:06.7690772 fc0e: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:45:06.8566128 da4f: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:45:06.9632512 e078: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:45:06.9682519 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:45:06.9692517 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:45:06.9707519 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:46:23.3028030 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:46:23.3048394 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:46:24.1055229 17c1: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:48:37.0631363 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:48:37.0651546 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:48:37.8012903 f006: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:48:52.4249895 f506: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:48:56.2715462 b995: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:49:31.5393267 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:49:31.5408247 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:49:32.2874331 b293: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:49:32.3029498 917b: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:49:32.3354808 f21a: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:49:32.3634065 db2a: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:49:32.3975021 e329: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:49:32.4592660 a093: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:49:32.5250330 29d6: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:49:32.5915160 56bc: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:49:32.6786319 4308: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:49:32.7778764 7bef: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:49:32.7828644 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:49:32.7838647 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:49:32.7859001 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:52:09.1706932 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+16:52:09.1722550 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+16:52:09.9203042 7d71: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+16:52:09.9353018 6ace: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+16:52:09.9671162 0070: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+16:52:09.9956057 86e3: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+16:52:10.0286761 f1f5: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+16:52:10.0904604 c858: Stattype.Strength Start val(0): 24 End val(3590): 112
+16:52:10.1549851 b6b0: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+16:52:10.2214923 d51a: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+16:52:10.3041960 9b37: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:52:10.4021260 ce05: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:52:10.4066527 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+17:03:58.8358545 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+17:03:58.8378717 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+17:03:59.5636167 b637: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+17:03:59.5797345 6c3b: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+17:03:59.6132340 a4c2: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+17:03:59.6452711 8f92: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+17:03:59.6782426 7ecf: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+17:03:59.7392547 8d7c: Stattype.Strength Start val(0): 24 End val(3590): 112
+17:03:59.8177585 55d5: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+17:03:59.8855036 c2ce: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+17:03:59.9635718 64c3: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+17:04:00.0691461 5d04: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+17:04:00.0736414 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+17:04:00.0746418 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+17:04:00.0766678 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+17:06:26.1465571 Value missing for: DotaMasterWPF.eModifierType.KillsPerGoldIncrement
+19:05:15.7190633 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+19:05:15.7210679 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+19:05:16.5079634 06d4: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+19:05:16.5243769 b367: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+19:05:16.5590500 ed9f: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+19:05:16.5908942 3dfe: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+19:05:16.6311208 90b6: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+19:05:16.7012524 487e: Stattype.Strength Start val(0): 24 End val(3590): 112
+19:05:16.7771178 8601: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+19:05:16.8512608 dc80: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+19:05:16.9509884 ad06: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+19:05:17.0663534 6e9c: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+19:05:17.0708521 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+19:05:17.0718563 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+19:05:17.0738724 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:06:01.4662547 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+19:06:01.4672589 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+19:06:02.2792726 ad94: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+19:06:02.2963548 c4ac: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+19:06:02.3318798 2d2e: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+19:06:02.3639198 f73d: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+19:06:02.3999568 c5a2: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+19:06:02.4671489 a12f: Stattype.Strength Start val(0): 24 End val(3590): 112
+19:06:02.5371722 39b3: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+19:06:02.6187550 e79a: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+19:06:02.7057791 b6c5: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+19:06:02.8158893 3264: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+19:06:02.8204011 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+19:06:02.8214026 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+19:06:02.8234022 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:06:32.5750004 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+19:06:32.5769857 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+19:06:33.3943357 6029: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+19:06:33.4108586 bfa3: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+19:06:33.4437427 0b9f: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+19:06:33.4725506 0f60: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+19:06:33.5077176 47d7: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+19:06:33.5774032 6cad: Stattype.Strength Start val(0): 24 End val(3590): 112
+19:06:33.6448235 79dd: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+19:06:33.7191221 57ea: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+19:06:33.8089472 fd2c: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+19:06:33.9138355 8a95: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+19:06:33.9183336 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+19:06:33.9193169 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+19:06:33.9208167 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:16:28.5104596 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+19:16:28.5129598 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+19:16:29.3296200 e27e: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+19:16:29.3456216 a4c3: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+19:16:29.3811268 019d: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+19:16:29.4141319 6adf: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+19:16:29.4559287 422d: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+19:16:29.5272619 1ea5: Stattype.Strength Start val(0): 24 End val(3590): 112
+19:16:29.5988130 bbeb: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+19:16:29.6698790 ede7: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+19:16:29.7560077 a078: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+19:16:29.8662488 0e4b: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+19:16:29.8707651 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+19:16:29.8717660 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+19:16:29.8737662 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:19:35.5240451 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+19:19:35.5265444 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+19:19:36.4940029 1443: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+19:19:36.5150624 5c9e: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+19:19:36.5535351 a216: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+19:19:36.5960073 b43b: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+19:19:36.6377959 54ac: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+19:19:36.7338476 a9aa: Stattype.Strength Start val(0): 24 End val(3590): 112
+19:19:36.8291938 6e70: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+19:19:36.9158565 7ed2: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+19:19:37.0162948 6bec: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+19:19:37.1546514 bf78: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+19:19:37.1595791 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+19:19:37.1605788 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+19:19:37.1625788 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:21:42.9581747 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+19:21:43.9009168 Value missing for: DotaMasterWPF.eModifierType.BaseArmor
+19:26:19.7230756 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+19:26:19.7255432 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+19:26:20.5423143 c96a: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+19:26:20.5586062 3019: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+19:26:20.5922067 1209: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+19:26:20.6211174 3186: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+19:26:20.6581760 38a1: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+19:26:20.7278122 ac32: Stattype.Strength Start val(0): 24 End val(3590): 112
+19:26:20.7979235 673c: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+19:26:20.8700092 456c: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+19:26:20.9598935 c967: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+19:26:21.0719056 26e1: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+19:26:21.0764029 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+19:26:21.0774088 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+19:26:21.0794034 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:28:08.9951174 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+19:28:08.9971269 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+19:28:09.7846112 075e: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+19:28:09.8021971 2b5a: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+19:28:09.8373842 43ad: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+19:28:09.8674619 82be: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+19:28:09.9025758 a508: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+19:28:09.9696070 231d: Stattype.Strength Start val(0): 24 End val(3590): 112
+19:28:10.0463748 bb5d: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+19:28:10.1174282 1b72: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+19:28:10.2130043 62e4: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+19:28:10.3273850 aad1: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+19:28:10.3313940 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+19:28:10.3329064 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+19:28:10.3348900 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:30:12.0223898 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+19:30:12.0243795 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+19:30:12.8062199 ca08: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+19:30:12.8257315 0287: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+19:30:12.8612561 6d71: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+19:30:12.8928183 cc73: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+19:30:12.9293839 335a: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+19:30:12.9959433 f4b3: Stattype.Strength Start val(0): 24 End val(3590): 112
+19:30:13.0707277 1c32: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+19:30:13.1427871 cf19: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+19:30:13.2284061 42e4: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+19:30:13.3374854 8d83: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+19:30:13.3423678 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+19:30:13.3429227 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+19:30:13.3448679 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:37:23.6434024 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+19:37:23.6454047 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+19:37:24.4290153 8d22: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+19:37:24.4453250 0afb: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+19:37:24.4799070 4fc3: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+19:37:24.5113660 f949: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+19:37:24.5462148 499b: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+19:37:24.6110778 16a8: Stattype.Strength Start val(0): 24 End val(3590): 112
+19:37:24.6831446 fd1a: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+19:37:24.7602306 35b9: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+19:37:24.8477711 ba52: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+19:37:24.9540344 a70a: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+19:37:24.9589069 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+19:37:24.9603940 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+19:37:24.9618986 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:40:12.3394807 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+19:40:12.3424807 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+19:40:13.7020555 b93e: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+19:40:13.7380608 5cef: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+19:40:13.8075659 3f37: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+19:40:13.8710766 7295: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+19:40:13.9445858 2d29: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+19:40:14.0836021 ef29: Stattype.Strength Start val(0): 24 End val(3590): 112
+19:40:14.2266198 21a6: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+19:40:14.3711371 b428: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+19:40:14.5451545 ac04: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+19:40:14.7761845 1a41: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+19:40:14.7841873 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+19:40:14.7856875 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+19:40:14.7881881 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:42:14.5582940 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+19:42:14.5602887 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+19:42:15.3555154 e4a0: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+19:42:15.3710679 4360: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+19:42:15.4074020 b439: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+19:42:15.4389406 3573: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+19:42:15.4814886 4692: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+19:42:15.5485742 9f68: Stattype.Strength Start val(0): 24 End val(3590): 112
+19:42:15.6175918 90ff: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+19:42:15.6945661 4db8: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+19:42:15.7915009 a9ac: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+19:42:15.9128705 a0a8: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+19:42:15.9178866 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+19:42:15.9193780 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+19:42:15.9209239 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+19:44:36.8762971 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+19:44:51.0855531 Value missing for: DotaMasterWPF.eModifierType.BaseArmor
+19:44:51.0935065 Value missing for: DotaMasterWPF.eModifierType.BaseMovementSpeed
+22:26:15.1487487 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+22:26:15.1508165 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+22:26:15.8919919 12d5: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+22:26:15.9079695 abce: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+22:26:15.9397360 d123: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+22:26:15.9685950 b2e6: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+22:26:16.0020010 38a5: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+22:26:16.0636890 1c35: Stattype.Strength Start val(0): 24 End val(3590): 112
+22:26:16.1332402 317c: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+22:26:16.2001901 fcb3: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+22:26:16.2871124 b406: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+22:26:16.3890334 bf57: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+22:26:16.3940275 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+22:26:16.3955212 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+22:26:16.3975384 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:30:21.5674564 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+22:30:21.5694582 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+22:30:22.3049090 c680: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+22:30:22.3207420 3f3c: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+22:30:22.3532547 d550: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+22:30:22.3817692 4689: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+22:30:22.4147830 562e: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+22:30:22.4763041 ab86: Stattype.Strength Start val(0): 24 End val(3590): 112
+22:30:22.5410406 eb45: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+22:30:22.6070522 1e53: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+22:30:22.6852320 17b5: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+22:30:22.7867736 324b: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+22:30:22.7917762 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+22:30:22.7927609 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+22:30:22.7942615 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:35:28.4949618 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+22:35:28.4964792 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+22:35:29.2333655 d63c: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+22:35:29.2488607 599f: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+22:35:29.2808759 d550: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+22:35:29.3093737 fd21: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+22:35:29.3429145 2e3f: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+22:35:29.4038978 4d61: Stattype.Strength Start val(0): 24 End val(3590): 112
+22:35:29.4701407 3ef0: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+22:35:29.5361377 02bb: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+22:35:29.6148245 f08d: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+22:35:29.7223313 0d7b: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+22:35:29.7273463 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+22:35:29.7283533 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+22:35:29.7303916 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+22:35:57.5133764 Value missing for: DotaMasterWPF.eModifierType.BaseArmor
+22:35:57.5258351 Value missing for: DotaMasterWPF.eModifierType.BaseMovementSpeed

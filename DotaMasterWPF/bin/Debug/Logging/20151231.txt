@@ -1,0 +1,479 @@
+﻿14:35:34.3871427 Value missing for: DotaMasterWPF.eItemname.None
+14:43:50.8742825 Value missing for: DotaMasterWPF.eItemname.None
+14:50:42.8900429 Value missing for: DotaMasterWPF.eItemname.None
+15:02:46.5351223 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:02:46.5386183 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:02:48.2523366 8d8b: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:02:48.2873407 8b33: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:02:48.3603543 32f6: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:02:48.4268615 bce9: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:02:48.5028685 0fb7: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:02:48.6713935 00eb: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:02:48.8249133 d2d5: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:02:48.9794301 2f32: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:02:49.1644562 e7d6: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:02:49.4084878 5bd1: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:02:49.4164884 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:02:49.4179892 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:02:49.4204887 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:02:51.8472977 Value missing for: DotaMasterWPF.eItemname.itmTANGO
+15:14:58.2716155 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:14:58.2735365 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:14:59.0025262 3524: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:14:59.0180154 7aa2: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:14:59.0495196 4120: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:14:59.0780239 4985: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:14:59.1120276 189f: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:14:59.1745357 d899: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:14:59.2395393 d3b2: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:14:59.3085554 307a: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:14:59.3860626 ae10: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:14:59.4870751 2826: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:14:59.4920769 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:14:59.4930960 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:14:59.4950774 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:16:02.7623453 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:16:02.7638670 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:16:16.5401081 09e2: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:16:16.5551178 9488: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:16:16.5875581 afcc: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:16:16.6161377 77e8: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:16:16.6521982 35c3: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:16:16.7130085 2af7: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:16:16.7787491 9955: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:16:16.8623415 e99f: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:16:16.9460874 dbab: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:16:17.0484357 9f11: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:16:17.0524305 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:16:17.0534177 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:16:17.0549157 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:24:48.0698523 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:24:48.0718711 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:25:05.1716281 Value missing for: DotaMasterWPF.ePetName.untMeepo_Clone
+15:25:05.3282759 Value missing for: DotaMasterWPF.ePetName.untNaga_Siren_Illusion
+15:25:05.6028169 Value missing for: DotaMasterWPF.ePetName.untDragonKnight_Elder_Dragon_Form
+15:25:05.7323331 Value missing for: DotaMasterWPF.ePetName.untMorphling_Replicant
+15:25:05.9461814 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Reflection
+15:25:06.4949883 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Illusion
+15:25:06.7568459 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Demon
+15:25:07.2132255 6830: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:25:07.2287263 1c75: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:25:07.2582270 e944: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:25:07.2872367 d69d: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:25:07.3217437 147d: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:25:07.3922264 4b22: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:25:07.4547339 eca2: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:25:07.5233722 bd71: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:25:07.6001029 a7c6: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:25:07.6985152 6bf4: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:25:07.7030149 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:25:07.7040037 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:25:07.7060000 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:25:56.9473885 Value missing for: DotaMasterWPF.eModifierType.KillsPerGoldIncrement
+15:29:08.1643017 Value missing for: DotaMasterWPF.eModifierType.BaseArmor
+15:32:16.0547909 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:32:16.0567745 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:32:16.7031430 Value missing for: DotaMasterWPF.ePetName.untMeepo_Clone
+15:32:16.7066594 Value missing for: DotaMasterWPF.ePetName.untNaga_Siren_Illusion
+15:32:16.7096621 Value missing for: DotaMasterWPF.ePetName.untDragonKnight_Elder_Dragon_Form
+15:32:16.7126978 Value missing for: DotaMasterWPF.ePetName.untMorphling_Replicant
+15:32:16.7151836 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Reflection
+15:32:16.7182006 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Illusion
+15:32:16.7212594 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Demon
+15:32:16.9089330 4936: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:32:16.9244195 9930: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:32:16.9559122 2004: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:32:16.9844340 1141: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:32:17.0189283 a3b2: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:32:17.0889464 d3ee: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:32:17.1519549 1c4d: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:32:17.2164432 a036: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:32:17.3014528 b0c4: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:32:17.4051425 0b22: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:32:17.4106419 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:32:17.4116423 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:32:17.4141572 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:32:31.1565612 Value missing for: DotaMasterWPF.eModifierType.BaseArmor
+15:33:08.6266097 Value missing for: DotaMasterWPF.eModifierType.KillsPerGoldIncrement
+15:33:08.6390748 Value missing for: DotaMasterWPF.eModifierType.BaseMovementSpeed
+15:33:11.7019904 5a02: Stattype.Agility Start val(0): 21 End val(3590): 94.75
+15:33:11.7049931 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:33:14.0932041 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+15:33:14.0997545 Value missing for: DotaMasterWPF.eModifierType.KillsPerGoldIncrement
+15:40:07.2906684 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:40:07.2937437 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:40:07.9674726 Value missing for: DotaMasterWPF.ePetName.untMeepo_Clone
+15:40:07.9715070 Value missing for: DotaMasterWPF.ePetName.untNaga_Siren_Illusion
+15:40:07.9745410 Value missing for: DotaMasterWPF.ePetName.untDragonKnight_Elder_Dragon_Form
+15:40:07.9770163 Value missing for: DotaMasterWPF.ePetName.untMorphling_Replicant
+15:40:07.9795516 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Reflection
+15:40:07.9825719 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Illusion
+15:40:07.9856263 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Demon
+15:40:08.1748200 cd20: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:40:08.1903274 6366: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:40:08.2219597 1b04: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:40:08.2516150 403c: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:40:08.2837963 296b: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:40:08.3497365 b048: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:40:08.4129061 0e2f: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:40:08.4761631 9a7f: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:40:08.5559323 f10e: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:40:08.6593360 8cfd: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:40:08.6638939 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:40:08.6648811 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:40:08.6669335 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:40:39.1770880 Value missing for: DotaMasterWPF.eModifierType.KillsPerGoldIncrement
+15:40:39.1886632 Value missing for: DotaMasterWPF.eModifierType.BaseMovementSpeed
+15:40:41.9104855 9d76: Stattype.Agility Start val(0): 24 End val(3590): 88.7
+15:40:41.9135190 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:43:55.2308870 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:43:55.2323917 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:43:55.8905290 Value missing for: DotaMasterWPF.ePetName.untMeepo_Clone
+15:43:55.8941724 Value missing for: DotaMasterWPF.ePetName.untNaga_Siren_Illusion
+15:43:55.8976816 Value missing for: DotaMasterWPF.ePetName.untDragonKnight_Elder_Dragon_Form
+15:43:55.9011754 Value missing for: DotaMasterWPF.ePetName.untMorphling_Replicant
+15:43:55.9045323 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Reflection
+15:43:55.9075570 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Illusion
+15:43:55.9110283 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Demon
+15:43:56.0992254 b410: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:43:56.1157332 8ccc: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:43:56.1477379 b717: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:43:56.1762410 20cd: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:43:56.2092450 5d7d: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:43:56.2707532 33c6: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:43:56.3466595 ccda: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:43:56.4137332 79ac: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:43:56.4923249 15f5: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:43:56.5914561 fec1: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:43:56.5964699 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:43:56.5974714 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:43:56.5995161 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:44:53.9260226 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:44:53.9280728 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:44:54.5911470 Value missing for: DotaMasterWPF.ePetName.untMeepo_Clone
+15:44:54.5946650 Value missing for: DotaMasterWPF.ePetName.untNaga_Siren_Illusion
+15:44:54.5976688 Value missing for: DotaMasterWPF.ePetName.untDragonKnight_Elder_Dragon_Form
+15:44:54.6001491 Value missing for: DotaMasterWPF.ePetName.untMorphling_Replicant
+15:44:54.6026788 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Reflection
+15:44:54.6060451 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Illusion
+15:44:54.6090632 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Demon
+15:44:54.8029512 de82: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:44:54.8189958 ae7f: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:44:54.8536216 f87f: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:44:54.8817370 e4b7: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:44:54.9185818 81db: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:44:54.9849801 408c: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:44:55.0486139 0546: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:44:55.1133299 eb15: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:44:55.1911561 a338: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:44:55.2875634 c0a4: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:44:55.2920663 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:44:55.2935496 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:44:55.2950729 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:47:07.5248840 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:47:07.5268852 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:47:08.1963944 Value missing for: DotaMasterWPF.ePetName.untMeepo_Clone
+15:47:08.1999091 Value missing for: DotaMasterWPF.ePetName.untNaga_Siren_Illusion
+15:47:08.2029107 Value missing for: DotaMasterWPF.ePetName.untDragonKnight_Elder_Dragon_Form
+15:47:08.2064111 Value missing for: DotaMasterWPF.ePetName.untMorphling_Replicant
+15:47:08.2089557 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Reflection
+15:47:08.2114101 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Illusion
+15:47:08.2144112 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Demon
+15:47:08.4085098 3100: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:47:08.4255499 22f5: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:47:08.4577256 9be0: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:47:08.4954068 c9e3: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:47:08.5274572 8306: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:47:08.5882422 944b: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:47:08.6499165 910c: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:47:08.7161575 080b: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:47:08.7924642 9658: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+15:47:08.8973077 af3a: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+15:47:08.9023727 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:47:08.9038548 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+15:47:08.9058995 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+15:47:24.7736704 Value missing for: DotaMasterWPF.eModifierType.ResourceShare
+15:47:27.1919305 812c: Stattype.Agility Start val(0): 21 End val(3590): 94.75
+15:47:27.1944333 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:57:38.3645130 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.3660853 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.3670174 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.3680172 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.4489540 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.4499835 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.4514403 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.4529713 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.4565042 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.4575144 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.4590147 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.4605331 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.4640120 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.4650107 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.4665154 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.4680212 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.4715661 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.5716888 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.5737066 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.5752096 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.5787347 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.5797428 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.5817028 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.5832052 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.5867056 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.5872055 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.5889637 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.5904491 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.5944544 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.5954525 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.7724478 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.7744700 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.7779506 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.7789713 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.7809533 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.7824640 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.7860260 b279: Stattype.Strength Start val(0): 25 End val(3590): 120.3
+15:57:38.7880157 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.7889864 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:38.7899625 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.7904943 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:38.7919473 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+15:57:39.1630236 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.1645074 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.1660291 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.1675117 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.1715186 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.1725190 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.1740220 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.1760200 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.1847872 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.1857859 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.1878097 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.1893182 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.1928538 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.1943238 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.1958675 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.1973386 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.2013477 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.2023706 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.3745677 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.3800682 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.3860868 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.3875893 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.3900877 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.3921038 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.3956400 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.3966073 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.3981043 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.3991030 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.4047696 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.4057557 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.4072444 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.5741031 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.5801657 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.5816984 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.5847726 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.5877736 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.5932390 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.5953029 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.5982782 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.6007744 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.6068535 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.6083884 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.6108813 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.7743331 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.7807163 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.7822314 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.7851917 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.7877303 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.7937005 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.7952189 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.7981292 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.8006689 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.8066331 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.8081399 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.8106350 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.8126308 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.9795945 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:39.9816134 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.9841833 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:39.9876441 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.0042497 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.0056911 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.0082022 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.0106923 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.0166922 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.0181914 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.0206892 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.0226971 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.1785849 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.1805240 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.1825341 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.1857056 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.1921427 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.1937354 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.1967480 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.1987619 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.2047618 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.2057600 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.2087627 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.2107617 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.2167627 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.3746298 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.3771673 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.3791383 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.3841395 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.3856452 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.3892094 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.3927060 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.3987268 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.4002348 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.4027277 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.4052321 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.4115076 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.5750974 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.5786137 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.5801332 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.5841473 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.5851603 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.5866314 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.5886310 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.5922887 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.5932775 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.5947689 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.5967411 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.6004620 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.6014568 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.7758262 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.7778714 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.7813102 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.7818415 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.7843751 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.7863906 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.7899438 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.7908826 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.7918741 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.7940118 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.7979835 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.7989860 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.9773909 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.9803325 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.9868466 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:40.9884151 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.9913507 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:40.9938475 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.0066876 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.0086971 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.0116971 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.0141938 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.0196949 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.0211979 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.0241979 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.1767074 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.1815975 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.1825918 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.1840943 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.1860691 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.1896372 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.1906315 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.1921807 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.1936292 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.1976625 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.1981630 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.2003980 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.2018795 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.3795425 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.3805461 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.3826035 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.3846064 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.3886067 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.3896417 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.3916176 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.3931305 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.3971848 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.3976572 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.3996738 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.4011438 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.5800546 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.5810445 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.5830342 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.5845344 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.5885595 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.5891001 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.5910596 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.5925576 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.5976226 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.5986587 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.6006220 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.6021228 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.6056304 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.7775469 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.7826158 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.7852291 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.7913198 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.7927563 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.7958272 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.7986616 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.8051889 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.8067089 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.8094163 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.8119560 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.8179141 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.9777841 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.9802643 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.9820319 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.9860327 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.9870655 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.9890354 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.9905346 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.9944694 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:41.9959356 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.9974656 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:41.9994410 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:42.0030085 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:42.0040303 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:42.1786789 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:42.1806676 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:42.1836895 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:42.1852272 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:42.1872433 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:42.1887408 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:42.1922263 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:42.1937200 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:42.1953484 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:42.1968442 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:42.2003534 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:42.2013263 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:42.3799813 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:42.3824165 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:42.3909687 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:42.3924723 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:42.3954436 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:42.3979866 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:42.4039975 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:57:42.4055307 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:42.4080863 Helpers.GetaffectedUnitIDsForMod missing untAlliedStructure
+15:57:42.4105726 Helpers.GetaffectedUnitIDsForMod missing untAlliedUnitsAndSelf
+15:59:58.6085644 Value missing for: DotaMasterWPF.eAbilityName.abAlpha_Wolf_Critical_Strike
+15:59:58.6100487 GetAbility Returning nothing for abAlpha_Wolf_Critical_Strike
+15:59:59.2757797 Value missing for: DotaMasterWPF.ePetName.untMeepo_Clone
+15:59:59.2803294 Value missing for: DotaMasterWPF.ePetName.untNaga_Siren_Illusion
+15:59:59.2832810 Value missing for: DotaMasterWPF.ePetName.untDragonKnight_Elder_Dragon_Form
+15:59:59.2857920 Value missing for: DotaMasterWPF.ePetName.untMorphling_Replicant
+15:59:59.2890213 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Reflection
+15:59:59.2919619 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Illusion
+15:59:59.2949723 Value missing for: DotaMasterWPF.ePetName.untTerrorblade_Demon
+15:59:59.4954811 7b64: Stattype.Agility Start val(0): 21 End val(3590): 89.5
+15:59:59.5134808 a85a: Stattype.Agility Start val(0): 20 End val(3590): 88.5
+15:59:59.5474851 2589: Stattype.Intelligence Start val(0): 24 End val(3590): 92.5
+15:59:59.5769870 92fe: Stattype.Intelligence Start val(0): 25 End val(3590): 95.6
+15:59:59.6104908 5fe9: Stattype.Agility Start val(0): 27 End val(3590): 101.8
+15:59:59.6734982 2795: Stattype.Strength Start val(0): 24 End val(3590): 112
+15:59:59.7385095 0135: Stattype.Strength Start val(0): 23 End val(3590): 99.9
+15:59:59.8085139 4fc9: Stattype.Agility Start val(0): 19 End val(3590): 81.2
+15:59:59.8925292 8d86: Stattype.Intelligence Start val(0): 27 End val(3590): 118.6
+16:00:00.0040402 889b: Stattype.Strength Start val(0): 17 End val(3590): 72.9
+16:00:00.0110850 Value missing for: DotaMasterWPF.eUnit.untRandomUnit
+16:00:00.0120875 Value missing for: DotaMasterWPF.eUnit.untRandomEnemyUnit
+16:00:00.0140893 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+16:00:31.5989788 2e05: Stattype.Agility Start val(0): 24 End val(3590): 98.8
+16:00:31.6019870 Value missing for: DotaMasterWPF.eUnit.untRandomUnit

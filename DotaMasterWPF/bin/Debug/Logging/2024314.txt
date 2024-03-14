@@ -1,0 +1,6 @@
+﻿10:58:58.7420193 Total for GetFirstBuildForAllHeroes: 1 Milliseconds
+10:59:39.0338935 Value missing for: System.Guid.50232ae6-778c-476b-8adc-0c0951085b27
+11:00:02.8420138 Total for GetFirstBuildForAllHeroes: 0 Milliseconds
+11:00:22.1010622 Value missing for: System.Guid.5aa5a94f-5945-4346-96c0-171232777db7
+11:00:22.1098379 Value missing for: System.Guid.5e6047d7-2de5-47a4-a862-d99629f68dad
+11:15:57.0919620 Total for GetFirstBuildForAllHeroes: 0 Milliseconds

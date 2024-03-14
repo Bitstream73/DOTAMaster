@@ -1,0 +1,50 @@
+﻿<UserControl xmlns:DotaMasterWPF="clr-namespace:DotaMasterWPF"  x:Class="ctrlSwatchDataItemLabelDual"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+  <Grid x:Name="LayoutRoot"  Margin="0" VerticalAlignment="Center">
+    <Grid.RowDefinitions>
+      <RowDefinition/>
+      <RowDefinition/>
+    </Grid.RowDefinitions> 
+    <Grid.ColumnDefinitions>
+    </Grid.ColumnDefinitions>
+
+
+    <WrapPanel x:Name="wpnlStatNameLabels" Grid.Row="0" Grid.ColumnSpan="2" HorizontalAlignment="center" VerticalAlignment="Center" Margin="0,0,0,5"  >
+      
+    </WrapPanel>
+
+
+    <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,10">
+   
+      <Grid>
+        <Border x:Name="bdrRadStatValue"  CornerRadius="4"   HorizontalAlignment="Right" Height="18" Grid.Column="0">
+          <Label Name="lblRadStatValue"  Content="TheValue" Padding="0" Margin="2,0" Height="14"  HorizontalContentAlignment="center"  VerticalContentAlignment="Center" Foreground="#FF932A2A" />
+        </Border>
+        <Rectangle x:Name="rectLeftGraphSelected" Stroke="aqua"/>
+
+      </Grid>
+      <!--<Label x:Name="lblDash" Content=" - "/>-->
+
+      
+   <DotaMasterWPF:ctrlSwatchRoundMinimalSmall x:Name="elpsSwatch" />
+      <Grid>
+        <Border x:Name="bdrDireStatValue" CornerRadius="4" HorizontalAlignment="Left" Height="18">
+          <Label Name="lblDireStatValue" Content="TheValue" Padding="0" Margin="2,0" Height="14"  VerticalContentAlignment="Center" HorizontalContentAlignment="center" />
+        </Border>
+
+        <Rectangle x:Name="rectRightGraphSelected" Stroke="aqua"/>
+
+      </Grid>
+
+
+    </StackPanel>
+
+
+    <Rectangle x:Name="rectBothGraphSelected" Stroke="aqua" Grid.RowSpan="2" Margin="0,0,0,5"/>
+  </Grid>
+</UserControl>
