@@ -1,0 +1,20 @@
+﻿DotaMasterWPF
+
+
+winexe
+VB
+.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\
+DotaMasterWPF
+none
+false
+
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\Application.xaml
+571845197203
+2-460608112
+842-553110991
+10-2017953140
+Controls\Abilities\ctrlAbilityThumbSimple2.xaml;Controls\Abilities\ctrlAbility_List_Item.xaml;Controls\Abilities\ctrlAbility_Thumb_Picker.xaml;Controls\Abilities\ctrlAbility_Tooltip.xaml;Controls\Abilities\ctrlAbilityThumb.xaml;Controls\Bar Graph\ctrlBar.xaml;Controls\Bar Graph\ctrlBargraph_Panes_Fixedwidth.xaml;Controls\Bar Graph\ctrlBar_Group.xaml;Controls\Bar Graph\ctrlGraphPane.xaml;Controls\Bar Graph\ctrlHScale.xaml;Controls\Bar Graph\ctrlHScaleLabel.xaml;Controls\Bar Graph\ctrlVScale.xaml;Controls\Bar Graph\ctrlVScaleLabel.xaml;Controls\Buttons\btnMinimalClick.xaml;Controls\Buttons\btnMinimalState.xaml;Controls\Creeps\ctrlCreepStack.xaml;Controls\Creeps\ctrlCreepSummary.xaml;Controls\Creeps\ctrlCreep_Badge.xaml;Controls\ctrlBody_Paragraph.xaml;Controls\ctrlHeading_2.xaml;Controls\ctrlImageThumb.xaml;Controls\ctrlModDetails.xaml;Controls\ctrlTooltip.xaml;Controls\ctrlVerticalSpacer.xaml;Controls\Details\ctrlAbility_Details.xaml;Controls\Details\ctrlBar_Details.xaml;Controls\Details\ctrlGeneric_Details.xaml;Controls\Details\ctrlItem_Details.xaml;Controls\Heroes\ctrlBuild_List_Item.xaml;Controls\Heroes\ctrlHero_Badge.xaml;Controls\Heroes\ctrlHero_List_Item.xaml;Controls\Heroes\ctrlHero_Menu.xaml;Controls\Heroes\ctrlHero_Menu_Item.xaml;Controls\Heroes\ctrlHero_Thumb.xaml;Controls\Heroes\ctrlHero_Tooltip.xaml;Controls\Heroes\ctrlStatBadge.xaml;Controls\Heroes\ctrlUnit_Menu_Item_Name.xaml;Controls\Items\ctrlItemThumbPicker_Tootip.xaml;Controls\Items\ctrlitem_List_Item.xaml;Controls\Items\ctrlItem_Menu.xaml;Controls\Items\ctrlItem_MenuItem.xaml;Controls\Items\ctrlItem_MenuPage.xaml;Controls\Items\ctrlItem_Thumb.xaml;Controls\Items\ctrlItem_Thumb_Picker_3.xaml;Controls\Items\ctrlItem_Thumb_Stash.xaml;Controls\Items\ctrlItem_Tooltip.xaml;Controls\Items\ctrlItem_Tooltip_Icon.xaml;Controls\Labels\ctrlHeadingLabel.xaml;Controls\Labels\ctrlIconStatLabel.xaml;Controls\Labels\ctrlModTinyDetailsLabel.xaml;Controls\Labels\ctrlStatLabel.xaml;Controls\LoadingScreen.xaml;Controls\Modifiers\ctrlModText.xaml;Controls\Targetting\ctrlTargetBadge.xaml;Controls\TeamvsTeam.xaml;Controls\Tooltips\ctrlText_Tooltip.xaml;PageHandler.xaml;
+
+False
+

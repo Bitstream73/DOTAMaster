@@ -1,0 +1,1170 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DotaMasterWPF
+</name>
+</assembly>
+<members>
+<member name="T:DotaMasterWPF.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:DotaMasterWPF.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:DotaMasterWPF.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:DotaMasterWPF.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:DotaMasterWPF.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:DotaMasterWPF.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:DotaMasterWPF.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DotaMasterWPF.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DotaMasterWPF.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:DotaMasterWPF.Hero_Ability_Inventory.CalcActiveAbilitiesByLevelListedByUIPosition">
+ <summary>
+ figures out which abilities (and their level) are active at each hero level
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.Hero_Ability_Inventory.GetUpgradableAbilitiesByLevel(System.Int32)">
+ <summary>
+ returns a list of all apgradable abilites for a herolevel
+ </summary>
+ <param name="herolevel"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:DotaMasterWPF.ctrlAbilityThumbSimple2">
+<summary>
+ctrlAbilityThumbSimple2
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlAbilityThumbSimple2.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlAbility_List_Item">
+<summary>
+ctrlAbility_List_Item
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlAbility_List_Item.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlAbility_Thumb_Picker">
+<summary>
+ctrlAbility_Thumb_Picker
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlAbility_Thumb_Picker.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlAbility_Tooltipe">
+<summary>
+ctrlAbility_Tooltipe
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlAbility_Tooltipe.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlAblityThumb">
+<summary>
+ctrlAblityThumb
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlAblityThumb.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlBadgeAppearance">
+<summary>
+ctrlBadgeAppearance
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlBadgeAppearance.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlBar">
+<summary>
+ctrlBar
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlBar.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlBargraph_Panes_Fixedwidth">
+<summary>
+ctrlBargraph_Panes_Fixedwidth
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlBargraph_Panes_Fixedwidth.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlBar_Type">
+<summary>
+ctrlBar_Type
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlBar_Type.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlChart_Type">
+<summary>
+ctrlChart_Type
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlChart_Type.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlGraphPane">
+<summary>
+ctrlGraphPane
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlGraphPane.FillPane(System.Int32,DotaMasterWPF.eBarType,DotaMasterWPF.BarDataList,System.Double,System.Double,System.Collections.Generic.List{System.Collections.Generic.List{DotaMasterWPF.iDataItem}})">
+ <summary>
+ Pass Nothing value to use existing parameter
+ </summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlGraphPane.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlHScale">
+<summary>
+ctrlHScale
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlHScale.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlHScaleLabel">
+<summary>
+ctrlHScaleLabel
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlHScaleLabel.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlVScale">
+<summary>
+ctrlVScale
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlVScale.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlVScaleLabel">
+<summary>
+ctrlVScaleLabel
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlVScaleLabel.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSwatchDataItemLabel">
+<summary>
+ctrlSwatchDataItemLabel
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSwatchDataItemLabel.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSelectedDataitemDualViewer">
+<summary>
+ctrlSelectedDataitemDualViewer
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSelectedDataitemDualViewer.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSelectedDataitemViewer">
+<summary>
+ctrlSelectedDataitemViewer
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSelectedDataitemViewer.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSummaryBarDual">
+<summary>
+ctrlSummaryBarDual
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSummaryBarDual.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSummary">
+<summary>
+ctrlSummary
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSummary.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSummaryBar">
+<summary>
+ctrlSummaryBar
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSummaryBar.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSummaryDual">
+<summary>
+ctrlSummaryDual
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSummaryDual.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSummary_Graph">
+<summary>
+ctrlSummary_Graph
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSummary_Graph.Load(System.Collections.Generic.List{System.Collections.Generic.List{DotaMasterWPF.iDataItem}},System.Collections.Generic.List{System.String},System.Windows.GridLength,System.Windows.GridLength,DotaMasterWPF.dGame)">
+ <summary>
+ on list(of dataitem) for each subheading. Nothing List items will create a space in graph
+ </summary>
+ <param name="dataitems"></param>
+ <param name="subheadingtitles"></param>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.ctrlSummary_Graph.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSummary_Graph_Dual">
+<summary>
+ctrlSummary_Graph_Dual
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSummary_Graph_Dual.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.btnMinimalClick">
+<summary>
+btnMinimalClick
+</summary>
+</member>
+<member name="M:DotaMasterWPF.btnMinimalClick.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.btnMinimalState">
+<summary>
+btnMinimalState
+</summary>
+</member>
+<member name="M:DotaMasterWPF.btnMinimalState.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlPetStack">
+<summary>
+ctrlPetStack
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlPetStack.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlPetSummary">
+<summary>
+ctrlPetSummary
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlPetSummary.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlPet_Badge">
+<summary>
+ctrlPet_Badge
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlPet_Badge.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlBody_Paragraph">
+<summary>
+ctrlBody_Paragraph
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlBody_Paragraph.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSubHeading">
+<summary>
+ctrlSubHeading
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSubHeading.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlImageThumb">
+<summary>
+ctrlImageThumb
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlImageThumb.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlTooltip">
+<summary>
+ctrlTooltip
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlTooltip.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlVerticalSpacer">
+<summary>
+ctrlVerticalSpacer
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlVerticalSpacer.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlDataItemViewHorizontal">
+<summary>
+ctrlDataItemViewHorizontal
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlDataItemViewHorizontal.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlAbility_Details">
+<summary>
+ctrlAbility_Details
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlAbility_Details.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlDetailsHandler">
+<summary>
+ctrlDetailsHandler
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlDetailsHandler.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlHerovHeroDetails">
+<summary>
+ctrlHerovHeroDetails
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlHerovHeroDetails.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlHero_Details">
+<summary>
+ctrlHero_Details
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlHero_Details.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlItem_Details">
+<summary>
+ctrlItem_Details
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlItem_Details.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlModifierDetails">
+<summary>
+ctrlModifierDetails
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlModifierDetails.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlStat_Details">
+<summary>
+ctrlStat_Details
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlStat_Details.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlTeamvTeamDetails">
+<summary>
+ctrlTeamvTeamDetails
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlTeamvTeamDetails.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlTeam_Details">
+<summary>
+ctrlTeam_Details
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlTeam_Details.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlBuild_List_Item">
+<summary>
+ctrlBuild_List_Item
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlBuild_List_Item.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlHero_Badge">
+<summary>
+ctrlHero_Badge
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlHero_Badge.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlHero_List_Item">
+<summary>
+ctrlHero_List_Item
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlHero_List_Item.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlHero_Menu">
+<summary>
+ctrlHero_Menu
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlHero_Menu.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlHero_Menu_Item">
+<summary>
+ctrlHero_Menu_Item
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlHero_Menu_Item.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlHero_Thumb">
+<summary>
+ctrlHero_Thumb
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlHero_Thumb.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlHero_Tooltip">
+<summary>
+ctrlHero_Tooltip
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlHero_Tooltip.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlStatBadge">
+<summary>
+ctrlStatBadge
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlStatBadge.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlUnit_Menu_Item_Name">
+<summary>
+ctrlUnit_Menu_Item_Name
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlUnit_Menu_Item_Name.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlItemThumbPicker_Tootip">
+<summary>
+ctrlItemThumbPicker_Tootip
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlItemThumbPicker_Tootip.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlitem_List_Item">
+<summary>
+ctrlitem_List_Item
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlitem_List_Item.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlItem_Menu">
+<summary>
+ctrlItem_Menu
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlItem_Menu.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlItem_MenuItem">
+<summary>
+ctrlItem_MenuItem
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlItem_MenuItem.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlItem_MenuPage">
+<summary>
+ctrlItem_MenuPage
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlItem_MenuPage.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlItem_Thumb">
+<summary>
+ctrlItem_Thumb
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlItem_Thumb.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlItem_Thumb_Picker_3">
+<summary>
+ctrlItem_Thumb_Picker_3
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlItem_Thumb_Picker_3.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlItem_Thumb_Stash">
+<summary>
+ctrlItem_Thumb_Stash
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlItem_Thumb_Stash.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlItem_Tooltip">
+<summary>
+ctrlItem_Tooltip
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlItem_Tooltip.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlItem_Tooltip_Icon">
+<summary>
+ctrlItem_Tooltip_Icon
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlItem_Tooltip_Icon.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlHeadingLabel">
+<summary>
+ctrlHeadingLabel
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlHeadingLabel.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlIconStatLabel">
+<summary>
+ctrlIconStatLabel
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlIconStatLabel.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSwatchDataItemLabelDual">
+<summary>
+ctrlSwatchDataItemLabelDual
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSwatchDataItemLabelDual.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlModTinyDetailsLabel">
+<summary>
+ctrlModTinyDetailsLabel
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlModTinyDetailsLabel.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlStatLabel">
+<summary>
+ctrlStatLabel
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlStatLabel.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSwatchMinimalLarge">
+<summary>
+ctrlSwatchMinimalLarge
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSwatchMinimalLarge.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSwatchMinimalSmall">
+<summary>
+ctrlSwatchMinimalSmall
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSwatchMinimalSmall.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSwatchRoundMinimalLarge">
+<summary>
+ctrlSwatchRoundMinimalLarge
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSwatchRoundMinimalLarge.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlSwatchRoundMinimalSmall">
+<summary>
+ctrlSwatchRoundMinimalSmall
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlSwatchRoundMinimalSmall.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlHorizontalLine">
+<summary>
+ctrlHorizontalLine
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlHorizontalLine.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.LoadingScreen">
+<summary>
+LoadingScreen
+</summary>
+</member>
+<member name="M:DotaMasterWPF.LoadingScreen.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlModText">
+<summary>
+ctrlModText
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlModText.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlNavigationBar">
+<summary>
+ctrlNavigationBar
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlNavigationBar.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlNavigation_Menu_Item">
+<summary>
+ctrlNavigation_Menu_Item
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlNavigation_Menu_Item.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlTargetBadge">
+<summary>
+ctrlTargetBadge
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlTargetBadge.UpdateTargets(DotaMasterWPF.iGameEntity,DotaMasterWPF.iGameEntity,System.Boolean)">
+ <summary>
+ called when we are receiving new targets, so no raiseevent TargetsChanged
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.ctrlTargetBadge.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlTarget_Menu_Item">
+<summary>
+ctrlTarget_Menu_Item
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlTarget_Menu_Item.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.TeamvsTeam">
+<summary>
+TeamvsTeam
+</summary>
+</member>
+<member name="M:DotaMasterWPF.TeamvsTeam.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlTime_Display_Horizontal">
+<summary>
+ctrlTime_Display_Horizontal
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlTime_Display_Horizontal.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:DotaMasterWPF.ctrlText_Tooltip">
+<summary>
+ctrlText_Tooltip
+</summary>
+</member>
+<member name="M:DotaMasterWPF.ctrlText_Tooltip.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:DotaMasterWPF.Helpers.GetActiveAuraAlliedUnitsandSelfInfo(DotaMasterWPF.IUnitUpgrade,DotaMasterWPF.iDisplayUnit,DotaMasterWPF.iDisplayUnit,System.String,DotaMasterWPF.eModifierCategory)">
+ <summary>
+ needed for Enchantress Nature's Attendant since self needs to be part of random target pool
+ </summary>
+ <param name="thesource"></param>
+ <param name="theowner"></param>
+ <param name="thetarget"></param>
+ <param name="thenotes"></param>
+ <param name="themodcategory"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.Helpers.GetNoTargetControlledUnitsInfo(DotaMasterWPF.IUnitUpgrade,DotaMasterWPF.iDisplayUnit,DotaMasterWPF.iDisplayUnit,System.String,DotaMasterWPF.eModifierCategory)">
+ <summary>
+ specifically, units controlled ONLY by the modifiers Owner
+ </summary>
+ <param name="thesource"></param>
+ <param name="theowner"></param>
+ <param name="thetarget"></param>
+ <param name="thenotes"></param>
+ <param name="themodcategory"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.Helpers.GetNoTargetAlliedTeamInfo(DotaMasterWPF.IUnitUpgrade,DotaMasterWPF.iDisplayUnit,DotaMasterWPF.iDisplayUnit,System.String,DotaMasterWPF.eModifierCategory)">
+ <summary>
+ includes all heroes and player controlled units
+ </summary>
+ <param name="thesource"></param>
+ <param name="theowner"></param>
+ <param name="thetarget"></param>
+ <param name="thenotes"></param>
+ <param name="themodcategory"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.Helpers.GetPassiveAuraControlledUnitsInfo(DotaMasterWPF.IUnitUpgrade,DotaMasterWPF.iDisplayUnit,DotaMasterWPF.iDisplayUnit,System.String,DotaMasterWPF.eModifierCategory)">
+ <summary>
+ only affects units controlled by Owner, not all controlled units
+ </summary>
+ <param name="thesource"></param>
+ <param name="theowner"></param>
+ <param name="thetarget"></param>
+ <param name="thenotes"></param>
+ <param name="themodcategory"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.HeroInstance.GetUpgradableAbilitiesByLevel(System.Int32)">
+ <summary>
+ returns a list of all apgradable abilites for a herolevel
+ </summary>
+ <param name="herolevel"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.ModFilters.GetModifierValueAtTime(DotaMasterWPF.Modifier,DotaMasterWPF.ddFrame,DotaMasterWPF.dvID,DotaMasterWPF.dGame)">
+ <summary>
+ takes care of special case mods that need info at runtime to determine their value
+ </summary>
+ <param name="themod"></param>
+ <param name="thetime"></param>
+ <param name="theownerid"></param>
+ <param name="thegame"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.dTeam.AddHeroInstance(DotaMasterWPF.HeroInstance,System.Int32)">
+ <summary>
+ Heroposition is zero based
+ </summary>
+</member>
+<member name="P:DotaMasterWPF.TimeKeeper.CurrentTimeIndex">
+ <summary>
+ index of the current ddframe, for use with graph.updatetime(bar as index)
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.AbilityBase.AbilityLevelsAt">
+ <summary>
+ The Hero Levels at which each of the ability levels become available. 
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.Ability_Info.LoadStates(System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String})">
+ <summary>
+ pass in nothing for thestateimgurls if all states use default image url
+ </summary>
+ <param name="thestates"></param>
+ <param name="thestateimgurls"></param>
+ <remarks></remarks>
+ 
+</member>
+<member name="T:DotaMasterWPF.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:DotaMasterWPF.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:DotaMasterWPF.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="F:DotaMasterWPF.HeroBundle.mBaseMagicResistance">
+ <summary>
+  http://dota2.gamepedia.com/Armor
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:DotaMasterWPF.Colors_Database.AccentedColor">
+ <summary>
+ for things like creeps selected tab on ctrlherobadge
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.Creeps_and_Pets_Database.GetNewCreepInfo(DotaMasterWPF.eCreepName,System.Int32,DotaMasterWPF.iGameEntity,DotaMasterWPF.Lifetime,DotaMasterWPF.ValueWrapper,DotaMasterWPF.ValueWrapper,DotaMasterWPF.iDisplayUnit,DotaMasterWPF.iDisplayUnit,System.Boolean,DotaMasterWPF.dGame)">
+ <summary>
+ 
+ </summary>
+ <param name="thecreepname"></param>
+ <param name="creeplevel"></param>
+ <param name="theparent"></param>
+ <param name="thelifetime"></param>
+ <param name="thecreepexistsatlvls">sets at what ability/creep/item level(s) that the creep exists at. If Nothing, then exists at all levels</param>
+ <returns>sets the additional or different creeps that exist when you have aghs scepter</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.ValueWrapper.#ctor(System.Collections.Generic.List{System.Nullable{System.Double}})">
+ <summary>
+ maximum of 4 items for thevals
+ </summary>
+ <param name="thevals"></param>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.ValueWrapper.LoadScepterValues(System.Collections.Generic.List{System.Nullable{System.Double}})">
+ <summary>
+ maximum of 4 items for thevals
+ </summary>
+ <param name="thevals"></param>
+ <remarks></remarks>
+</member>
+<member name="P:DotaMasterWPF.dGame.HeroTeamUnits">
+ <summary>
+ 0: radiant, 1:Dire
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="F:DotaMasterWPF.Hero.mBaseMagicResistance">
+ <summary>
+  http://dota2.gamepedia.com/Armor
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DotaMasterWPF.Hero.mBasePeriodicUnreliableGoldperMinute">
+ <summary>
+ The gold received automatically per minute http://dota2.gamepedia.com/Gold
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DotaMasterWPF.Hero.mUnreliableGoldperMinute">
+ <summary>
+ May use this to simulate average gpm since we can't know exaclty when and what the hero kills
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DotaMasterWPF.Hero.mReliableGoldperMinute">
+ <summary>
+ May use this to simulate average gpm since we can't know exaclty when and what the hero kills
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.HeroBuild_Database.WriteBuildToDisc(DotaMasterWPF.Build,System.String,DotaMasterWPF.dvID,DotaMasterWPF.dvID,DotaMasterWPF.dvID)">
+ <summary>
+ new dvID is only changed if we are writing a clone, set as nothing uses thebuild.id
+ </summary>
+ <param name="thebuild"></param>
+ <param name="thefolder"></param>
+ <param name="thenewdvID"></param>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.HeroBuild_Database.GetHeroBuild(System.Int32)">
+ <summary>
+ returns nothing if id is not in database
+ </summary>
+ <param name="thebuildindex"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="F:DotaMasterWPF.UnitBase.mIncomingModifiers">
+ <summary>
+ Represents the list of modifiers for the abilities and Auros from sources other than the unit itself
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DotaMasterWPF.UnitBase.mPersonalModifiers">
+ <summary>
+ Represents the modifiers that the unit itself generates (buffs, debuffs, Lifetaps, manataps)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:DotaMasterWPF.Item_Info.LoadStates(System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String})">
+ <summary>
+ pass in nothing for thestateimgurls if all states use default image url
+ </summary>
+ <param name="thestates"></param>
+ <param name="thestateimgurls"></param>
+ <remarks></remarks>
+</member>
+<member name="T:DotaMasterWPF.PageHandler">
+<summary>
+PageHandler
+</summary>
+</member>
+<member name="M:DotaMasterWPF.PageHandler.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:DotaMasterWPF.Modifier.Value(DotaMasterWPF.ddFrame)">
+ <summary>
+ us attime = nothing for mods that don't contain a valuelist
+ </summary>
+ <param name="attime">TimeKeerper.Time for valuelist mods, Nothing for all others</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="F:DotaMasterWPF.modValue.mValueDuration">
+ <summary>
+ values in seconds
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DotaMasterWPF.modValue.mValueInterval">
+ <summary>
+ values in seconds
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:DotaMasterWPF.modValue.Value(DotaMasterWPF.ddFrame)">
+ <summary>
+ return -1 if there is no associated value for the time. 0 for duration values denotes it lasts for entire lifetime
+ </summary>
+ <param name="thetime"></param>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

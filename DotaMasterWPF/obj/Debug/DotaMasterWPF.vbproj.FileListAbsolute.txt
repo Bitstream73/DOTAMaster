@@ -1,0 +1,501 @@
+C:\Users\Jakob\AppData\Local\Temporary Projects\DotaMasterWPF\bin\Debug\DotaMasterWPF.exe.config
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Debug\DotaMasterWPF.exe.config
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\PageHandler.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\PageHandler.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Application.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\DotaMasterWPF_Content.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\DotaMasterWPF_MarkupCompile.cache
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\DotaMasterWPF.g.resources
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\DotaMasterWPF.Resources.resources
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\DotaMasterWPF.vbproj.GenerateResource.Cache
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbilityThumbSimple2.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_List_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_Thumb_Picker.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_Tooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBar.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBargraph_Panes_Fixedwidth.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlGraphPane.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlHScale.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlHScaleLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlVScale.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlVScaleLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Buttons\btnMinimalClick.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Buttons\btnMinimalState.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlCreepStack.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlCreepSummary.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlCreep_Badge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\ctrlBody_Paragraph.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\ctrlHeading_2.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\ctrlImageThumb.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\ctrlModDetails.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\ctrlTooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\ctrlVerticalSpacer.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Details\ctrlAbility_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Details\ctrlBar_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Details\ctrlGeneric_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Details\ctrlItem_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlBuild_List_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Badge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_List_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Menu.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Menu_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlStatBadge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlUnit_Menu_Item_Name.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItemThumbPicker_Tootip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlitem_List_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Menu.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_MenuItem.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_MenuPage.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb_Picker_3.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb_Stash.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Tooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Tooltip_Icon.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlHeadingLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlIconStatLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlModTinyDetailsLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlStatLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Modifiers\ctrlModText.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Targetting\ctrlTargetBadge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Tooltips\ctrlText_Tooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbilityThumbSimple2.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_List_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_Thumb_Picker.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_Tooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBar.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBargraph_Panes_Fixedwidth.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlGraphPane.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlHScale.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlHScaleLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlVScale.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlVScaleLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Buttons\btnMinimalClick.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Buttons\btnMinimalState.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlCreepStack.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlCreepSummary.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlCreep_Badge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\ctrlBody_Paragraph.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\ctrlHeading_2.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\ctrlImageThumb.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\ctrlModDetails.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\ctrlTooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\ctrlVerticalSpacer.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Details\ctrlAbility_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Details\ctrlBar_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Details\ctrlGeneric_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Details\ctrlItem_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlBuild_List_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Badge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_List_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Menu.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Menu_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlStatBadge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlUnit_Menu_Item_Name.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItemThumbPicker_Tootip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlitem_List_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Menu.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_MenuItem.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_MenuPage.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb_Picker_3.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb_Stash.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Tooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Tooltip_Icon.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlHeadingLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlIconStatLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlModTinyDetailsLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlStatLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Modifiers\ctrlModText.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Targetting\ctrlTargetBadge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Tooltips\ctrlText_Tooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbilityThumb.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Thumb.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\DotaMasterWPF_MarkupCompile.lref
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Tooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Debug\Assets\DotaMasterGradient2.png
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Debug\DotaMasterWPF.exe
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Debug\DotaMasterWPF.pdb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Debug\DotaMasterWPF.xml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbilityThumb.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Thumb.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Tooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\DotaMasterWPF.exe
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\DotaMasterWPF.xml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\DotaMasterWPF.pdb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\TeamvsTeam.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\TeamvsTeam.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\LoadingScreen.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\Controls\LoadingScreen.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Debug\DotaMasterWPF.exe.manifest
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Debug\DotaMasterWPF.application
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\DotaMasterWPF.exe.manifest
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Debug\DotaMasterWPF.application
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Debug\Assets\missingimage.jpg
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\bin\Debug\Assets\missingimage.jpg
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\bin\Debug\Assets\DotaMasterGradient2.png
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\bin\Debug\DotaMasterWPF.exe
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbilityThumbSimple2.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_List_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_Thumb_Picker.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_Tooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Appearance\ctrlBadgeAppearance.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBar.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBargraph_Panes_Fixedwidth.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBar_Type.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlChart_Type.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlGraphPane.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlHScale.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlHScaleLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlVScale.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlVScaleLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Buttons\btnMinimalClick.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Buttons\btnMinimalState.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlPetStack.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlPetSummary.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlPet_Badge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlBody_Paragraph.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlImageThumb.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlTooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlVerticalSpacer.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlAbility_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlHerovHeroDetails.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlHero_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlItem_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlTeamvTeamDetails.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlBuild_List_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Badge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_List_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Menu.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Menu_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlStatBadge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlUnit_Menu_Item_Name.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItemThumbPicker_Tootip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlitem_List_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Menu.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_MenuItem.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_MenuPage.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb_Picker_3.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb_Stash.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Tooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Tooltip_Icon.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlHeadingLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlIconStatLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlModTinyDetailsLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlStatLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\LayoutElements\ctrlHorizontalLine.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\LoadingScreen.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Modifiers\ctrlModText.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Navigation\ctrlNavigationBar.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Navigation\ctrlNavigation_Menu_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Targetting\ctrlTargetBadge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Time\ctrlTime_Display_Horizontal.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Tooltips\ctrlText_Tooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\PageHandler.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbilityThumbSimple2.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_List_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_Thumb_Picker.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_Tooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbilityThumb.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Appearance\ctrlBadgeAppearance.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBar.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBargraph_Panes_Fixedwidth.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBar_Type.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlChart_Type.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlGraphPane.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlHScale.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlHScaleLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlVScale.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlVScaleLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Buttons\btnMinimalClick.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Buttons\btnMinimalState.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlPetStack.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlPetSummary.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlPet_Badge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlBody_Paragraph.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlImageThumb.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlTooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlVerticalSpacer.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlAbility_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlHerovHeroDetails.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlHero_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlItem_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlTeamvTeamDetails.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlBuild_List_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Badge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_List_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Menu.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Menu_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Thumb.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Tooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlStatBadge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlUnit_Menu_Item_Name.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItemThumbPicker_Tootip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlitem_List_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Menu.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_MenuItem.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_MenuPage.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb_Picker_3.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb_Stash.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Tooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Tooltip_Icon.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlHeadingLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlIconStatLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlModTinyDetailsLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlStatLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\LayoutElements\ctrlHorizontalLine.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\LoadingScreen.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Modifiers\ctrlModText.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Navigation\ctrlNavigationBar.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Navigation\ctrlNavigation_Menu_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Targetting\ctrlTargetBadge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\TeamvsTeam.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Time\ctrlTime_Display_Horizontal.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Tooltips\ctrlText_Tooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\PageHandler.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Application.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF_Content.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF_MarkupCompile.cache
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF_MarkupCompile.lref
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbilityThumb.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Thumb.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Tooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\TeamvsTeam.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.g.resources
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.Resources.resources
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.vbproj.GenerateResource.Cache
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.exe.manifest
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.application
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.exe
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.xml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.pdb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\bin\Debug\DotaMasterWPF.exe.config
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\bin\Debug\DotaMasterWPF.exe.manifest
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\bin\Debug\DotaMasterWPF.application
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\bin\Debug\DotaMasterWPF.pdb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\bin\Debug\DotaMasterWPF.xml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Targetting\ctrlTarget_Menu_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Targetting\ctrlTarget_Menu_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlDetailsHandler.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlModifierDetails.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlStat_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlTeam_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlDetailsHandler.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlModifierDetails.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlStat_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlTeam_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchMinimalLarge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchMinimalSmall.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchMinimalLarge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchMinimalSmall.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchRoundMinimalLarge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchRoundMinimalSmall.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchRoundMinimalLarge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchRoundMinimalSmall.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\DataItem Views\ctrlDataItemViewHorizontal.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\DataItem Views\ctrlDataItemViewHorizontal.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlSubHeading.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlSubHeading.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSelectedDataitemViewer.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummaryBar.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummary_Graph.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummary_Graph_Dual.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchDataItemLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSelectedDataitemViewer.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummary.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummaryBar.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummary_Graph.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummary_Graph_Dual.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwacthDataitemLabelDual.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchDataItemLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummary.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwacthDataitemLabelDual.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSelectedDataitemDualViewer.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummaryBarDual.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSelectedDataitemDualViewer.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummaryBarDual.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummaryDual.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummaryDual.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.vbproj.AssemblyReference.cache
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.vbproj.SuggestedBindingRedirects.cache
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbilityThumbSimple2.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_List_Item.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_Thumb_Picker.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_Tooltip.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Appearance\ctrlBadgeAppearance.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBar.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBar_Type.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlChart_Type.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlGraphPane.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlHScale.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlHScaleLabel.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlVScale.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlVScaleLabel.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSelectedDataitemDualViewer.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSelectedDataitemViewer.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummaryBarDual.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummaryBar.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummary_Graph.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummary_Graph_Dual.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Buttons\btnMinimalClick.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Buttons\btnMinimalState.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlPetStack.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlPetSummary.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlPet_Badge.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlBody_Paragraph.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlSubHeading.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlImageThumb.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlTooltip.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlVerticalSpacer.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\DataItem Views\ctrlDataItemViewHorizontal.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlDetailsHandler.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlBuild_List_Item.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Badge.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_List_Item.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Menu.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Menu_Item.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlStatBadge.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlUnit_Menu_Item_Name.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItemThumbPicker_Tootip.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlitem_List_Item.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Menu.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_MenuItem.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_MenuPage.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb_Picker_3.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb_Stash.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Tooltip.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Tooltip_Icon.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlHeadingLabel.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlIconStatLabel.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlModTinyDetailsLabel.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlStatLabel.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchMinimalLarge.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchMinimalSmall.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchRoundMinimalLarge.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchRoundMinimalSmall.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\LayoutElements\ctrlHorizontalLine.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\LoadingScreen.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Modifiers\ctrlModText.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Navigation\ctrlNavigationBar.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Targetting\ctrlTargetBadge.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Targetting\ctrlTarget_Menu_Item.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Time\ctrlTime_Display_Horizontal.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Tooltips\ctrlText_Tooltip.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\PageHandler.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbilityThumbSimple2.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_List_Item.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_Thumb_Picker.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbility_Tooltip.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbilityThumb.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Appearance\ctrlBadgeAppearance.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBar.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBargraph_Panes_Fixedwidth.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBar_Type.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlChart_Type.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlGraphPane.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlHScale.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlHScaleLabel.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlVScale.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlVScaleLabel.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchDataItemLabel.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSelectedDataitemDualViewer.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSelectedDataitemViewer.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummaryBarDual.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummary.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummaryBar.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummaryDual.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummary_Graph.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummary_Graph_Dual.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Buttons\btnMinimalClick.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Buttons\btnMinimalState.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlPetStack.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlPetSummary.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Creeps\ctrlPet_Badge.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlBody_Paragraph.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlSubHeading.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlImageThumb.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlTooltip.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\ctrlVerticalSpacer.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\DataItem Views\ctrlDataItemViewHorizontal.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlAbility_Details.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlDetailsHandler.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlHerovHeroDetails.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlHero_Details.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlItem_Details.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlModifierDetails.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlStat_Details.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlTeamvTeamDetails.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlTeam_Details.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlBuild_List_Item.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Badge.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_List_Item.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Menu.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Menu_Item.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Thumb.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Tooltip.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlStatBadge.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlUnit_Menu_Item_Name.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItemThumbPicker_Tootip.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlitem_List_Item.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Menu.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_MenuItem.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_MenuPage.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb_Picker_3.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb_Stash.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Tooltip.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Tooltip_Icon.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlHeadingLabel.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlIconStatLabel.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwacthDataitemLabelDual.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlModTinyDetailsLabel.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlStatLabel.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchMinimalLarge.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchMinimalSmall.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchRoundMinimalLarge.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchRoundMinimalSmall.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\LayoutElements\ctrlHorizontalLine.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\LoadingScreen.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Modifiers\ctrlModText.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Navigation\ctrlNavigationBar.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Navigation\ctrlNavigation_Menu_Item.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Targetting\ctrlTargetBadge.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Targetting\ctrlTarget_Menu_Item.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\TeamvsTeam.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Time\ctrlTime_Display_Horizontal.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Tooltips\ctrlText_Tooltip.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\PageHandler.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Application.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF_Content.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\GeneratedInternalTypeHelper.g.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF_MarkupCompile.cache
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF_MarkupCompile.lref
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Abilities\ctrlAbilityThumb.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Bar Graph\ctrlBargraph_Panes_Fixedwidth.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwatchDataItemLabel.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummary.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Summary Panel\ctrlSummaryDual.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlAbility_Details.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlHerovHeroDetails.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlHero_Details.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlItem_Details.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlModifierDetails.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlStat_Details.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlTeamvTeamDetails.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Details\ctrlTeam_Details.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Thumb.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Heroes\ctrlHero_Tooltip.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Items\ctrlItem_Thumb.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Labels\ctrlSwacthDataitemLabelDual.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\Navigation\ctrlNavigation_Menu_Item.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\Controls\TeamvsTeam.baml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.g.resources
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.Resources.resources
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.vbproj.GenerateResource.cache
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.vbproj.CoreCompileInputs.cache
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.exe
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.xml
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\DotaMasterWPF.pdb

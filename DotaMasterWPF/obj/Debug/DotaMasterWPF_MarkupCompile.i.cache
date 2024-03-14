@@ -1,0 +1,20 @@
+﻿DotaMasterWPF
+
+
+winexe
+VB
+.vb
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\obj\Debug\
+DotaMasterWPF
+none
+false
+
+E:\Dev Stuff\backups\DotaMasterWPF - Clean UI\DotaMasterWPF\Application.xaml
+831973092739
+2558304891
+91745337050
+11167848441
+Controls\Abilities\ctrlAbilityThumbSimple2.xaml;Controls\Abilities\ctrlAbility_List_Item.xaml;Controls\Abilities\ctrlAbility_Thumb_Picker.xaml;Controls\Abilities\ctrlAbility_Tooltip.xaml;Controls\Abilities\ctrlAbilityThumb.xaml;Controls\Appearance\ctrlBadgeAppearance.xaml;Controls\Bar Graph\ctrlBar.xaml;Controls\Bar Graph\ctrlBargraph_Panes_Fixedwidth.xaml;Controls\Bar Graph\ctrlBar_Type.xaml;Controls\Bar Graph\ctrlChart_Type.xaml;Controls\Bar Graph\ctrlGraphPane.xaml;Controls\Bar Graph\ctrlHScale.xaml;Controls\Bar Graph\ctrlHScaleLabel.xaml;Controls\Bar Graph\ctrlVScale.xaml;Controls\Bar Graph\ctrlVScaleLabel.xaml;Controls\Labels\ctrlSwatchDataItemLabel.xaml;Controls\Summary Panel\ctrlSelectedDataitemDualViewer.xaml;Controls\Summary Panel\ctrlSelectedDataitemViewer.xaml;Controls\Summary Panel\ctrlSummaryBarDual.xaml;Controls\Summary Panel\ctrlSummary.xaml;Controls\Summary Panel\ctrlSummaryBar.xaml;Controls\Summary Panel\ctrlSummaryDual.xaml;Controls\Summary Panel\ctrlSummary_Graph.xaml;Controls\Summary Panel\ctrlSummary_Graph_Dual.xaml;Controls\Buttons\btnMinimalClick.xaml;Controls\Buttons\btnMinimalState.xaml;Controls\Creeps\ctrlPetStack.xaml;Controls\Creeps\ctrlPetSummary.xaml;Controls\Creeps\ctrlPet_Badge.xaml;Controls\ctrlBody_Paragraph.xaml;Controls\ctrlSubHeading.xaml;Controls\ctrlImageThumb.xaml;Controls\ctrlTooltip.xaml;Controls\ctrlVerticalSpacer.xaml;Controls\DataItem Views\ctrlDataItemViewHorizontal.xaml;Controls\Details\ctrlAbility_Details.xaml;Controls\Details\ctrlDetailsHandler.xaml;Controls\Details\ctrlHerovHeroDetails.xaml;Controls\Details\ctrlHero_Details.xaml;Controls\Details\ctrlItem_Details.xaml;Controls\Details\ctrlModifierDetails.xaml;Controls\Details\ctrlStat_Details.xaml;Controls\Details\ctrlTeamvTeamDetails.xaml;Controls\Details\ctrlTeam_Details.xaml;Controls\Heroes\ctrlBuild_List_Item.xaml;Controls\Heroes\ctrlHero_Badge.xaml;Controls\Heroes\ctrlHero_List_Item.xaml;Controls\Heroes\ctrlHero_Menu.xaml;Controls\Heroes\ctrlHero_Menu_Item.xaml;Controls\Heroes\ctrlHero_Thumb.xaml;Controls\Heroes\ctrlHero_Tooltip.xaml;Controls\Heroes\ctrlStatBadge.xaml;Controls\Heroes\ctrlUnit_Menu_Item_Name.xaml;Controls\Items\ctrlItemThumbPicker_Tootip.xaml;Controls\Items\ctrlitem_List_Item.xaml;Controls\Items\ctrlItem_Menu.xaml;Controls\Items\ctrlItem_MenuItem.xaml;Controls\Items\ctrlItem_MenuPage.xaml;Controls\Items\ctrlItem_Thumb.xaml;Controls\Items\ctrlItem_Thumb_Picker_3.xaml;Controls\Items\ctrlItem_Thumb_Stash.xaml;Controls\Items\ctrlItem_Tooltip.xaml;Controls\Items\ctrlItem_Tooltip_Icon.xaml;Controls\Labels\ctrlHeadingLabel.xaml;Controls\Labels\ctrlIconStatLabel.xaml;Controls\Labels\ctrlSwacthDataitemLabelDual.xaml;Controls\Labels\ctrlModTinyDetailsLabel.xaml;Controls\Labels\ctrlStatLabel.xaml;Controls\Labels\ctrlSwatchMinimalLarge.xaml;Controls\Labels\ctrlSwatchMinimalSmall.xaml;Controls\Labels\ctrlSwatchRoundMinimalLarge.xaml;Controls\Labels\ctrlSwatchRoundMinimalSmall.xaml;Controls\LayoutElements\ctrlHorizontalLine.xaml;Controls\LoadingScreen.xaml;Controls\Modifiers\ctrlModText.xaml;Controls\Navigation\ctrlNavigationBar.xaml;Controls\Navigation\ctrlNavigation_Menu_Item.xaml;Controls\Targetting\ctrlTargetBadge.xaml;Controls\Targetting\ctrlTarget_Menu_Item.xaml;Controls\TeamvsTeam.xaml;Controls\Time\ctrlTime_Display_Horizontal.xaml;Controls\Tooltips\ctrlText_Tooltip.xaml;PageHandler.xaml;
+
+False
+

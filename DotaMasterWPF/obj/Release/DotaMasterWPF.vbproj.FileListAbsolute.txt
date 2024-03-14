@@ -1,0 +1,135 @@
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Release\DotaMasterWPF.exe.config
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Release\Assets\missingimage.jpg
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Release\Assets\DotaMasterGradient2.png
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Release\DotaMasterWPF.exe.manifest
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Release\DotaMasterWPF.application
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Release\DotaMasterWPF.exe
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Release\DotaMasterWPF.pdb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\bin\Release\DotaMasterWPF.xml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Abilities\ctrlAbilityThumbSimple2.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Abilities\ctrlAbility_List_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Abilities\ctrlAbility_Thumb_Picker.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Abilities\ctrlAbility_Tooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlBar.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlBargraph_Panes_Fixedwidth.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlBar_Group.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlGraphPane.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlHScale.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlHScaleLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlVScale.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlVScaleLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Buttons\btnMinimalClick.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Buttons\btnMinimalState.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Creeps\ctrlCreepStack.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Creeps\ctrlCreepSummary.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Creeps\ctrlCreep_Badge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\ctrlBody_Paragraph.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\ctrlHeading_2.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\ctrlImageThumb.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\ctrlModDetails.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\ctrlTooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\ctrlVerticalSpacer.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Details\ctrlAbility_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Details\ctrlBar_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Details\ctrlGeneric_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Details\ctrlItem_Details.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlBuild_List_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlHero_Badge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlHero_List_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlHero_Menu.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlHero_Menu_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlStatBadge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlUnit_Menu_Item_Name.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItemThumbPicker_Tootip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlitem_List_Item.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_Menu.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_MenuItem.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_MenuPage.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_Thumb_Picker_3.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_Thumb_Stash.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_Tooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_Tooltip_Icon.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Labels\ctrlHeadingLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Labels\ctrlIconStatLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Labels\ctrlModTinyDetailsLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Labels\ctrlStatLabel.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\LoadingScreen.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Modifiers\ctrlModText.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Targetting\ctrlTargetBadge.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\TeamvsTeam.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Tooltips\ctrlText_Tooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\PageHandler.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Abilities\ctrlAbilityThumbSimple2.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Abilities\ctrlAbility_List_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Abilities\ctrlAbility_Thumb_Picker.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Abilities\ctrlAbility_Tooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Abilities\ctrlAbilityThumb.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlBar.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlBargraph_Panes_Fixedwidth.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlBar_Group.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlGraphPane.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlHScale.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlHScaleLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlVScale.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Bar Graph\ctrlVScaleLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Buttons\btnMinimalClick.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Buttons\btnMinimalState.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Creeps\ctrlCreepStack.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Creeps\ctrlCreepSummary.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Creeps\ctrlCreep_Badge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\ctrlBody_Paragraph.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\ctrlHeading_2.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\ctrlImageThumb.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\ctrlModDetails.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\ctrlTooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\ctrlVerticalSpacer.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Details\ctrlAbility_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Details\ctrlBar_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Details\ctrlGeneric_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Details\ctrlItem_Details.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlBuild_List_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlHero_Badge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlHero_List_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlHero_Menu.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlHero_Menu_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlHero_Thumb.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlHero_Tooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlStatBadge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlUnit_Menu_Item_Name.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItemThumbPicker_Tootip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlitem_List_Item.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_Menu.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_MenuItem.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_MenuPage.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_Thumb.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_Thumb_Picker_3.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_Thumb_Stash.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_Tooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_Tooltip_Icon.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Labels\ctrlHeadingLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Labels\ctrlIconStatLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Labels\ctrlModTinyDetailsLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Labels\ctrlStatLabel.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\LoadingScreen.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Modifiers\ctrlModText.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Targetting\ctrlTargetBadge.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\TeamvsTeam.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Tooltips\ctrlText_Tooltip.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\PageHandler.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Application.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\DotaMasterWPF_Content.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\GeneratedInternalTypeHelper.g.vb
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\DotaMasterWPF_MarkupCompile.cache
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\DotaMasterWPF_MarkupCompile.lref
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Abilities\ctrlAbilityThumb.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlHero_Thumb.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Heroes\ctrlHero_Tooltip.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\Controls\Items\ctrlItem_Thumb.baml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\DotaMasterWPF.g.resources
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\DotaMasterWPF.Resources.resources
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\DotaMasterWPF.vbproj.GenerateResource.Cache
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\DotaMasterWPF.exe.manifest
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\DotaMasterWPF.application
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\DotaMasterWPF.exe
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\DotaMasterWPF.xml
+C:\Users\Jakob\My Lockbox\backups\DotaMasterWPF\DotaMasterWPF\obj\Release\DotaMasterWPF.pdb
